@@ -8,7 +8,7 @@ Au contraire de la plupart des plateformes existantes aujourd'hui, Claroline Con
 
 La documentation du projet sur GitBook a démarré en novembre 2016 avec ce qui existait pour la version 5._x_ de la plateforme. Nous savons qu'elle est incomplète, mais elle a le mérite d'exister. Il n'existe qu'une version en français de cette documentation finalisée en décembre 2016.
 
-Nous rédigeons pour l'instant la documentation de la **version 17.06** qui, comme son nom l'indique, comblera les manquements de la version 5._x_ et les expliquera les nouveautés de la version 17.06. L'objectif est de rédiger une documentation complète qui sortira en même temps que la version du même nom du logiciel. Nous avons l'intention de faire appel à la communauté des utilisateurs pour la traduire par après dans différentes langues, à commencer par l'anglais.
+Nous rédigeons pour l'instant la documentation de la **version 17.06** qui, comme son nom l'indique, comblera les manquements de la version 5._x_ et abordera les nouveautés de la version 17.06. L'objectif est de rédiger une documentation complète qui sortira en même temps que la version du même nom du logiciel. Nous avons l'intention de faire appel à la communauté des utilisateurs pour la traduire par après dans différentes langues, à commencer par l'anglais.
 
 Bonne lecture !
 
