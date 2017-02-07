@@ -6,7 +6,7 @@ Pour créer un article, il suffit de mentionner un titre \(facultatif\), et de c
 
 ![](images/fig157.png)
 
-<p style="text-align: center; color: blue">Figure 157 - Créer un article.</p>
+<p style="text-align: center; color: blue">Home Fig. 10 - Créer un article.</p>
 
 **Paramétrer l'article**
 
@@ -14,13 +14,13 @@ Pour paramétrer l'affichage de l'article une fois qu'il a été créé, il suff
 
 ![](images/fig158.png)
 
-<p style="text-align: center; color: blue">Figure 158 - Paramétrage d'un article.</p>
+<p style="text-align: center; color: blue">Home Fig. 11 - Paramétrage d'un article.</p>
 
 L'outil **Taille** permet de définir la largeur occupée par l'article sur une page. Le fait de cliquer sur l'encadré avec les deux "6" permettrait par exemple de mettre deux articles de même largeur côte à côte.
 
 ![](images/fig159.png)
 
-<p style="text-align: center; color: blue">Figure 159 - Paramétrage de la taille d'un article.</p>
+<p style="text-align: center; color: blue">Home Fig. 12 - Paramétrage de la taille d'un article.</p>
 
 L'outil **éditer** permet de modifier ou de mettre en forme l'article.
 
