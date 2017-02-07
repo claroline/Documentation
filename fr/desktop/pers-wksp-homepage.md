@@ -9,6 +9,8 @@ Vous savez que vous êtes sur votre espace personnel grâce à:
 
 [1] Il s'agit d'une succession de liens qui vous permettent de vous situer dans le niveau de profondeur d'une arborescence et de naviguer pour revenir à l'un des niveaux affichés.
 
+![](images/home-pers-wks.png)
+
 ![](images/fig16.png)
 
 <p style ="text-align: center; color: blue">Figure 16 - La page d'accueil de l'espace personnel</p>
