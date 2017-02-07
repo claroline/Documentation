@@ -21,13 +21,12 @@ En passant la souris sur la barre de menu de gauche, vous déployez une fenêtre
 
 ![](images/leftbar-menu.png)
 
-![](images/fig17.png)
 
 <p style ="text-align: center; color: blue">Figure 17 - La barre de menu de gauche</p>
 
   ** Voir en tant que** ![](images/1864.png) permet d'avoir un aperçu de l'espace d'activités tel que le voit un collaborateur (étudiant) ou un gestionnaire (enseignant ou le propriétaire de l'espace). Dès lors que l'on explore son espace d'activités en tant que collaborateur ou gestionnaire, l'en-tête de la page passe en couleur orange et indique "Vous êtes connecté en tant que … du workspace …".
 
-![](images/fig18.png)
+![](images/connected-as.png)
 
 Pour désactiver ce mode, il suffit de cliquer sur la **croix** en haut à droite du bandeau orange.
 
