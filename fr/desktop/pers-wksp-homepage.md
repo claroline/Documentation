@@ -13,13 +13,13 @@ Vous savez que vous êtes sur votre espace personnel grâce à:
 
 ![](images/home-pers-wks.png)
 
-![](images/fig16.png)
-
 <p style ="text-align: center; color: blue">Figure 16 - La page d'accueil de l'espace personnel</p>
 
 ** La barre de menu de gauche.**
 
 En passant la souris sur la barre de menu de gauche, vous déployez une fenêtre avec les références des outils.
+
+![](images/leftbar-menu.png)
 
 ![](images/fig17.png)
 
