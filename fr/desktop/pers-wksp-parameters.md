@@ -2,14 +2,14 @@
 
 ---
 
-Cliquez sur l'icône "**paramètres**" du menu de gauche de votre espace personnel. Il est composé de **4 éléments**:
+Cliquez sur l'icône "**Paramètres**" du menu de gauche de votre espace personnel. Il est composé de **4 éléments**:
 
 * **Général**
 * **Outils**
 * **Modèles**
 * **Ressources**
 
-![](images/fig25.png)
+![](images/wksp-settings.png)
 
 <p style ="text-align: center; color: blue">Figure 25 - Paramètres de votre espace personnel</p>
 
