@@ -18,7 +18,7 @@ Votre nouveau menu est ajouté à la suite des autres.
 
 ![](images/fig152.png)
 
-<p style="text-align: center; color: blue">Home Fig. 5 Résultat de l'ajout d'un menu.</p>
+<p style="text-align: center; color: blue">Home Fig. 5 - Résultat de l'ajout d'un menu.</p>
 
 Vous pouvez désormais lui ajouter du contenu, c'est-à-dire des liens vers d'autres sites web ou vers les pages que vous allez créer sur votre plateforme ou qui y sont déjà présentes.
 
