@@ -11,7 +11,7 @@ Vous savez que vous êtes sur votre espace personnel grâce à:
 
 <p style="color: red">Corriger image ci-dessous avec les indications de l'image suivante à supprimer après coup.</p>
 
-![](/fr/workspaces/images/home-pers-wks.png)
+![](images/home-pers-wks.png)
 
 ![](images/fig16.png)
 
