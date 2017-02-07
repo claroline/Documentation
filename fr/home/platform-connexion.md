@@ -4,7 +4,7 @@
 
 Pour vous connecter à une plateforme, cliquez sur **Connexion** en haut à droite de la page d'accueil.
 
-![3-se connecter.PNG](http://www.claroline.net/uploads/custom/images/1516.png)
+![3-se connecter.PNG](images/connexion.png)
 
 <p style="text-align: center; color: blue">Home Fig. 15 - Connexion à Claroline Connect.</p>
 
