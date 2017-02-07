@@ -18,7 +18,7 @@ Utilisez l'identifiant et le mot de passe que vous avez choisis ou qui vous on �
 
 Si la plateforme a été configurée pour le permettre, vous pouvez vous connecter via un compte de réseau social.
 
-![](images/connexions-reseaux-sociaux.png)
+![](images/connexion-reseaux-sociaux.png)
 
 <p style="text-align: center; color: blue">Home Fig. 17 - Connexion via les réseaux sociaux.</p>
 
