@@ -9,7 +9,9 @@ Vous savez que vous êtes sur votre espace personnel grâce à:
 
 [1] Il s'agit d'une succession de liens qui vous permettent de vous situer dans le niveau de profondeur d'une arborescence et de naviguer pour revenir à l'un des niveaux affichés.
 
-![](images/home-pers-wks.png)
+<p style="color: red">Corriger image ci-dessous avec les indications de l'image suivante à supprimer après coup.</p>
+
+![](/fr/workspaces/images/home-pers-wks.png)
 
 ![](images/fig16.png)
 
