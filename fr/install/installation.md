@@ -3,14 +3,14 @@
 
 Rejoignez-nous sur le chat à l'adresse [https://gitter.im/claroline/Claroline](https://gitter.im/claroline/Claroline).
 
-This repository provides the basic application structure of the Claroline platform. It doesn't contain the sources nor the third-party libraries required to make the application fully functional. Those sources have to be installed following one of the procedures described below.
+This repository fournit la structure de base de l'application de la plateforme Claroline Connect. It doesn't contain the sources nor the third-party libraries required to make the application fully functional. Those sources have to be installed following one of the procedures described below.
 
 If you want to contribute or directly browse the sources of the project, check the claroline/Distribution repository, which gathers the standard modules and plugins of the platform.
 Requirements
 
-For a development installation, you'll need at least:
+L'installation de la version de développement nécessite au minimum:
 
-    PHP >= 5.6 with the following extensions:
+    PHP >= 5.6 avec les extensions suivantes:
         curl
         fileinfo
         gd
@@ -35,6 +35,7 @@ For mysql >= 5.7, there is an additonal step:
     exit;
 
 Installation
+
 1. From a pre-built archive
 
 A tarball containing everything needed for development and testing (pre-fetched sources, database dump, etc.) is made available with every release of the platform at packages.claroline.net/releases. This is the fastest way to get started:
