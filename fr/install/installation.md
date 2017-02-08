@@ -40,19 +40,19 @@ Installation
 
 Un fichier compressé contenant tout ce qui est nécessaire pour le développement et les tests (pre-fetched sources, database dump, etc.) est disponible à chaque release de la platforme à packages.claroline.net/releases. C'est le moyen le plus rapide pour démarrer:
 
-curl packages.claroline.net/releases/latest/claroline-16.05.tar.gz | tar xzv
-cd claroline-16.05
-php scripts/configure.php
+    curl packages.claroline.net/releases/latest/claroline-16.05.tar.gz | tar xzv
+    cd claroline-16.05
+    php scripts/configure.php
 composer fast-install
 
 2. From source
 
 The raw installation procedure is comprised of several steps that need to be executed in order (fetching php sources, installing dev dependencies, building, creating the database, etc.). Except for the configuration step, the whole process is managed through composer scripts listed in the composer.json file. For an installation from scratch, the commands would be:
 
-git clone http://github.com/claroline/Claroline
-cd Claroline
-php scripts/configure.php
-composer sync-dev
+    git clone http://github.com/claroline/Claroline
+    cd Claroline
+    php scripts/configure.php
+    composer sync-dev
 
 3. From web installer
 
@@ -113,19 +113,20 @@ php app/console claroline:plugin:uninstall FooBarBundle
 Important: Note that the installation and upgrade procedures of the platform described above apply only to the "standard" distribution, which comes with a fixed set of plugins. If you deviate from that set, you'll have to maintain your own composer files and perform composer update and php app/console claroline:update accordingly.
 Browser support
 
-We recommend to use Claroline Connect with the latest version of Mozila Firefox or Chromium.
+Nous vous conseillons d'utiliser Claroline Connect avec les versions les plus récentes de Mozilla Firefox ou Chromium.
 
-We support :
+Nous supportons:
 
-    Mozilla Firefox (latest version)
-    Chromium (latest version) and Google Chrome (latest version)
-    Microsoft Edge (latest version)
-    Microsoft Internet Explorer 11
-    Safari (latest version)
+* Mozilla Firefox (version la plus récente)
+* Chromium (version la plus récente) and Google Chrome (version la plus récente)
+* Microsoft Edge (version la plus récente)
+* Microsoft Internet Explorer 11
+* Safari (version la plus récente)
 
-For complete list : http://caniuse.com/#feat=mutationobserver
+Pour une liste complète: http://caniuse.com/#feat=mutationobserver
+
 Documentation
 
 La documentation est disponible à l'adresse http://doc.claroline.com .
 
-For development documentation, see Claroline/CoreBundle/Resources/doc/index.md.
+Pour la documentation développeurs, voir Claroline/CoreBundle/Resources/doc/index.md.
