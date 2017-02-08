@@ -80,6 +80,7 @@ This is the simplest and recommended way of serving the application during devel
 php app/console server:start
 
 The application will be available at http://localhost:8000.
+
 2. Using a standalone web server
 
 If you want to use Apache or Nginx during development, make them serve the web directory, and access the application at http://localhost/example-site/app_dev.php.
@@ -125,6 +126,6 @@ We support :
 For complete list : http://caniuse.com/#feat=mutationobserver
 Documentation
 
-For user documentation, see : http://doc.claroline.com.
+La documentation est disponible à l'adresse http://doc.claroline.com .
 
 For development documentation, see Claroline/CoreBundle/Resources/doc/index.md.
