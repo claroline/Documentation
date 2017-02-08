@@ -5,7 +5,7 @@ Rejoignez-nous sur le chat à l'adresse [https://gitter.im/claroline/Claroline](
 
 Ce dépôt fournit la structure de base de l'application de la plateforme Claroline Connect. Il ne contien ni les sources, ni les librairies tierces qui sont nécessaires pour rendre l'application entièrement fonctionnelle. Ces sources doivent être installées en suivant une des procédures décrites ci-dessous.
 
-If you want to contribute or directly browse the sources of the project, check the claroline/Distribution repository, which gathers the standard modules and plugins of the platform.
+Si vous désirez contribuer aux sources du projet ou naviguer dedans, rendez-vous au dépôt claroline/Distribution qui rassemble les modules par défaut et les plugins de la plateforme.
 
 ### Exigences
 
@@ -44,44 +44,45 @@ Un fichier compressé contenant tout ce qui est nécessaire pour le développeme
     curl packages.claroline.net/releases/latest/claroline-16.05.tar.gz | tar xzv
     cd claroline-16.05
     php scripts/configure.php
-composer fast-install
+    composer fast-install
 
-#### 2. From source
+#### 2. Depuis la source
 
-The raw installation procedure is comprised of several steps that need to be executed in order (fetching php sources, installing dev dependencies, building, creating the database, etc.). Except for the configuration step, the whole process is managed through composer scripts listed in the composer.json file. For an installation from scratch, the commands would be:
+La procédure d'installation brute comprend plusieurs étapes à suivre dans l'ordre (extraction des sources php, installation des dépendances dev, construction, création de la base de données, etc.). À l'exception de l'étape de configuration, la procédure entière se fait au moyen de scripts composer listés dans le fichier composer.json. Pour une installation à partir de zéro, les commandes sont:
 
     git clone http://github.com/claroline/Claroline
     cd Claroline
     php scripts/configure.php
     composer sync-dev
 
-#### 3. From web installer
+#### 3. Depuis le web
 
-curl packages.claroline.net/releases/latest/claroline-16.05.tar.gz | tar xzv
+    curl packages.claroline.net/releases/latest/claroline-16.05.tar.gz | tar xzv
 
-Open /install.php from your webserver and follow the instructions.
-Upgrade
+Ouvrez /install.php depuis votre serveur web et suivez les instructions.
 
-To update an existing development installation, just pull the latest changes (or a specific version) of this repository and use the sync-dev script:
+### Mise à jour
+
+Pour mettre à jour une installation de développement existante, faites un "pull" des changements les plus récents (ou d'une version spécifique) de ce dépôt et utilisez le script sync-dev:
 
     git pull
     composer sync-dev
 
-### Development
+### Développement
 
-Some assets of the platform are managed by webpack. In a development environment, they require the webpack dev server to be running. You can start it with:
+Quelques assets de la plateforme sont gérés par webpack. Dans un environnement de développement, il faut que le webpack dev server soit lancé. Vous pouvez le démarrer avec la commande:
 
     npm run watch
 
-Obviously, you'll also need a PHP-enabled web server to serve the application. Two alternatives are available.
+De toute évidence, vous aurez aussi besoin d'un serveur web intégrant php pour lancer l'application. Une alternative est disponible:
 
 #### 1. En utilisant le serveur web intégré dans PHP
 
-This is the simplest and recommended way of serving the application during development. To start the server, use the command provided by the symfony framework (more details here):
+Ceci est la manière la plus simple et la plus conseillée pour lancer l'application en mode développement. Pour démarrer le serveur, utilisez la commande fournie par le framework symfony (plus de détails ici):
 
-php app/console server:start
+    php app/console server:start
 
-The application will be available at http://localhost:8000.
+L'application sera accessible à l'adresse http://localhost:8000.
 
 #### 2. En utilisant un serveur web indépendant
 
@@ -96,7 +97,8 @@ Vous devrez certainement régler des droits sur les répertoires suivants:
     web/uploads
 
 All of them must be recursively writable from both the web server and the CLI. For more information on that subject, see the configuration section of the official Symfony documentation.
-Usage
+
+### Utilisation
 
 Vous pouvez créer un premier utilisateur admin avec la commande:
 
@@ -112,7 +114,8 @@ Once the plugin package is in your vendor directory, you can proceed to the (un-
     php app/console claroline:plugin:uninstall FooBarBundle
 
 Important: Note that the installation and upgrade procedures of the platform described above apply only to the "standard" distribution, which comes with a fixed set of plugins. If you deviate from that set, you'll have to maintain your own composer files and perform composer update and php app/console claroline:update accordingly.
-Browser support
+
+### Support navigateurs
 
 Nous vous conseillons d'utiliser Claroline Connect avec les versions les plus récentes de Mozilla Firefox ou Chromium.
 
