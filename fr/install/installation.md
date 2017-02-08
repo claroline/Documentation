@@ -26,9 +26,9 @@ L'installation de la version de développement nécessite au minimum:
     node.js >= 5.5, <6.0
     npm >= 3.7
 
-It's also highly recommended to develop on an UNIX-like OS.
+Il est vivement recommandé de développer dans un environnement de type Unix.
 
-For mysql >= 5.7, there is an additonal step:
+Pour mysql >= 5.7, il y a une étape supplémentaire:
 
     mysql -u**** -p
     set global sql_mode='';
