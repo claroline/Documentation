@@ -36,9 +36,9 @@ Pour mysql >= 5.7, il y a une étape supplémentaire:
 
 Installation
 
-1. From a pre-built archive
+1. Depuis une archive pré-construite
 
-A tarball containing everything needed for development and testing (pre-fetched sources, database dump, etc.) is made available with every release of the platform at packages.claroline.net/releases. This is the fastest way to get started:
+Un fichier compressé contenant tout ce qui est nécessaire pour le développement et les tests (pre-fetched sources, database dump, etc.) est disponible à chaque release de la platforme à packages.claroline.net/releases. C'est le moyen le plus rapide pour démarrer:
 
 curl packages.claroline.net/releases/latest/claroline-16.05.tar.gz | tar xzv
 cd claroline-16.05
