@@ -75,7 +75,7 @@ Some assets of the platform are managed by webpack. In a development environment
 
 Obviously, you'll also need a PHP-enabled web server to serve the application. Two alternatives are available.
 
-#### 1. Using PHP's built-in web server
+#### 1. En utilisant le serveur web intégré dans PHP
 
 This is the simplest and recommended way of serving the application during development. To start the server, use the command provided by the symfony framework (more details here):
 
@@ -83,13 +83,12 @@ php app/console server:start
 
 The application will be available at http://localhost:8000.
 
-#### 2. Using a standalone web server
+#### 2. En utilisant un serveur web indépendant
 
-If you want to use Apache or Nginx during development, make them serve the web directory, and access the application at http://localhost/example-site/app_dev.php.
+Si vous désirez utiliser Apache ou Nginx pour votre développement, assurez-vous qu'ils utilisent votre répertoire web et qu'ils accèdent à l'application à l'adresse http://localhost/example-site/app_dev.php.
 
-Note that you'll certainly face permissions issues on the following directories:
+Vous devrez certainement régler des droits sur les répertoires suivants:
 
-    app/cache
     app/config
     app/logs
     app/sessions
@@ -99,9 +98,9 @@ Note that you'll certainly face permissions issues on the following directories:
 All of them must be recursively writable from both the web server and the CLI. For more information on that subject, see the configuration section of the official Symfony documentation.
 Usage
 
-You can create a first admin user with:
+Vous pouvez créer un premier utilisateur admin avec la commande:
 
-php app/console claroline:user:create -a
+    php app/console claroline:user:create -a
 
 ### Plugins
 
