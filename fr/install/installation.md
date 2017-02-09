@@ -96,7 +96,7 @@ Vous devrez certainement régler des droits sur les répertoires suivants:
     files
     web/uploads
 
-All of them must be recursively writable from both the web server and the CLI. For more information on that subject, see the configuration section of the official Symfony documentation.
+Vous devez avoir les droits d'écriture sur chaque répertoire tant côté serveur que côté client. Pour plus d'informations sur le sujet, reportez-vous au chapitre sur la configuration dans la documentation officielle de Symfony.
 
 ### Utilisation
 
@@ -106,14 +106,14 @@ Vous pouvez créer un premier utilisateur admin avec la commande:
 
 ### Plugins
 
-Plugins are managed by composer like any other package in the platform. You can install or uninstall the sources of a plugin by adding or removing the package from the require section of your composer.json and running composer update, or using shortcuts like composer require ....
+Les plugins sont gérés par composer tout comme tous les autres paquets de la plateforme. Pour installer ou désinstaller les sources d'un plugin, vous l'ajoutez à ou vous l'enlevez de la section concernée du fichier composer.json et vous lancez un update du composer, ou vous utilisez des raccourcis comme composer require,...
 
-Once the plugin package is in your vendor directory, you can proceed to the (un-)installation using one the following commands:
+Une fois que le paquet du plugin se trouve dans votre répertoire **vendor**, vous pouvez procéder à l'installation ou la d"sinstallation en utilisant les commandes suivantes:
 
     php app/console claroline:plugin:install FooBarBundle
     php app/console claroline:plugin:uninstall FooBarBundle
 
-Important: Note that the installation and upgrade procedures of the platform described above apply only to the "standard" distribution, which comes with a fixed set of plugins. If you deviate from that set, you'll have to maintain your own composer files and perform composer update and php app/console claroline:update accordingly.
+**Attention:** Les procédures d'installation et de mise à jour de la plateforme telles que décrites plus haut ne s'appliquent qu'à la distribution par défaut qui est livrée avec une paquet déterminé de plugins. Si vous modifiez ce paquet, vous devrez maintenir vos propres fichiers composer files et lancer composer update et php app/console claroline:update en fonction de votre configuration.
 
 ### Support navigateurs
 
