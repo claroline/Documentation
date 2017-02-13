@@ -2,7 +2,7 @@
 
 ---
 
-Maintenant que vous avez créé des champs, vous souhaitez peut-être organiser la mise en page de votre formulaire.
+Maintenant que vous avez créé des champs, vous souhaitez peut-être organiser la mise en page de votre base de données.
 
 Cette étape n'est pas obligatoire. Si vous ne le faites pas, vos champs seront simplement affichés les uns à la suite des autres.
 
@@ -14,8 +14,7 @@ Le premier écran \(jaune\) vous propose une liste comprenant l'ensemble des cha
 
 Vous constatez rapidement deux choses:
 
-* Le nom de chaque champ est entouré par le symbole "%". Il s'agit en fait de balises. Vous pouvez les positionner où vous le souhaitez dans le second écran. Cette balise sera remplacée par le champ en question lors de l'affichage du formulaire.
-
+* Le nom de chaque champ est entouré par le symbole "%". Il s'agit en fait de balises. Vous pouvez les positionner où vous le souhaitez dans le second écran. Cette balise sera remplacée par le champ en question lors de l'affichage d'une base de données.
 * La présence d'une balise %clacoform\_entry\_title% malgré que vous n'ayez créé aucun champ de ce genre. En effet, il s'agit d'un champ automatique et obligatoire qui correspond au titre de la fiche.
 
 Le second écran est [l'éditeur de la plateforme](/fr/resources/clacoForm/text-editor.md).

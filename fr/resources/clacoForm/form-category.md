@@ -10,7 +10,7 @@ Pour cela, rendez-vous dans le menu "Gestion des catégories".
 
 Vous arrivez sur une page avec un tableau présentant toutes vos catégories existantes.
 
-En bas à gauche, vous trouverez le bouton pour créer une nouvelle catégorie. En cliquant dessus, vous ouvrez un formulaire.
+En bas à gauche, vous trouverez le bouton pour créer une nouvelle catégorie. En cliquant dessus, vous ouvrez une base de données.
 
 ![](images/clacoform-fig24.png)
 

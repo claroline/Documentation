@@ -1,12 +1,12 @@
-## Le formulaire
+## La base de données
 
 ---
 
 ![](images/clacoform-fig1.png)
 
-<p style="color:blue; text-align: center">ClacoForm Fig.1 - Icône de la ressource Formulaire.</p>
+<p style="color:blue; text-align: center">ClacoForm Fig.1 - Icône de la ressource Base de données.</p>
 
-Le formulaire est une ressource destinée à récolter des données, les partager et interagir autour de ces informations. 
+La base de données est une ressource destinée à récolter des données, les partager et interagir autour de ces informations. 
 
 Les usages sont nombreux et on peut en lister quelques-uns de manière non-exhaustive: inscriptions à des évènements, gestion de co-voiturage, fiches de synthèse matière, enquêtes, gestion de bibliothèque ou encore recueil de témoignages.
 
@@ -17,7 +17,7 @@ Quand vous entrez dans la ressource, vous avez le choix, selon les configuration
 
 ![](images/clacoform-fig41.png)
 
-* [Ajouter une fiche](/fr/resources/clacoForm/create-files.md) vous permet de compléter le formulaire proposé.
+* [Ajouter une fiche](/fr/resources/clacoForm/create-files.md) vous permet de compléter la base de données proposée.
 * [Trouver une fiche](/fr/resources/clacoForm/manage-files.md) vous permet d'afficher un tableau contenant toutes les fiches auxquelles vous avez accès. Vous pouvez également effectuer des recherches dans cette liste.
 * Fiche aléatoire, vous permet de sélectionner et d'afficher une fiche au hasard dans celles auxquelles vous avez accès.
 

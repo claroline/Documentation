@@ -2,7 +2,7 @@
 
 ---
 
-Une fois que vous avez cliqué sur **Ajouter une fiche**, vous accédez au formulaire tel que le gestionnaire l'a conçu.
+Une fois que vous avez cliqué sur **Ajouter une fiche**, vous accédez à la base de données telle que le gestionnaire l'a conçu.
 
 ![](images/clacoform-fig46.png)
 

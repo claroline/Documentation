@@ -4,7 +4,7 @@
 
 ![](images/clacoform-fig9.png)
 
-**Nombre de dépôts** vous permet de déterminer combien de réponses au formulaire peuvent être déposées par chaque utilisateur identifié. Par défaut, ce nombre est de 0, ce qui correspond à illimité.
+**Nombre de dépôts** vous permet de déterminer combien de réponses à la base de données peuvent être déposées par chaque utilisateur identifié. Par défaut, ce nombre est de 0, ce qui correspond à illimité.
 
 > Vous ne pouvez pas mettre de limite si vous souhaitez que des anonymes puissent répondre.
 

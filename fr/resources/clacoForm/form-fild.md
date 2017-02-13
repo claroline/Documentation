@@ -6,7 +6,7 @@
 
 Dans notre exemple, de nombreux champs sont déjà disponibles. Si vous venez de créer la ressource, ce tableau devrait être complètement vide.
 
-En bas à gauche, vous trouverez un bouton bleu intitulé "Créer un champ". En cliquant dessus, vous ouvrez un formulaire.
+En bas à gauche, vous trouverez un bouton bleu intitulé "Créer un champ". En cliquant dessus, vous ouvrez une base de données.
 
 ![](images/clacoform-fig4.png)
 

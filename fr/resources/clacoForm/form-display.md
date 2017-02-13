@@ -4,11 +4,11 @@
 
 ![](images/clacoform-fig10.png)
 
-**Le type d'accueil** permet de déterminer quelle page s'affichera lors de l'entrée dans le formulaire. Vous avez 4 options. Par défaut, c'est le menu qui s'affiche.
+**Le type d'accueil** permet de déterminer quelle page s'affichera lors de l'entrée dans la base de données. Vous avez 4 options. Par défaut, c'est le menu qui s'affiche.
 
 ![](images/clacoform-fig7.png)
 
-Cependant, vous pouvez très bien faire arriver l'utilisateur sur l'affichage aléatoire d'une fiche, sur le tableau de toutes les fiches ou directement dans le formulaire à compléter.
+Cependant, vous pouvez très bien faire arriver l'utilisateur sur l'affichage aléatoire d'une fiche, sur le tableau de toutes les fiches ou directement dans la base de données à compléter.
 
 **Indiquer le nombre de fiches** permet d'ajouter un compteur indiquant le nombre de fiches publiées ou le nombre total de fiches stockées dans la ressource.
 

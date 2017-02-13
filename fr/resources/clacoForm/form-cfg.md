@@ -1,10 +1,10 @@
-### Mettre un formulaire en place
+### Mettre une base de données en place
 
 ---
 
-La première étape consiste à vous rendre dans la partie **Ressources** d'un espace d'activités. Il vous suffit ensuite de cliquer sur le bouton **Ajouter** et de sélectionner le formulaire.
+La première étape consiste à vous rendre dans la partie **Ressources** d'un espace d'activités. Il vous suffit ensuite de cliquer sur le bouton **Ajouter** et de sélectionner la base de données.
 
-Une fois votre formulaire ajouté dans vos ressources, cliquez dessus pour commencer le paramétrage.
+Une fois votre base de données ajoutée dans vos ressources, cliquez dessus pour commencer le paramétrage.
 
 ![](images/clacoform-fig35.png)
 
@@ -14,5 +14,5 @@ La page sur laquelle vous arrivez est également, par défaut, celle qui sera pr
 
 C'est depuis ce menu que vous allez pouvoir piloter l'ensemble de la ressource.
 
-La première chose que vous devez faire, c'est ajouter des champs à votre formulaire. Pour cela, rendez-vous dans le menu **Gestion des champs**.
+La première chose que vous devez faire, c'est ajouter des champs à votre base de données. Pour cela, rendez-vous dans le menu **Gestion des champs**.
 
