@@ -7,7 +7,11 @@ Commencez par vous connecter à Facebook
 
 Allez à Facebook Developers Apps. Vous avez besoin d'un compte Facebook Développeur pour démarrer. Si vous n'en avez pas, mettez votre compte Facebook personnel à jour vers un compte Facebook Développeur.
 
-Cliquez sur le bouton ou utilisez le menu déroulant et choisissez **Create a New App**.
+Cliquez sur le bouton **+Add a New Ap** ou utilisez le menu déroulant **My Apps** et choisissez **Add a New App**.
+
+![](/fr/admin/images/fb_new_app_new_button.jpg)
+
+![](/fr/admin/images/fb_new_app_menu.jpg)
 
 Choisissez **Basic setup** lorsqu'on vous demande de choisir une plateforme.
 
