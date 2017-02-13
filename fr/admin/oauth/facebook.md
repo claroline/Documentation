@@ -1,9 +1,7 @@
 ### Enregistrer et configurer une App Facebook
 ---
 
-<p style="color: red">Ajouter les captures d'écran !!!</p>
-
-Commencez par vous connecter à Facebook
+Commencez par vous connecter à Facebook.
 
 Allez à Facebook Developers Apps. Vous avez besoin d'un compte Facebook Développeur pour démarrer. Si vous n'en avez pas, mettez votre compte Facebook personnel à jour vers un compte Facebook Développeur.
 
