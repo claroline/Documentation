@@ -43,10 +43,14 @@ Configurez à présent votre App. Allez dans les **Paramètres**, donnez un cour
 
 Allez dans l'onglet **Advanced** et sélectionnez **Client OAuth Settings**. Choisissez l'option **Embedded Browser OAuth Login** et pour le **Valid OAuth redirect URL**, écrivez votre URL sous la forme suivante: _http://YOUR_DOMAIN_NAME/login/check-facebook_
 
-_Exemple: http://3l.claroline.com/login/check-facebook_
+Exemple:
+
+  http://3l.claroline.com/login/check-facebook
 
 ![](/fr/admin/oauth/images/fb_app_enable_browser_add_redirect.jpg)
 
-Allez sur **App Review** et à la question _"Do you want to make this app and all its live features available to the general public?"_, répondez **Yes* de façon à publier votre App.
+Allez sur **App Review** et à la question _"Do you want to make this app and all its live features available to the general public?"_, répondez **Yes** de façon à publier votre App.
+
+![](/fr/admin/images/fb_app_publish_app.jpg)
 
 Félicitations! Vous avez configuré votre App Facebook!
