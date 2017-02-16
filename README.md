@@ -1,4 +1,4 @@
-![](/cover.jpg)
+![![](/cover.jpg)](/fr/images/Claro4-02.jpg)
 
 
 
