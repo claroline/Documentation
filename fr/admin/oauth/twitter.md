@@ -1,4 +1,4 @@
-# Register and Configure a Twitter App
+### Enregistrer et configurer une App Twitter
 
 1. Connectez-vous à [Twitter](https://www.twitter.com/)
 
