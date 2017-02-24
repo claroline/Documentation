@@ -11,17 +11,17 @@
 
 ```
 
-![](/fr/admin/oauth/images/twitter_app_new_form.jpg)
+![](images/twitter_app_new_form.jpg)
 
 1. Quand votre App est créée, allez dans l'onglet  **Settings** (paramètres) et cochez la case **Allow this application to be used to Sign in with Twitter**. Vous pouvez aussi fournir une **icône** pour votre App, ainsi que le **nom de votre organisation** et votre **site web**. Cliquez sur **Update settings**.
 
-![](/fr/admin/oauth/images/twitter_settings_icon_organization.jpg)
+![](images/twitter_settings_icon_organization.jpg)
 
 2. Cliquez sur l'onglet  **Keys and Access Tokens** et copiez-collez l'App ID et le Secret dans Claroline: `Administration -> Paramètres de la platforme -> Oauth -> Twitter`
 
-![](/fr/admin/oauth/images/twitter_app_id_secret.jpg)
+![](images/twitter_app_id_secret.jpg)
 
-![](/fr/admin/oauth/images/oauth-twitter.png)
+![](images/oauth-twitter.png)
 
 ##### Félicitations: vous avez créé et configuré votre App Twitter!
 
