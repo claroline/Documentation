@@ -7,9 +7,9 @@ Allez à Facebook Developers Apps. Vous avez besoin d'un compte Facebook Dévelo
 
 Cliquez sur le bouton **+Add a New Ap** ou utilisez le menu déroulant **My Apps** et choisissez **Add a New App**.
 
-![](/fr/admin/oauth/images/fb_new_app_new_button.jpg)
+![](images/fb_new_app_new_button.jpg)
 
-![](/fr/admin/oauth/images/fb_new_app_menu.jpg)
+![](images/fb_new_app_menu.jpg)
 
 
 Choisissez **Basic setup** lorsqu'on vous demande de choisir une plateforme.
