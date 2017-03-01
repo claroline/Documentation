@@ -12,3 +12,4 @@ Nous rédigeons pour l'instant la documentation de la **version 17.06** qui, com
 
 Bonne lecture !
 
+Bonjour
