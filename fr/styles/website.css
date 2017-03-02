@@ -1,8 +1,8 @@
 p{
 text-align:justify;
 }
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+
+.ba-center{
+
+text-align:center;
 }
