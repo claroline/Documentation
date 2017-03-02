@@ -1,16 +1,1 @@
 /* CSS for website */
-img{
-
-border:1px solid black;
-
-}
-
-p{
-color:blue;
-}
-
-.normal .markdown-section p
-{
-  color:green;
-  text-align:justify;
-}
