@@ -4,5 +4,10 @@ text-align:justify;
 
 .ba-center{
 
-text-align:center;
+}
+
+img{
+margin-left: auto;
+display: block;
+margin-right: auto;
 }
