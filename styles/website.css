@@ -9,4 +9,8 @@ p{
 color:red;
 }
 
-
+.normal .markdown-section p
+{
+  color:green;
+  text-align:justify;
+}
