@@ -1,6 +1,4 @@
-!
-[![](/cover.jpg)](/fr/images/Claro4-02.jpg)
-
+![![](/cover.jpg)](/fr/images/Claro4-02.jpg)
 
 
 Claroline Connect est un **Learning Management System**, c'est-à-dire un logiciel de gestion des apprentissages, libre et téléchargeable gratuitement. Pour l'installation, on se réfère pour l'instant à la documentation sur [GitHub](https://github.com/claroline/Claroline/ "Comment installer Claroline Connect?").
