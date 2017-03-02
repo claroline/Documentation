@@ -1,4 +1,4 @@
-![](images/logo.jpg)
+{% center %}![](images/logo.jpg){% endcenter %}
 
 
 # Claroline Connect
