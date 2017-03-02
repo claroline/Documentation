@@ -1,5 +1,5 @@
-!
-[](images/Logo_Claroline.png)
+![](images/logo.jpg)
+
 
 # Claroline Connect
 
