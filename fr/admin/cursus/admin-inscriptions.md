@@ -1,4 +1,4 @@
 ### Gérer les inscriptions
 ---
 
-En cours de rédaction.
+En attente de rédaction.
