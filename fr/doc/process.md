@@ -13,6 +13,7 @@ Ces balises permettent de gérer l'alignement des contenus:
 {% right %} This **will be** aligned right. {% endright %}
 
 \{% center %} This **will be** centered. \{% endcenter %}
+
 {% center %} This **will be** centered. {% endcenter %}
 
 
