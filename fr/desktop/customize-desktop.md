@@ -17,7 +17,13 @@ Vous pouvez **modifier votre menu supérieur** en configurant la barre de menu. 
 <p style="text-align: center; color: blue">Figure 11 - Liste des outils de la barre de menu du bureau. Il est possible de les rendre visibles en fonction des besoins de l'utilisateur.</p>
 
 **Comparez les deux menus**.
-![](images/fig12.png)
+1) Tous les outils sont visibles
+
+![tous outils](images/tous outils.png)
+
+2) certains outils sont visibles
+
+![cert outils](images/cert outils.png)
 
 <p style="text-align: center; color: blue">Figure 12 - Outils visibles dans la barre de menu supérieure.</p>
 
