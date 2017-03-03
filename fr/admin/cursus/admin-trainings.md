@@ -29,5 +29,10 @@ L'en-tête du tableau vous permet de filtrer sur le titre ou le code d'une forma
 
 Une série d'actions est également possible sur les formations:
 
-
 ![](images/cursus-fig55.png)
+
+* L'oeil permet d'afficher les détails concernants la formation:
+
+![](images/cursus-fig56.png)
+
+
