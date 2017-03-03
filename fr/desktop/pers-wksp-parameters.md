@@ -55,7 +55,7 @@ Cela permet par exemple de rendre un contenu accessible à tous les anonymes, y 
 
 Comme expliqué dans les références:
 
-![1882.png](http://www.claroline.net/uploads/custom/images/1882.png)
+![references.png](images/references.png)
 
 Dans l'exemple ci dessous, seuls l'**Accueil** et les **Ressources** sont visibles par le profil "**Collaborateur** " qui ne peut rien éditer/modifier. En revanche, les profils "Anonyme" et "Utilisateur" n'ont aucune permission.
 
