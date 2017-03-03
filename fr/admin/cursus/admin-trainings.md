@@ -49,3 +49,6 @@ En cliquant sur le nom d'une formation...
 
 ![](images/cursus-fig52.png)
 
+En cliquant sur le nom de la session, vous rentrez dans le menu de gestion de [la session](admin-sessions.md).
+
+
