@@ -35,7 +35,9 @@ Une série d'actions est également possible sur les formations:
 
 ![](images/cursus-fig56.png)
 
-* Le cube permet de [crééer une nouvelle session](create-sessions.md) pour la formation.
+> Pour les détails concernant ces informations, reportez-vous à la section sur la [création de formations](create-sessions.md).
+
+* Le cube permet de [crééer une nouvelle session](create-trainings.md) pour la formation.
 * Le crayon permet d'éditer la formation. 
 * La poubelle permet de supprimer la formation.
 
@@ -44,3 +46,6 @@ En cliquant sur le nom d'une formation...
 ![](images/cursus-fig57.png)
 
 ... vous affichez la liste des [sessions](admin-sessions.md) organisées pour cette formation.
+
+![](images/cursus-fig52.png)
+
