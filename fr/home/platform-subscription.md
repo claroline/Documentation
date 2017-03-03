@@ -2,7 +2,7 @@
 ---
 
 Vous accédez à votre plateforme en saisissant son adresse dans votre navigateur.
-![exemple de sites web](images/exemple_de_sites_web.png)
+![exemple de sites web](images/exemples_sites_web.png)
 
 <p style="text-align: center; color: blue">Home Fig. 13 - Exemples de sites web de quelques institutions qui utilisent la plateforme Claroline Connect</p>
 
