@@ -6,12 +6,13 @@ La création des formations peuvent s'effectuer depuis deux endroits:
 
 Dans un cas comme dans l'autre, une fois que vous aurez cliqué pour créer une nouvelle formation vous serez amené à remplir le même formulaire. C'est également via ce formulaire que vous pouvez modifier les configurations de la formation en mode "édition"
 
-La première partie du formulaire est assez semblable à ceux que vous pouvez trouver ailleurs dans la plateforme.
+La première partie du formulaire est assez semblable à ceux que vous pouvez trouver ailleurs dans la plateforme:
 
 ![](images/cursus-fig58.png)
 
 Il faut donner un **titre**, un **code** qui doit être unique et éventuellement une **description** et une **icône** pour représentée la formation. Cette icône apparaîtra notamment dans les widgets. 
 
+Il vous faut ensuite définir les configurations de base qui seront attribuées aux sessions que vous organiserez pour cette formation:
 ![](images/cursus-fig59.png)
 
 * **L'inscription publique** permettra à vos utilisateurs, depuis le widget [catalogue de formations](formationslisting.md) de s'inscrire à une [session](admin-sessions) de cette formation.
@@ -23,11 +24,29 @@ Il faut donner un **titre**, un **code** qui doit être unique et éventuellemen
 * **Créer une séance par défaut** [créera automatiquement une séance](create-sessions-events.md) dans la session. Cette séance commencera avec le début de la session et se terminera avec la fin de la session. 
 >Cette configuration n'a du sens que si vous ne voulez pas utiliser les séances ou que votre formation se donne en une seule séquence continue. 
 
+Dans la partie suivante, vous allez pouvoir configurer le lien qui sera créé entre la session de formation et l'espace d'activité dédié.
+
+> Pour rappel,ce n'est qu'à partir de la session qu'on est dans le concret. C'est donc bien ce niveau qui est rattaché à un espace d'activités et jamais la formation elle-même.
 
 ![](images/cursus-fig60.png)
 
+Trois options sont possibles:
+* **Ne rien faire**. Dans ce cas, à chaque nouvelle [session](create-sessions), un espace d'activités complètement vide sera créé et attaché la session. 
+
+* **Sélectionner un espace d'activité existant**. Si vous faites cela, les utilisateurs de toutes vos sessions seront inscrits dans le même espace d'activités. A savoir, celui que vous avez sélectionné. Cela signifie qu'à chaque nouvelle session, les nouveaux participants auront accès aux informations laissées par les précédents.
+
+* **Sélectionner un modèle**. Pour chaque nouvelle [session](create-sessions), un nouvel espace d'activités sera créé. Néanmoins contraitement à la première option, il ne sera pas vide, il contiendra une copie de ce que vous avez mis dans le modèle. 
+
+Les 2 champs suivants ne sont utiles que si vous avez utilisé un espaces d'activités existant ou un modèle.  Dans ces cas là, les cadre sont remplacés par des listes déroulantes vous permettant de choisir le rôle qui doit être attribué aux formateurs et aux apprenants lors de leur inscription dans l'espace d'activités. 
+
 ![](images/cursus-fig61.png)
 
+Les paramètres suivants permettent d'affiner les règles d'inscription des utilisateurs:
+
 ![](images/cursus-fig62.png)
+
+* **Le nombre maximum d'utilisateurs** correspond au nombre d'utilisateurs qui peuvent être inscrits. Lors d'une demande d'inscription, si la limite est atteinte, l'utilisateur est notifié et mis en liste d'attente.
+
+* **Validation de  l'utilisateur**
 
 ![](images/cursus-fig63.png)
