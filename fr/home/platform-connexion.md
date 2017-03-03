@@ -12,9 +12,6 @@ Dans la plupart des plateformes Claroline Connect, le bouton **Connexion** est v
 
 Utilisez l'identifiant et le mot de passe que vous avez choisis ou qui vous on été fournis par l'administrateur et cliquez sur "Connexion".
 
-![connexion.png](http://www.claroline.net/uploads/custom/images/1846.png)
-
-<p style="text-align: center; color: blue">Home Fig. 16 - Connexion via vos identifiants Claroline Connect.</p>
 
 Si la plateforme a été configurée pour le permettre, vous pouvez vous connecter via un compte de réseau social.
 
