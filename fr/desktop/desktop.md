@@ -33,7 +33,7 @@ La page d'accueil du bureau peut être configurée par l'administrateur de la pl
 [1] De façon générale, un *widget* est une petite application que l'on ajoute sur le bureau de son ordinateur et qui affiche certaines informations (météo, notifications de messages, etc.). *Netvibes* s'est par exemple rendu célèbre avec une page Internet de démarrage incluant des widgets à la carte.
 Pour ce qui nous concerne, les widgets s'ajoutent sur les pages d'accueil des espaces d'activités, et proposent des informations en relation avec les ressources et activités de la plateforme.
 
-![](images/fig8.png)
+![onglet et widget](images/onglet et widget.png)
 
 <p style="text-align: center; color: blue">Figure 8 - La page d'accueil du bureau est composée d'onglets et de widgets.</p>
 
