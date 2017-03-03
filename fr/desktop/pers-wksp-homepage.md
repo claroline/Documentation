@@ -42,7 +42,7 @@ Pour désactiver ce mode, il suffit de cliquer sur la **croix** en haut à droit
 
  **Tableau de bord** ![1871.png](http://www.claroline.net/uploads/custom/images/1871.png) est un autre outil statistique qui mesure la fréquentation des ressources et activités.
 
- **Utilisateurs** ![1872.png](http://www.claroline.net/uploads/custom/images/1871.png) permet de gérer efficacement les utilisateurs d'un espace d'activités.
+ **Utilisateurs** ![1872.png](http://www.claroline.net/uploads/custom/images/1867.png) permet de gérer efficacement les utilisateurs d'un espace d'activités.
 
  **Badges** ![1873.png](http://www.claroline.net/uploads/custom/images/1873.png) permet d'afficher la liste des badges de l'espace, et d'ajouter un badge.
 

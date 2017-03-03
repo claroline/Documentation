@@ -24,7 +24,7 @@ Une fenêtre s'ouvre permettant de:
 
 Il faut faire attention aux instructions suivantes:
 
-![1935.png](http://www.claroline.net/uploads/custom/images/1935.png)
+![onglet](images/onglet.png)
 
 
 ### Modifier un onglet
