@@ -33,7 +33,16 @@ Vous pouvez modifier votre menu utilisateur (profil utilisateur). Il vous est lo
 
 Comparez les trois exemples ci dessous.
 
-![](images/fig13.png)
+1) Tous les outils visibles
+![prof util 1](images/prof util 1.png)
+
+
+2) Certains outils visibles
+![prof util 2](images/prof util 2.png)
+
+
+3) Les outils visibles par défaut
+![prof util 3](images/prof util 3.png)
 
 <p style="text-align: center; color: blue">Figure 13 - Trois exemples du menu utilisateur.</p>
 
@@ -42,10 +51,10 @@ Il est possible de modifier la couleur de votre bureau . Cela vous permettra de 
 
 Pour faire cela, cliquez sur le champ "couleur de fond du bureau" et choisissez la couleur en positionnant la souris sur la couleur souhaitée comme dans l'exemple ci-dessous.
 
-![](images/fig14.png)
+![couleur](images/couleur.png)
 
 <p style="text-align: center; color: blue">Figure 14 - Couleur de fond du bureau originale.</p>
 
-![](images/fig15.png)
+![couleur fond](images/couleur fond.png)
 
 <p style="text-align: center; color: blue">Figure 15 - Modification de la couleur de fond du bureau.</p>
