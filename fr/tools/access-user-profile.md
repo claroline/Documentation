@@ -8,6 +8,6 @@ Ce menu déroulant peut être personnalisé par l'utilisateur.
 
 Vous trouverez plus d'informations dans "[Personnalisez votre bureau](../bureau/personnaliser_votre_bureau.md)" dans le manuel des utilisateurs.
 
-![](images/fig117.png)
+![profil utilisateur](images/profil util.png)
 
 <p style="text-align: center; color: blue">Figure 117 - Accès au profil utilisateur</p>
