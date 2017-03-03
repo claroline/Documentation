@@ -33,7 +33,7 @@ Lorsque vous cochez la case "Inscription publique", **un lien d'inscription est 
   
 Vous donnerez le lien généré aux internautes pour s'inscrire à votre espace ainsi qu'à la plateforme.
 
-![1879.png](http://www.claroline.net/uploads/custom/images/1879.png)
+![inscription publique.png](images/inscription publique.png)
 
 Lors de l'inscription publique, l'anonyme accédera directement au formulaire d'inscription à la plateforme.
 
