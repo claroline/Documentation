@@ -18,35 +18,36 @@ Donnez un nom à votre App dans le champ "Display Name", choisissez **Applicatio
 
 ![](images/create-FB-ID.png)
 
+Vous aurez à passer un contrôle de sécurité. Recopiez le texte de l'encadré et appuyez sur **Envoyer**.
 
+![](images/FB-captcha.png)
+Vous arrivez alors sur la page de configuration de votre app. Dans son **tableau de bord**, vous trouverez l'ID de l'app et sa clé secrète. Pour voir cette dernière, vous devrez vous réauthentifier sur Facebook au moyen du mot de passe de votre compte.
 
-![](images/fb_new_app_properties.jpg)
+![](/fr/admin/oauth/images/tdb-FB.png)
 
-Complétez le **Security Check**.
-
-![](images/fb_security_check.jpg)
-
-Votre App est créée à présent! Copiez l'ID de l'App et le Secret de l'App du tableau de bord et copiez-les dans Claroline: Administration -&gt; Paramètres de la platforme -&gt; Oauth -&gt; Facebook.
+Copiez l'ID de l'App et le Secret de l'App du tableau de bord et copiez-les dans Claroline: **Administration -&gt; Paramètres de la plateforme -&gt; Oauth -&gt; Facebook**.
 
 ![](images/fb_app_id_secret.jpg)
 
 Remplissez les champs \*\*ID de l'application" et "Secret de l'application".
 
-Configurez à présent votre App. Allez dans les **Paramètres**, donnez un courriel valide dans l'onglet "Basic" et cliquez sur **Save changes**.
+Retournez dans Facebook pour développeurs.
 
-![](images/fb_app_fill_email.jpg)
+Cliquez sur **+ Ajouter un produit** et sur **Démarrer** à côté de **Facebook login** dans la **Configuration du produit**.
 
-Allez dans l'onglet **Advanced** et sélectionnez **Client OAuth Settings**. Choisissez l'option **Embedded Browser OAuth Login** et pour le **Valid OAuth redirect URL**, écrivez votre URL sous la forme suivante: [http://YOUR\_DOMAIN\_NAME/login/check-facebook](http://YOUR_DOMAIN_NAME/login/check-facebook)
+![](images/FB-add-product.png)
+
+Répondez **Oui** ou **Non** selon la figure ci-dessous et n'oubliez pas de mentionner votre URL de redirection sous la forme suivante: [http://YOUR\_DOMAIN\_NAME/login/check-facebook](http://YOUR_DOMAIN_NAME/login/check-facebook)
 
 Exemple:
 
 [http://3l.claroline.com/login/check-facebook](http://3l.claroline.com/login/check-facebook)
 
-![](images/fb_app_enable_browser_add_redirect.jpg)
+![](images/FB-OAuth-parameters.png)
 
-Allez sur **App Review** et à la question _"Do you want to make this app and all its live features available to the general public?"_, répondez **Yes** de façon à publier votre App.
+Dernière étape: Dans le menu **Examen des apps**, à la question _"Rendre VotreNomApp publique?"_, répondez **Oui** de façon à publier votre App. Vous devrez alors confirmer votre choix.
 
-![](images/fb_app_publish_app.jpg)
+![](images/fb_app_publish_app.png)
 
 Félicitations! Vous avez configuré votre App Facebook!
 
