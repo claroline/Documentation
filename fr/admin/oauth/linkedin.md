@@ -5,13 +5,13 @@ Connectez-vous au portail page [LinkedIn Developers](https://developer.linkedin.
 
 Cliquez sur **Créer une application**.
 
-![](/fr/admin/oauth/images/create-linkedin-app.png)
+![](images/create-linkedin-app.png)
 
 Remplissez toutes les données, cochez la case **J’ai lu et j’accepte les Conditions générales de LinkedIn API** et cliquez sur **Envoyer**.
 
 Votre application est créée et vous êtes redirigé vers la page d'administration de votre app.
 
-![](/fr/admin/oauth/images/myclacoplatform.png)
+![](images/myclacoplatform.png)
 
 
 Vous y trouvez votre ID client et votre Secret client. Pour un fonctionnement optimal de votre app, assurez-vous que **r_basicprofile** et **r_emailaddress** sont cochés.

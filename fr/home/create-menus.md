@@ -6,7 +6,7 @@ Pour **créer un menu**, cliquez sur l'icône "**Menus**" de la barre latérale 
 
 ![](images/home-create-menu.png)
 
-<p style="text-align: center; color: blue">Home Fig. 3 - Icône "Menu" de la bare latérale gauche.</p>
+<p style="text-align: center; color: blue">Home Fig. 3 - Icône "Menu" de la barre latérale gauche.</p>
 
 Entrez ensuite un titre à l'emplacement "**Titre du menu**", puis cliquez sur "Créer" dans la fenêtre centrale.
 
