@@ -116,8 +116,6 @@ A ajouter à l'existant dans les différents types de ressources:
     * [Gérer des rôles](admin/users/users-roles.md)
     * [Personnaliser les profils](admin/users/users-profiles.md)
   * [Configuration des connexions via les réseaux sociaux](admin/oauth/oauth.md)
-    * [Facebook](admin/oauth/facebook.md)
-    * [Twitter](admin/oauth/twitter.md)
     * [Google+](admin/oauth/google.md)
     * [LinkedIn](admin/oauth/linkedin.md)
     * [Office 365](admin/oauth/office.md)
@@ -128,6 +126,6 @@ A ajouter à l'existant dans les différents types de ressources:
 ### Chapitre 9 : L'installation
 
 ---
-[Installation](admin/install/install.md)
 
+[Installation](admin/install/install.md)
 
