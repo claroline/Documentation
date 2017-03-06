@@ -14,9 +14,9 @@ Cliquez sur le bouton **+ Ajouter une app** ou utilisez le menu déroulant **Mes
 
 Choisissez **Basic setup** lorsqu'on vous demande de choisir une plateforme.
 
-![](images/fb_new_app_choice.jpg)
+![](images/create-FB-ID.png)
 
-Donnez un nom à votre App dans le champ "Display Name", choisissez **Apps for Pages** comme **Catégorie** et cliquez pour **Create a New App ID**.
+Donnez un nom à votre App dans le champ "Display Name", choisissez **Apps for Pages** comme **Catégorie** et cliquez pour **Créer aun ID d'app**.
 
 ![](images/fb_new_app_properties.jpg)
 
