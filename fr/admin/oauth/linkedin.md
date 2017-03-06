@@ -14,7 +14,7 @@ Votre application est créée et vous êtes redirigé vers la page d'administrat
 ![](images/myclacoplatform.png)
 
 
-Vous y trouvez votre ID client et votre Secret client. Pour un fonctionnement optimal de votre app, assurez-vous que **r_basicprofile** et **r_emailaddress** sont cochés.
+Vous y trouvez votre ID client et votre Secret client. Pour un fonctionnement optimal de votre app, assurez-vous que **r_basicprofile** et **r_emailaddress** sont **cochés**.
 
 Fournissez une URL de redirection valide et autorisée sous la forme:
 
