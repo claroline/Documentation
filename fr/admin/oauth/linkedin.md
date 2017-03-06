@@ -1,7 +1,7 @@
 ### Enregistrer et configurer une App LinkedIn
 ---
 
-Connectez-vous à la page [LinkedIn Developers](https://developer.linkedin.com/#) et cliquez sur **Mes Applications** dans barre de menu supérieure.
+Connectez-vous à la page [LinkedIn Developers](https://developer.linkedin.com/#) et cliquez sur **My Apps** dans barre de menu supérieure.
 
 Cliquez sur **Créer une application**.
 
