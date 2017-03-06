@@ -117,7 +117,6 @@ A ajouter à l'existant dans les différents types de ressources:
     * [Personnaliser les profils](admin/users/users-profiles.md)
   * [Configuration des connexions via les réseaux sociaux](admin/oauth/oauth.md)
     * [Google+](admin/oauth/google.md)
-    * [LinkedIn](admin/oauth/linkedin.md)
     * [Office 365](admin/oauth/office.md)
     * [Windows Live](admin/oauth/windows.md)
   * [Gérer l'outil de présence](admin/presences.md)  

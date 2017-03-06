@@ -25,11 +25,7 @@ Vous arrivez alors sur la page de configuration de votre app. Dans son **tableau
 
 ![](/fr/admin/oauth/images/tdb-FB.png)
 
-Copiez l'ID de l'App et le Secret de l'App du tableau de bord et copiez-les dans Claroline: **Administration -&gt; Paramètres de la plateforme -&gt; Oauth -&gt; Facebook**.
-
-![](images/fb_app_id_secret.jpg)
-
-Remplissez les champs \*\*ID de l'application" et "Secret de l'application".
+Copiez l'ID de l'App et le Secret de l'App du tableau de bord et collez-les dans Claroline: **Administration -&gt; Paramètres de la plateforme -&gt; Oauth -&gt; Facebook**.
 
 Retournez dans Facebook pour développeurs.
 
