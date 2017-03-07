@@ -1,4 +1,4 @@
-## Enregistrer et configurer une Application Google
+### Enregistrer et configurer une Application Google
 ---
 
 
