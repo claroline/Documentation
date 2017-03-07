@@ -1,8 +1,8 @@
-### Enregistrer et configurer une App Office 365
+### Configurer la connexion à Claroline Connect via Office 365
 ---
 
 
-* Connectez-vous au [Microsoft account Developer Center](https://apps.dev.microsoft.com/#/appList) à l'aide de vos identifiants Windows et cliquez sur **Add an app**.
+* Connectez-vous au [Microsoft account Developer Center](https://apps.dev.microsoft.com/#/appList) à l'aide de vos identifiants Office 365 et cliquez sur **Add an app**.
 
 ![](images/windows-add-app.png)
 
@@ -12,21 +12,25 @@
 
 * Votre application est créée et vous êtes redirigé vers la page de configuration de votre app.
 
-Vous y trouvez votre **Application ID**.
+Vous y trouvez votre **Application ID** que vous allez copier-coller sur votre plateforme dans **Administration -> Paramètres de la plateforme -> Oauth -> Windows Live** dans l'espace réservé à l'**ID de l'application**.
 
 ![](images/windows-your-credentials.png)
 
-* Cliquez sur **Generate New Password** pour obtenir un mot de passe correspondant au secret à copier-coller sur votre plateforme dans **Administration -> Paramètres de la plateforme -> Oauth -> Windows Live**.
+* Cliquez sur **Generate New Password** pour obtenir un mot de passe.
 
-* Cliquez sur **Add Pplatform** dans la section **Platforms**.
+![](images/o365-generate-password.png)
+
+C'est ce mot de passe que vous allez copier-coller sur votre plateforme dans **Administration -> Paramètres de la plateforme -> Oauth -> Windows Live** dans l'espace réservé au **Secret de l'application**.
+
+Attention: C'est la seule fois que ce mot de passe sera visible. Pensez à le sauvegarder dans un endroit sûr. En cas de perte, revenez ici pour en générer un nouveau.
+
+![](images/o365-settings.png)
+
+* Cliquez sur **Add Platform** dans la section **Platforms**.
 
 ![](images/windows-add-platform.png)
 
 * Choisissez **Web**.
-
-![](images/windows-add-web.png)
-
-![](images/o365-your-credentials.png)
 
 * Remplissez l'URL de redirection au format :
     
@@ -34,6 +38,6 @@ Vous y trouvez votre **Application ID**.
 
     Exemple: http://3l.claroline.com/login/check-o365
 
-![](/fr/admin/oauth/images/o365-url.png)
+![](images/o365-url.png)
 
 * Remplissez éventuellement les informations dans la section **Profile** et cliquez sur **Save**.
