@@ -92,6 +92,7 @@
     * [LinkedIn](admin/oauth/linkedin.md)
     * [Google+](admin/oauth/google+.md)
     * [Windows Live](admin/oauth/windows-live.md)
+    * [Office 365](admin/oauth/office-365.md)
   * [Organiser des formations](admin/cursus/formations.md)
     * [Widget "Catalogues des formations"](admin/cursus/widget-formationslisting.md)
       * [Configurer le Widget "Catalogue des formations"](admin/cursus/widget-formationlisting-config.md)

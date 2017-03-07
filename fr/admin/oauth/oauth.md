@@ -17,30 +17,28 @@ Pour savoir comment générer les App pour chaque fournisseur et récupérer les
 
 [Twitter](twitter.md "Connexion via Twitter")
 
-[Google+](google.md "Connexion via Google+")
+[Google+](google+.md "Connexion via Google+")
 
 [LinkedIn](linkedin.md "Connexion via LinkedIn")
 
-[Windows Live](windows.md "Connexion via Windows Live")
+[Windows Live](windows-live.md "Connexion via Windows Live")
 
-[Office 365](office.md "Connexion via Office 365")
+[Office 365](office-365.md "Connexion via Office 365")
 
 
-Une fois que vous avez créé votre App et obtenus vos clefs, vous pouvez permttre la connexion à votre plateforme Claroline via un fournisseur tiers.
+Une fois que vous avez créé votre App et obtenus vos clefs, vous pouvez permettre la connexion à votre plateforme Claroline via un fournisseur tiers.
 
-Pour permettre une connexion via réseau social, par exemple Facebook:
+Pour permettre une connexion via un réseau social, vous devez:
 
 * Aller sur Administration -> Paramètres de la plateforme
 * Cliquer sur l'option OAuth
-* Choisissez le fournisseur que vous voulez configurer (par exemple Facebook)
-* Remplissez le formulaire avec votre identifiant (clef de l'App) et votre secret (secret de l'App), sélectionnez **Activer** et **Sauvegarder**.
+* Choisir le fournisseur que vous voulez configurer (par exemple Facebook)
+* Remplir le formulaire avec votre identifiant (clef de l'App) et votre secret (secret de l'App), sélectionner **Activer** et **Sauvegarder**.
 
 NB: Si disponible, vous pouvez sélectionner la réauthentification de force pour demander aux utilisateurs de vérifier leur identité chaque fois qu'ils se connectent via ce fournisseur.
 
-Votre connexion via les réseaux sociaux est à présent activée. Vous pouvez la tester sur votre par de connexion.
+Votre connexion via les réseaux sociaux est à présent activée. Vous pouvez la tester sur votre plateforme.
 
 ATTENTION! Vous devez posséder les droits administrateur pour configurer les paramètres de la plateforme.
 
 Si la configuration de votre App est correcte, vous devriez pouvoir vous connecter en utilisant la connexion tierce. Si ce n'est pas le cas, vérifiez la configuration de votre App et de la plateforme.
-
-Si vous avez encore des difficultés, n'hésitez pas à nous contacter.
