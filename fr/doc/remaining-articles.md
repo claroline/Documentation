@@ -116,7 +116,6 @@ A ajouter à l'existant dans les différents types de ressources:
     * [Gérer des rôles](admin/users/users-roles.md)
     * [Personnaliser les profils](admin/users/users-profiles.md)
   * [Configuration des connexions via les réseaux sociaux](admin/oauth/oauth.md)
-    * [Google+](admin/oauth/google.md)
     * [Office 365](admin/oauth/office.md)
     * [Windows Live](admin/oauth/windows.md)
   * [Gérer l'outil de présence](admin/presences.md)  
@@ -126,5 +125,5 @@ A ajouter à l'existant dans les différents types de ressources:
 
 ---
 
-[Installation](admin/install/install.md)
+[Installation](admin/install/install.md) - Vérifier les noms des paquets et les prérequis.
 
