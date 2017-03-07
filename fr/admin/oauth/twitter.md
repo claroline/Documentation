@@ -17,7 +17,7 @@
 
 ![](images/twitter_settings_icon_organization.jpg)
 
-2. Cliquez sur l'onglet  **Keys and Access Tokens** et copiez-collez l'App ID et le Secret dans Claroline: `Administration -> Paramètres de la platforme -> Oauth -> Twitter`
+2. Cliquez sur l'onglet  **Keys and Access Tokens** et copiez-collez l'App ID et le Secret dans Claroline: **Administration -> Paramètres de la platforme -> Oauth -> Twitter**.
 
 ![](images/twitter_app_id_secret.jpg)
 
