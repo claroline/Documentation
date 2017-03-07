@@ -16,7 +16,7 @@
 
 ![](images/google-oauth-screen.png)
 
-5. Dans **Identifiants**, choisissez **ID client OAuth** dans le menu déroulant **Créer des indentifiants**.
+5. Dans **Identifiants**, choisissez **ID client OAuth** dans le menu déroulant **Créer des identifiants**.
 
 ![](images/google-create-id-client.png)
 
