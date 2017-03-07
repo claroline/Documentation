@@ -91,6 +91,7 @@
     * [Twitter](admin/oauth/twitter.md)
     * [LinkedIn](admin/oauth/linkedin.md)
     * [Google+](admin/oauth/google+.md)
+    * [Windows Live](admin/oauth/windows-live.md)
   * [Organiser des formations](admin/cursus/formations.md)
     * [Widget "Catalogues des formations"](admin/cursus/widget-formationslisting.md)
       * [Configurer le Widget "Catalogue des formations"](admin/cursus/widget-formationlisting-config.md)
