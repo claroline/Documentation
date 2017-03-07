@@ -115,9 +115,9 @@ A ajouter à l'existant dans les différents types de ressources:
     * [Gérer des organisations](admin/users/users-organizations.md)  
     * [Gérer des rôles](admin/users/users-roles.md)
     * [Personnaliser les profils](admin/users/users-profiles.md)
-  * [Configuration des connexions via les réseaux sociaux](admin/oauth/oauth.md)
-    * [Office 365](admin/oauth/office.md)
-    * [Windows Live](admin/oauth/windows.md)
+  * ~~[Configuration des connexions via les réseaux sociaux](admin/oauth/oauth.md)~~
+    * ~~[Office 365](admin/oauth/office.md)~~
+    * ~~[Windows Live](admin/oauth/windows.md)~~
   * [Gérer l'outil de présence](admin/presences.md)  
   * [Gérer l'outil de support](admin/support.md)  
 
