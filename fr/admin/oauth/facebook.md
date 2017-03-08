@@ -23,7 +23,7 @@ Vous aurez à passer un contrôle de sécurité. Recopiez le texte de l'encadré
 ![](images/FB-captcha.png)
 Vous arrivez alors sur la page de configuration de votre app. Dans son **tableau de bord**, vous trouverez l'ID de l'app et sa clé secrète. Pour voir cette dernière, vous devrez vous réauthentifier sur Facebook au moyen du mot de passe de votre compte.
 
-![](/fr/admin/oauth/images/tdb-FB.png)
+![](images/tdb-FB.png)
 
 Copiez l'ID de l'App et le Secret de l'App du tableau de bord et collez-les dans Claroline: **Administration -&gt; Paramètres de la plateforme -&gt; Oauth -&gt; Facebook**.
 
