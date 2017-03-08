@@ -41,7 +41,7 @@ Exemple:
 
 ![](images/FB-OAuth-parameters.png)
 
-Dernière étape: Dans le menu **Examen des apps**, à la question _"Rendre VotreNomApp publique?"_, répondez **Oui** de façon à publier votre App. Vous devrez alors confirmer votre choix.
+Dans le menu **Examen des apps**, à la question **Rendre l'app publique?**, cliquez sur **Confirmer** de façon à publier votre App. Vous devrez alors confirmer votre choix.
 
 ![](images/fb_app_publish_app.png)
 
