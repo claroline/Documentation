@@ -119,5 +119,6 @@
 * [Participer à l'écriture de la documentation](doc/doc.md)
   * [Ce qu'il reste à écrire](doc/remaining-articles.md)
   * [Procédures à suivre](doc/process.md)
+  * [MarkDown](doc/markdown.md)
 * [Installer Claroline Connect](install/installation.md)
 
