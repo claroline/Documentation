@@ -1,7 +1,7 @@
 ### Enregistrer et configurer une App Windows Live
 ---
 
-**Attention: Si vous désirez utiliser la connexion via Windows Live, il faut que votre serveur soit configuré en https. Vous devrez aussi activer le SSL dans les paramètres de votre plateforme.**
+**Attention: Si vous désirez utiliser la connexion via Windows Live, il faut que votre serveur web soit configuré en https. Vous devrez aussi activer le SSL dans les paramètres de votre plateforme.**
 
 * Connectez-vous au [Microsoft account Developer Center](https://apps.dev.microsoft.com/#/appList) à l'aide de vos identifiants Windows et cliquez sur **Add an app**.
 
@@ -33,10 +33,10 @@ Vous y trouvez votre **Application ID**.
 
 * Remplissez l'URL de redirection au format :
     
-    http://VOTRE_NOM_DE_DOMAINE/login/check-windows
+    https://VOTRE_NOM_DE_DOMAINE/login/check-windows
 
-    Exemple: http://3l.claroline.com/login/check-windows
+    Exemple: https://3l.claroline.com/login/check-windows
 
-![](/fr/admin/oauth/images/windows-url.png)
+![](/fr/admin/oauth/images/windows-https.png)
 
 * Remplissez éventuellement les informations dans la section **Profile** et cliquez sur **Save**.
