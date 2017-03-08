@@ -19,7 +19,7 @@ Vous y trouvez votre **Application ID**.
 
 * Cliquez sur **Generate New Password** pour obtenir un mot de passe correspondant au secret à copier-coller sur votre plateforme dans **Administration -> Paramètres de la plateforme -> Oauth -> Windows Live**.
 
-![](/fr/admin/oauth/images/windows-app-secret.png)
+![](images/windows-app-secret.png)
 
 * Cliquez sur **Add Platform** dans la section **Platforms**.
 
@@ -37,6 +37,6 @@ Vous y trouvez votre **Application ID**.
 
     Exemple: https://3l.claroline.com/login/check-windows
 
-![](/fr/admin/oauth/images/windows-https.png)
+![](images/windows-https.png)
 
 * Remplissez éventuellement les informations dans la section **Profile** et cliquez sur **Save**.
