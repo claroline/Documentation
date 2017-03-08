@@ -21,11 +21,11 @@ Vous y trouvez votre **Application ID**.
 
 ![](/fr/admin/oauth/images/windows-app-secret.png)
 
-* Cliquez sur **Add Pplatform** dans la section **Platforms**.
+* Cliquez sur **Add Platform** dans la section **Platforms**.
 
 ![](images/windows-add-platform.png)
 
-* Choisissez **Web**.
+* Cliquez sur **Web**.
 
 ![](images/windows-add-web.png)
 
