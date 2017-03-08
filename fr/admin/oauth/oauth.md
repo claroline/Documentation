@@ -39,6 +39,6 @@ NB: Si disponible, vous pouvez sélectionner la réauthentification de force pou
 
 Votre connexion via les réseaux sociaux est à présent activée. Vous pouvez la tester sur votre plateforme.
 
-ATTENTION! Vous devez posséder les droits administrateur pour configurer les paramètres de la plateforme.
+**ATTENTION! Vous devez posséder les droits administrateur pour configurer les paramètres de la plateforme.**
 
 Si la configuration de votre App est correcte, vous devriez pouvoir vous connecter en utilisant la connexion tierce. Si ce n'est pas le cas, vérifiez la configuration de votre App et de la plateforme.
