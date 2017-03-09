@@ -24,7 +24,7 @@ Donnez un nom significatif à votre branche. Dans l'exemple ci-dessous, l'auteur
 
 ![](/fr/doc/images/doc-change-request-modal.png)
 
-Le nom de votre brache apparaît dès lors en haut à gauche de la page.
+Le nom de votre branche apparaît dès lors en haut à gauche de la page.
 
 ![](images/doc-procedures-ecritures.png)
 
