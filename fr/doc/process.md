@@ -2,19 +2,34 @@
 
 ---
 
-Ces balises permettent de gérer l'alignement des contenus:
+La documentation est disponible à l'adresse http://doc.claroline.com
 
-    {% left %} This **will be** aligned left. {% endleft %}
+À l'ouverture de la page, on vous demande de choisir votre langue. Cliquez sur **Français**.
 
-{% left %} This **will be** aligned left. {% endleft %}
+![](images/doc-language.png)
 
-    {% right %} This **will be** aligned right. {% endright %}
+Cliquez sur **Claroline Connect Documentation** dans le panneau de gauche.
 
-{% right %} This **will be** aligned right. {% endright %}
+![](images/doc-enter.png)
 
-    {% center %} This **will be** centered. {% endcenter %}
+Cliquez sur le bouton **Edit**.
 
-{% center %} This **will be** centered. {% endcenter %}
+![](images/doc-edit.png)
 
+Avant de commencer votre travail, vous devez créer votre propre branche en cliquant sur **Create a change request**. en haut à gauche de la page.
 
->Attention:l'alignement n'apparaît pas dans la prévisualisation! 
+![](images/doc-change-request.png)
+
+Donnez un nom significatif à votre branche. Dans l'exemple ci-dessous, l'auteur écrit le chapitre sur les procédures d'écriture de la présente documentation. Vous pouvez ajouter une description pour rendre les choses plus claires si nécessaire.
+
+![](/fr/doc/images/doc-change-request-modal.png)
+
+Le nom de votre brache apparaît dès lors en haut à gauche de la page.
+
+![](images/doc-procedures-ecritures.png)
+
+Quand vous avez terminé votre travail, cliquez sur **Publish** à l'extrémité droite de la barre supérieure. Vous pouvez aussi le faire dès que vous avez passé un long moment sur votre page par mesure de sécurité.
+
+![](/fr/doc/images/doc-publish.png)
+
+N'oubliez pas de toujours travailler sur votre branche quand vous revenez sur GitBook.
