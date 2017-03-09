@@ -4,9 +4,9 @@
 
 Rejoignez-nous sur le chat à l'adresse [https://gitter.im/claroline/Claroline](https://gitter.im/claroline/Claroline).
 
-Ce dépôt fournit la structure de base de l'application de la plateforme Claroline Connect. Il ne contien ni les sources, ni les librairies tierces qui sont nécessaires pour rendre l'application entièrement fonctionnelle. Ces sources doivent être installées en suivant une des procédures décrites ci-dessous.
+Ce dépôt fournit la structure de base de l'application de la plateforme Claroline Connect. Il ne contient ni les sources, ni les librairies tierces qui sont nécessaires pour rendre l'application entièrement fonctionnelle. Ces sources doivent être installées en suivant une des procédures décrites ci-dessous.
 
-Si vous désirez contribuer aux sources du projet ou naviguer dedans, rendez-vous au dépôt claroline/Distribution qui rassemble les modules par défaut et les plugins de la plateforme.
+Si vous désirez contribuer aux sources du projet ou les parcourir, rendez-vous au dépôt claroline/Distribution qui rassemble les modules par défaut et les plugins de la plateforme.
 
 ### Exigences
 
