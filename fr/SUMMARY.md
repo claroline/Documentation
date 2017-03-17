@@ -117,8 +117,9 @@
     * [Configurer le gestionnaire de formations](admin/cursus/general-config.md)
       * [Gérer les modèles](admin/cursus/models-config.md)
 * [Participer à l'écriture de la documentation](doc/doc.md)
-  * [Ce qu'il reste à écrire](doc/remaining-articles.md)
+  * [Nos priorités](doc/nos-priorites.md)
   * [Procédures à suivre](doc/process.md)
+  * [Ce qu'il reste à écrire](doc/remaining-articles.md)
   * [MarkDown](doc/markdown.md)
 * [Installer Claroline Connect](install/installation.md)
 
