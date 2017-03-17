@@ -16,7 +16,7 @@ La fenêtre suivante s'ouvre: ![](/assets/Figure XX Créer une localisation.png)
 
 Les localisations s'affichent en liste. Il est possible de modifier ou supprimer une localisation à tout moment.
 
-Ces lieux s'affichent ensuite en liste de choix lors de la création d'une organisation et dans la gestion des formations. 
+Ces lieux s'affichent ensuite en liste de choix lors de la création d'une organisation et dans la gestion des formations.
 
 ## Créer une organisation
 
@@ -37,7 +37,13 @@ Pour créer des organisations "filles", cliquer sur le +, puis procéder de mani
 
 ## L'administrateur d'organisation
 
+Un administrateur d'organisation pourra agir sur l'administration de la plateforme pour la partie qui concernera son organisation.
 
+* gestion des utilisateurs 
+* gestion des formations 
+* ...
+
+Cependant, cela suppose que cette délégation soit préalablement définie dans la gestion des rôles. 
 
 
 
