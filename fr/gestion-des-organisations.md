@@ -16,30 +16,26 @@ La fenêtre suivante s'ouvre: ![](/assets/Figure XX Créer une localisation.png)
 
 Les localisations s'affichent en liste. Il est possible de modifier ou supprimer une localisation à tout moment.
 
+Ces lieux s'affichent ensuite en liste de choix lors de la création d'une organisation et dans la gestion des formations. 
+
 ## Créer une organisation
 
 Dans la gestion des organisations, cliquer sur Ajouter. Une nouvelle organisation apparait.
 
-![](/assets/Figure XX nouvelle organisation.png)Cliquer sur le rouage pour saisir les informations sur cette nouvelle organisation. 
+![](/assets/Figure XX nouvelle organisation.png)Cliquer sur le rouage pour saisir les informations sur cette nouvelle organisation.
 
-La fenêtre qui s'ouvre ensuite** \(Capture Neutre à réaliser\)**  invite à 
+La fenêtre qui s'ouvre ensuite** \(Capture Neutre à réaliser\)**  invite à
 
 * compléter le nom, 
 * compléter le courriel, 
 * cocher sa localisation
 * sélectionner un administrateur pour cette organisation. 
 
-Pour créer de nouvelles organisations procéder de la même manière autant que de besoin. 
+Pour créer de nouvelles organisations procéder de la même manière autant que de besoin.
 
-Pour créer des organisations "filles", cliquer sur le +, puis procéder de manière identique. 
+Pour créer des organisations "filles", cliquer sur le +, puis procéder de manière identique.
 
 ## L'administrateur d'organisation
-
-
-
-# 
-
-
 
 
 
