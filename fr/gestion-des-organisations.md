@@ -2,7 +2,7 @@
 
 Pour s'adapter à la configuration de différentes institutions, la gestion des organisations permet de définir différentes structures au sein d'une même instance Claroline Connect. Celles-ci sont appelées "organisation". Chaque organisation peut, par délégation de l'administration de la plateforme, gérer ses propres utilisateurs \(renvoi vers la gestion des utilisateurs\).
 
-A partir du menu d'administration, sélectionner gestion des organisations.
+A partir du menu d'administration, sélectionner **Gestion des organisations**.
 
 ## Saisir une localisation
 
