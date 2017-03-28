@@ -12,7 +12,7 @@ Après avoir sélectionné **lieux**, en cliquant sur **nouveau,** vous pouvez c
 
 Celle-ci permettra de déterminer la localisation d'une organisation ou d'une formation présente au catalogue \(voir gestion des formations\).
 
-La fenêtre suivante s'ouvre: ![](/assets/Figure XX Créer une localisation.png)Saisir les éléments demandés. Tous les champs sont obligatoires sauf le numéro de boîte et le téléphone. Une fois la saisie réalisée, valider en cliquant sur Créer.
+La fenêtre suivante s'ouvre: ![](/assets/Figure XX Créer une localisation.png)Saisir les éléments demandés. Tous les champs sont obligatoires sauf le numéro de boîte et le téléphone. Une fois la saisie réalisée, valider en cliquant sur **Créer**.
 
 Les localisations s'affichent en liste. Il est possible de modifier ou supprimer une localisation à tout moment.
 
@@ -43,7 +43,5 @@ Un administrateur d'organisation pourra agir sur l'administration de la platefor
 * gestion des formations 
 * ...
 
-Cependant, cela suppose que cette délégation soit préalablement définie dans la gestion des rôles. 
-
-
+Cependant, cela suppose que cette délégation soit préalablement définie dans la gestion des rôles.
 
