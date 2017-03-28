@@ -15,7 +15,7 @@
   <tr>
     <td>Parcours</td>
     <td></td>
-    <td></td>
+    <td>28 avril</td>
   </tr>
   <tr>
     <td>Nouvelles ressources</td>
