@@ -12,21 +12,13 @@ La modification d'un texte dans les différentes ressources de la plateforme ouv
 
 Attention: Dans sa présentation initiale, toutes les fonctionnalités ne sont pas visibles : seule la première ligne d'icônes est proposée:         
 
-![](images/fig176.png)
-
-<p style="text-align: center; color: blue">Figure 176 - Icônes visibles par défaut.</p>
-
-En cliquant sur les boutons de flèches (double-flèche, ou flèche vers le bas), de nouvelles fonctionnalités apparaissent, comme décrit ci-après:
+En cliquant sur le boutons en forme de flèche vers le bas, de nouvelles fonctionnalités apparaissent, comme décrit ci-après:
 
 Cliquez sur le bouton "Tous les outils" pour faire apparaître de nouvelles fonctionnalités.
 
-![](images/fig177.png)
-
-<p style="text-align: center; color: blue">Figure 177 - Bouton "Tous les outils"</p>
-
 Cliquez sur le bouton "Plein écran" pour avoir plus de fonctionnalités et pour travailler de manière plus confortable en plein écran.
 
-![](images/fig178.png)
+![](images/full_screen.png)
 
 <p style="text-align: center; color: blue">Figure 178 - Bouton "Plein écran"</p>
 
