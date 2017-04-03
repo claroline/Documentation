@@ -24,10 +24,3 @@ Chacun de ces espaces est composé à la fois:
 Lorsque vous êtes connecté, vous accédez à votre bureau. Vous pouvez le personnaliser et y organiser votre travail.
 Vous pouvez y revenir à tout moment en cliquant sur l'icône de la maison ![accueil.png](http://www.claroline.net/uploads/custom/images/1753.png) dans la barre de menu supérieure.
 Le bureau vous donne accès à différents espaces d'activités (depuis le menu supérieur). Chaque espace d'activités est lié à un répertoire des ressources.
-
-On peut schématiser simplement l'interface de la façon suivante:
-
-
-![](images/fig4.png)
-
-<p style="text-align: center; color: blue"> Figure 4 - Structure de Claroline Connect.</p>
