@@ -24,27 +24,71 @@ Ensuite, vous devez choisir le type de champ. Vous constatez qu'il en existent d
 * Courriel: Un champ texte qui n'accepte que des contenus structurés en adresse courriel. Exemple : monadresse@quelquechose.be
 * Texte riche: Il s'agit d'un champ texte dans lequel vous avez [l'éditeur complet de la plateforme](/fr/resources/clacoForm/text-editor.md).
 
-Il vous reste encore 2 petites choses à régler:
+Il vous reste encore 3 petites choses à régler:
 
-![](images/clacoform-fig36.png)
+![](images/clacoform-fig56.png)
 
 L'attribut "obligatoire" obligera le collaborateur à remplir le champ.
 
 L'attribut "données confidentielles" permettra \(par défaut\) de ne rendre la réponse de ce champ visible que par les gestionnaires de la ressource.
 
+L'attribut "cacher le champ" rendra le champ invisible tant dans la création/édition de la fiche qu'à la lecture. Néanmoins les données seront conservées et vous pouvez à tout moment modifier l'option.
+
+Il est également possible de verrouiller un champ, cela signifie que le champ n'est pas éditable. Vous pouvez définir qui est concerné par le verrouillage des champs depuis [la configuration générale](/fr/resources/clacoForm/form-general.md). 
+
+![](images/clacoform-fig57.png)
+
+Si vous avez activé le verrouillage d'un champ vous pouvez ensuite définir s'il ne concerne que l'édition d'une fiche ou aussi sa création.
+
+![](images/clacoform-fig58.png)
+
+
 ##### Cas particuliers : les listes, les boutons radios et les checkboxes
 
 Quand vous choisissez ce type de champ, vous devez encore encoder les choix qui seront proposés à vos utilisateurs.
 
-![](images/clacoform-fig19.png)
+![](images/clacoform-fig48.png)
 
 Vous pouvez évidement ajouter autant de choix que vous le voulez.
 
 Il vous est également possible d'associer une catégorie à un choix. Cela aura pour effet, lors de la sélection du choix, d'automatiquement attribuer [la catégorie](/fr/resources/clacoForm/form-category.md). associée à la fiche.
 
-![](images/clacoform-fig20.png)
+![](images/clacoform-fig49.png)
 
-Si vous souhaitez associer un choix à [une catégorie](/fr/resources/clacoForm/form-category.md), il vous suffit de cliquer sur les 3 petits traits noirs à côté de la corbeille. Une liste vous propose alors de sélectionner [la catégorie](/fr/resources/clacoForm/form-category.md) souhaitée. Pour cela, il faut avoir préalablement créé vos [catégories](/fr/resources/clacoForm/form-category.md).
+Si vous souhaitez associer un choix à [une catégorie](/fr/resources/clacoForm/form-category.md), il vous suffit de cliquer sur le dessin représentant un petit casier à côté de la corbeille. Une liste vous propose alors de sélectionner [la catégorie](/fr/resources/clacoForm/form-category.md) souhaitée. Pour cela, il faut avoir préalablement créé vos [catégories](/fr/resources/clacoForm/form-category.md).
 
 Pour supprimer l'association, il suffit de cliquer sur les 3 traits blancs sur fond orange.
+
+Vous aurez probablement remarqué que sur les listes déroulante, un autre bouton est présent sur les choix encodés.
+
+![](images/clacoform-fig50.png)
+
+Ce bouton vous permet d'ajouter une sous listes pour le choix. Concrètement, si vous ajouté une sous liste à votre premier item. Si un utilisateur sélectionne le premier item, il devra ensuite choisir un élément de la sous-liste. C'est ce qu'on appelle des listes en cascade. Il vous est possible de travailler sur 3 niveaux.
+
+Voici un exemple côté "gestion des champs":
+
+![](images/clacoform-fig55.png)
+
+
+et le résultat côté "formulaire":
+
+![](images/clacoform-fig54.png)
+
+Pour construire ces listes, après avoir cliqué sur le bouton représentant les 3 petites lignes, vous pourrez:
+
+Soit ajouter un choix, de la même manière que dans la liste parente
+
+![](images/clacoform-fig52.png)
+
+
+Soit **copier** les choix d'**une** autre **liste**.
+
+![](images/clacoform-fig53.png)
+
+Une fois les choix copiés, vous pouvez les éditer, supprimer ou associer des catégories comme pour les autres. 
+
+> Attention, il s'agit bien de copier les choix d'une autre liste. Cela veut dire que si vous modifier la liste d'origine après la copie, les changements ne seront pas répercuté dans la sous-liste.
+
+
+
 
