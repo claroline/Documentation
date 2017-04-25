@@ -36,7 +36,7 @@ L'attribut "données confidentielles" permettra \(par défaut\) de ne rendre la 
 
 Quand vous choisissez ce type de champ, vous devez encore encoder les choix qui seront proposés à vos utilisateurs.
 
-![](images/clacoform-fig19.png)
+![](images/clacoform-fig48.png)
 
 Vous pouvez évidement ajouter autant de choix que vous le voulez.
 
