@@ -2,6 +2,8 @@
 
 ---
 
+![](images/quiz-fig6.png)
+
 
 ##### Durée
 

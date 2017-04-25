@@ -6,6 +6,7 @@
 
 Les paramètres du questionnaire vont influencer tout ce qui concerne la passation, les scores et la correction.
 
+![](images/quiz-fig2.png)
 
 
 Vous pouvez modifier :
@@ -14,6 +15,3 @@ Vous pouvez modifier :
 * L'ordre et le tirage des étapes,
 * les contraintes de passation
 * la manière dont s'affichera la correction et le score.
-
-
-

@@ -9,7 +9,7 @@ Lorsque vous arrivez pour la première fois dans votre questionnaire, vous avez 
 
 #### Créer une étape
 
-Si vous souhaitez créer d'autres étapes il suffit de cliquer sur le "+" se trouvant sous l'étape existante 
+Si vous souhaitez créer d'autres étapes il suffit de cliquer sur le "+" se trouvant sous l'étape existante
 
 #### Paramétrer une étape
 
@@ -17,13 +17,10 @@ En cliquant sur "Paramètres" vous pourrez accéder aux paramètres de l'étape.
 
 
 
-* Le titre 
+* Le titre
 
 Vous pouvez donner un nom à votre étape. Il sera directement changé dans la vignette de gauche \(comme ci-dessous avec le titre "intro"\) et sera visible lors de la passation de l'exercice par les utilisateurs.
 
 * La description
 
 La description sera aussi visible lors de la passation comme vous pouvez le voir au dessus de la question ci-dessous.
-
-![](images/quiz-fig9.png)
-
