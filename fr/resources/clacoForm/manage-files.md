@@ -32,9 +32,11 @@ Par défaut, et par souci de lisibilité, tous les champs ne sont pas affichés.
 
 ##### Agir sur les fiches
 
+Pour agir sur une fiche, il suffit de l'ouvrir en cliquant sur ...
 
 
-![](images/clacoform-fig30.png)
+
+
 
 L’œil permet de publier ou d'archiver la fiche. L'archivage consiste simplement à rendre la fiche "invisible" pour les utilisateurs. Dans le tableau, cela se traduit par une ligne barrée.
 
@@ -68,6 +70,7 @@ Le crayon permet d'entrer en mode édition de la fiche. Selon vos droits, les pa
 
 Certains de ces actions sont disponible via un raccourci présetn dans la colonne **Action** en bout de ligne du tableau des fiches.
 
+![](images/clacoform-fig30.png)
 
 
 
