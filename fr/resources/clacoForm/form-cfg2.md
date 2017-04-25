@@ -11,9 +11,7 @@ Depuis ce menu vous pouvez supprimer toutes les fiches contenues dans la ressour
 Vous avez également la possibilité d'exporter toutes les données au format "xls" pour cela, il suffit de cliquer sur ce bouton:
 ![](images/clacoform-fig60.png)
 
-
-
-
+Vous avez ensuite accès à différents sous-menus de configuration.
 
 ![](images/clacoform-fig59.png)
 
