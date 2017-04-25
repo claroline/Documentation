@@ -24,13 +24,24 @@ Ensuite, vous devez choisir le type de champ. Vous constatez qu'il en existent d
 * Courriel: Un champ texte qui n'accepte que des contenus structurés en adresse courriel. Exemple : monadresse@quelquechose.be
 * Texte riche: Il s'agit d'un champ texte dans lequel vous avez [l'éditeur complet de la plateforme](/fr/resources/clacoForm/text-editor.md).
 
-Il vous reste encore 2 petites choses à régler:
+Il vous reste encore 3 petites choses à régler:
 
-![](images/clacoform-fig36.png)
+![](images/clacoform-fig56.png)
 
 L'attribut "obligatoire" obligera le collaborateur à remplir le champ.
 
 L'attribut "données confidentielles" permettra \(par défaut\) de ne rendre la réponse de ce champ visible que par les gestionnaires de la ressource.
+
+L'attribut "cacher le champ" rendra le champ invisible tant dans la création/édition de la fiche qu'à la lecture. Néanmoins les données seront conservées et vous pouvez à tout moment modifier l'option.
+
+Il est également possible de verrouiller un champ, cela signifie que le champ n'est pas éditable. Vous pouvez définir qui est concerné par le verrouillage des champs depuis [la configuration générale](/fr/resources/clacoForm/form-general.md). 
+
+![](images/clacoform-fig57.png)
+
+Si vous avez activé le verrouillage d'un champ vous pouvez ensuite définir s'il ne concerne que l'édition d'une fiche ou aussi sa création.
+
+![](images/clacoform-fig58.png)
+
 
 ##### Cas particuliers : les listes, les boutons radios et les checkboxes
 
