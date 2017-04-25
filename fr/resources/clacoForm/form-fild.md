@@ -48,3 +48,36 @@ Si vous souhaitez associer un choix à [une catégorie](/fr/resources/clacoForm/
 
 Pour supprimer l'association, il suffit de cliquer sur les 3 traits blancs sur fond orange.
 
+Vous aurez probablement remarqué que sur les listes déroulante, un autre bouton est présent sur les choix encodés.
+
+![](images/clacoform-fig50.png)
+
+Ce bouton vous permet d'ajouter une sous listes pour le choix. Concrètement, si vous ajouté une sous liste à votre premier item. Si un utilisateur sélectionne le premier item, il devra ensuite choisir un élément de la sous-liste. C'est ce qu'on appelle des listes en cascade. Il vous est possible de travailler sur 3 niveaux.
+
+Voici un exemple côté "gestion des champs":
+
+![](images/clacoform-fig55.png)
+
+
+et le résultat côté "formulaire":
+
+![](images/clacoform-fig54.png)
+
+Pour construire ces listes, après avoir cliqué sur le bouton représentant les 3 petites lignes, vous pourrez:
+
+Soit ajouter un choix, de la même manière que dans la liste parente
+
+![](images/clacoform-fig52.png)
+
+
+Soit **copier** les choix d'**une** autre **liste**.
+
+![](images/clacoform-fig53.png)
+
+Une fois les choix copiés, vous pouvez les éditer, supprimer ou associer des catégories comme pour les autres. 
+
+> Attention, il s'agit bien de copier les choix d'une autre liste. Cela veut dire que si vous modifier la liste d'origine après la copie, les changements ne seront pas répercuté dans la sous-liste.
+
+
+
+
