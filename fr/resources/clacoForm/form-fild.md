@@ -42,9 +42,9 @@ Vous pouvez évidement ajouter autant de choix que vous le voulez.
 
 Il vous est également possible d'associer une catégorie à un choix. Cela aura pour effet, lors de la sélection du choix, d'automatiquement attribuer [la catégorie](/fr/resources/clacoForm/form-category.md). associée à la fiche.
 
-![](images/clacoform-fig20.png)
+![](images/clacoform-fig49.png)
 
-Si vous souhaitez associer un choix à [une catégorie](/fr/resources/clacoForm/form-category.md), il vous suffit de cliquer sur les 3 petits traits noirs à côté de la corbeille. Une liste vous propose alors de sélectionner [la catégorie](/fr/resources/clacoForm/form-category.md) souhaitée. Pour cela, il faut avoir préalablement créé vos [catégories](/fr/resources/clacoForm/form-category.md).
+Si vous souhaitez associer un choix à [une catégorie](/fr/resources/clacoForm/form-category.md), il vous suffit de cliquer sur le dessin représentant un petit casier à côté de la corbeille. Une liste vous propose alors de sélectionner [la catégorie](/fr/resources/clacoForm/form-category.md) souhaitée. Pour cela, il faut avoir préalablement créé vos [catégories](/fr/resources/clacoForm/form-category.md).
 
 Pour supprimer l'association, il suffit de cliquer sur les 3 traits blancs sur fond orange.
 
