@@ -69,6 +69,7 @@
         * [Fiches aléatoires](resources/clacoForm/form-random.md)
         * [Liste des fiches](resources/clacoForm/form-listing.md)
         * [Données confidentielles](resources/clacoForm/form-metadata.md)
+        * [Champs verouillés](resources/clacoForm/form-locked.md)
         * [Catégories](resources/clacoForm/form-categorys.md)
         * [Commentaires](resources/clacoForm/form-comments.md)
         * [Mots-clés](resources/clacoForm/form-keywords.md)
