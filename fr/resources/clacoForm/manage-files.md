@@ -32,10 +32,17 @@ Par défaut, et par souci de lisibilité, tous les champs ne sont pas affichés.
 
 ##### Agir sur les fiches
 
-Pour agir sur une fiche, il suffit de l'ouvrir en cliquant sur ...
+Pour agir sur une fiche, il suffit de l'ouvrir en cliquant sur ... Vous pourrez ainsi visualiser l'entièreté de la fiche. En haut à droite se trouve une série d'icône permettant d'effectuer des actions sur la fiche.
 
+![](images/clacoform-fig47.png)
 
+> Certaines de ces fonctions peuvent avoir été désactivées par le gestionnaire de la ressource.
 
+En cliquant sur la cloche, vous activerez une notification en cas de modifications de la fiche. Par défaut, cette option est sélectionné pour toutes les fiches que vous créées. Si une flèche est présente à droite de la cloche, cela vous permet de choisir indépendamment d'être notifié pour les changements ou les commentaires. 
+
+L'imprimante, vous permet de télécharger la fiche au format pdf.
+
+Le bouton représentant trois points reliés permet de partager votre fiche avec l'un de vos contacts sur la plateforme. Partager votre fiche signifie que vous donnez à la personne que vous avez choisie les mêmes droits que les vôtres sur la fiche.
 
 
 L’œil permet de publier ou d'archiver la fiche. L'archivage consiste simplement à rendre la fiche "invisible" pour les utilisateurs. Dans le tableau, cela se traduit par une ligne barrée.
