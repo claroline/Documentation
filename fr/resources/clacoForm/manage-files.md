@@ -32,7 +32,7 @@ Par défaut, et par souci de lisibilité, tous les champs ne sont pas affichés.
 
 ##### Agir sur les fiches
 
-Pour agir sur une fiche, il suffit de l'ouvrir en cliquant sur ... Vous pourrez ainsi visualiser l'entièreté de la fiche. En haut à droite se trouve une série d'icône permettant d'effectuer des actions sur la fiche.
+Pour agir sur une fiche, il suffit de l'ouvrir en cliquant sur son titre ou à défaut sur la loupe à gauche du tableau. Vous pourrez ainsi visualiser l'entièreté de la fiche. En haut à droite se trouve une série d'icône permettant d'effectuer des actions sur la fiche ouverte.
 
 ![](images/clacoform-fig47.png)
 
