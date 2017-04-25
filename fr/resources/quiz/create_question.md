@@ -8,5 +8,4 @@ Une fois dans l'étape, vous pouvez choisir entre  3 options :
 * importer une question depuis votre banque de questions,
 * ajouter du contenu.
 
-
-
+![](images/quiz-fig8.png)

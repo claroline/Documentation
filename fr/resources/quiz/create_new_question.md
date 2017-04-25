@@ -6,13 +6,27 @@ Pour créer une question choisissez le type de question que vous souhaitez conce
 
 ![](images/quiz-fig7.png)
 
-Certains champs du formulaire de création de question sont communs à tous les types de question.
+Certains champs du formulaire de création d'une question sont communs à tous les types de question.
 
 ##### Question
 
-Dans "Titre et autres champs" se trouvent les champs non obligatoires suivants
-##### Titre
+C'est dans ce champ que vous devez mettre la consigne de votre question. Ce champ est obligatoire.
 
-##### Description
+##### Titre et autres champs
+*Ces champs ne sont pas obligatoires*
 
-##### Objet(s) de la question
+* Titre
+
+* Description
+
+* Objet(s) de la question
+
+![](images/quiz-fig9.png)
+
+
+##### Indices et commentaire final
+*Ces champs ne sont pas obligatoires*
+
+* Indices
+
+* Commentaire final
