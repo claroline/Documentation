@@ -22,7 +22,7 @@ Les trois tableaux possibles sont:
 
 Chaque colonne du tableau correspond à un champ d'une fiche. Il vous suffit d'écrire la valeur que vous cherchée dans la colonne adéquate. Ces champs sont cumulatifs. Vous pouvez donc chercher par exemple toutes les fiches d'un utilisateur donné à une date donnée.
 
-Par défaut, et par souci de lisibilité, tous les champs ne sont pas affichés. Si vous souhaitez ajouter les champs manquants, il vous suffit de cliquer sur le bouton filtre en haut à droite du tableau.
+Par défaut, et par souci de lisibilité, tous les champs ne sont pas affichés. Si vous souhaitez ajouter les champs manquants,et que le gestionnaire vous en a donné le droit, il vous suffit de cliquer sur le bouton filtre en haut à droite du tableau.
 
 ![](images/clacoform-fig3.png)
 
@@ -32,7 +32,7 @@ Par défaut, et par souci de lisibilité, tous les champs ne sont pas affichés.
 
 ##### Agir sur les fiches
 
-Les différentes actions possibles sur les fiches sont indiquées dans la colonne **Action** en bout de ligne.
+
 
 ![](images/clacoform-fig30.png)
 
@@ -65,6 +65,9 @@ Le crayon permet d'entrer en mode édition de la fiche. Selon vos droits, les pa
 > ![](images/clacoform-fig43.png)
 >
 > Un nouveau commentaire qui doit être modéré est affiché sur un fond orange.
+
+Certains de ces actions sont disponible via un raccourci présetn dans la colonne **Action** en bout de ligne du tableau des fiches.
+
 
 
 
