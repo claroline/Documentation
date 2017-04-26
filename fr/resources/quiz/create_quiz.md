@@ -9,5 +9,4 @@ Une fois votre questionnaire créé dans vos ressources, cliquez dessus pour le 
 
 Même si votre questionnaire est encore vide, vous avez tout de même accès aux paramètres de ce dernier ainsi qu'à une étape.
 
-
-
+![](images/quiz-fig10.png)
