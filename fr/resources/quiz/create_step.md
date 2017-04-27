@@ -2,7 +2,7 @@
 
 Une question est un sous-élément d'une étape. Avant de créer une question il faut donc créer son contenant : l'étape.
 
-L'ensemble des questions contenues dans une étape seront sur la même page lors de la passation. Si vous faites un questionnaire avec 3 étapes, l'utilisateurs devra alors changer d'écran \(cliquer sur "suivant"\) 3 fois au cours du questionnaire.  
+L'ensemble des questions contenues dans une étape seront sur la même page lors de la passation. Si vous faites un questionnaire avec 3 étapes, l'utilisateur devra alors changer d'écran \(cliquer sur "suivant"\) 3 fois au cours du questionnaire.  
 Les étapes peuvent aussi apparaitre dans un ordre aléatoire ou être tirées au hasard lors de la passation en fonction de comment vous avez choisi de configurer la passation \(cf. [Paramétrer votre questionnaire](quiz_parameters.md) \).
 
 Lorsque vous arrivez pour la première fois dans votre questionnaire, vous avez déjà une étape par défaut.

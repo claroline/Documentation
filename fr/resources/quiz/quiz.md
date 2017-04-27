@@ -17,7 +17,7 @@ Les questions peuvent être de différents types :
 - **Association** : lier un élément (texte, image, son, vidéo,...) à un ou plusieurs autres éléments (texte, image, son, vidéo,...).
 - **Appariement** :  mettre des objets (texte, image, son, vidéo,...) par paires.
 - **Classement** : déplacer des éléments (texte, image, son, vidéo,...) dans des ensembles.
-- **Texte à trous** : Combler des lacunes avec des éléments avec des éléments pertinents dans le contexte. Il est possible de les compléter soit en rédigeant une zone texte soit en choisissant l'élément dans une liste prédéfinie.
+- **Texte à trous** : Combler des lacunes avec des éléments pertinents dans le contexte. Il est possible de les compléter soit en rédigeant une zone texte soit en choisissant l'élément dans une liste prédéfinie.
 - **Ouverte** : répondre à une question par un texte libre pouvant contenir des ressources (texte, image, son, vidéo,...). La question ouverte nécessite une correction manuelle.
 - **Mots clés** : rédiger une réponse avec un ou plusieurs mots clés attendus.
 - **Graphique** : Pointer une ou plusieurs zones sur une image de fond.
