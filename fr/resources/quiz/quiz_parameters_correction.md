@@ -21,6 +21,8 @@ Par exemple, vous avez défini 6 questions ayant un score de 1 point chacune et 
 ##### Afficher les feedbacks en fin d'étape
 
 Les feedbacks permettent à l'utilisateur de savoir si les réponses qu'il a données lors d'un essai d'une étape sont juste ou faux. En activant cette option, l'utilisateur est guidé vers les réponses attendues mais ces derniêres ne sont pas affichées.
+Exemple de feedback en fin d'étape :
+![](images/quiz-fig22.png)
 
 ##### Rendre les résultats des utilisateurs anonyme
 
