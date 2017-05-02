@@ -19,11 +19,10 @@ En cochant cette option, vos choix seront disposés aléatoirement lors de la pa
 
 #### **Les choix**
 
-Les choix peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).  
-  Chaque choix doit être associé à un score et au moins un choix doit avoir un score positif. Le fond de couleur permet de voir si le score associé à la réponse est positif \(vert\) ou négatif ou nul \(rouge\).
+Les choix peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\). Chaque choix doit être associé à un score et au moins un choix doit avoir un score positif. Le fond de couleur permet de voir si le score associé à la réponse est positif \(vert\) ou négatif ou nul \(rouge\).
 
 Chaque choix peut avoir un feedback. Le feedback est un message non obligatoire que vous pouvez adresser à l'utilisateur si celui-ci sélectionne ce choix. Ce feedback sera affiché en fin d'étape si cette option a été choisie dans les paramètres du questionnaire \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) ainsi que dans la correction.  
-  Ici, en cliquant sur l'icône  : ![](images/quiz-fig20.png), vous ouvrez le champ texte où vous écrirez le feedback.
+En cliquant sur l'icône  : ![](images/quiz-fig20.png), vous ouvrez le champ texte où vous écrirez le feedback.
 
 Enfin, la poubelle vous permet de supprimer le choix, mais il est nécessaire d'avoir au minimum deux choix.
 
