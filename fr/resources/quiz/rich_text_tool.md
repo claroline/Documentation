@@ -1,4 +1,4 @@
-### ![](/assets/quiz-fig25.png)Utiliser l'outil texte riche
+### Utiliser l'outil texte riche
 
 ---
 
