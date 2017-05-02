@@ -84,7 +84,7 @@
 </table> 
 
 </tr>
-<strong>Anciennes</strong>
+<strong>Anciennes échéances</strong>
 </tr>
 
  <table style="width:100%">
