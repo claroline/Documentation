@@ -1,4 +1,4 @@
-### Utiliser l'outil texte riche
+### ![](/assets/quiz-fig25.png)Utiliser l'outil texte riche
 
 ---
 
@@ -7,7 +7,9 @@ Les champs textes possédant un "+" en haut à droite sont ceux qui possèdent l
 
 En cliquant sur le "+" vous avez accès aux outils habituels de texte riche existant sur le reste de la plateforme.
 
-
+![](/fr/resources/quiz/images/quiz-fig25.png)
 
 Vous pouvez cliquer sur le "-" afin de cacher à nouveau ces outils.
+
+![](/fr/resources/quiz/images/quiz-fig26.png)
 
