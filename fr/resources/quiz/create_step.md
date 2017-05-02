@@ -1,5 +1,7 @@
 ### Créer et paramétrer une étape
 
+---
+
 Une question est un sous-élément d'une étape. Avant de créer une question il faut donc créer son contenant : l'étape.
 
 L'ensemble des questions contenues dans une étape seront sur la même page lors de la passation. Si vous faites un questionnaire avec 3 étapes, l'utilisateur devra alors changer d'écran \(cliquer sur "suivant"\) 3 fois au cours du questionnaire.  
@@ -17,16 +19,15 @@ Si vous souhaitez créer d'autres étapes il suffit de cliquer sur le "+" se tro
 
 En cliquant sur "Paramètres" vous pourrez accéder aux paramètres de l'étape.
 
-
-* Le titre
+* **Le titre**
 
 Vous pouvez donner un nom à votre étape. Il sera directement changé dans la vignette de gauche et sera visible lors de la passation de l'exercice par les utilisateurs.
 
 ![](images/quiz-fig11.png)
 
-
-* La description
+* **La description**
 
 La description sera visible lors de la passation.
 
 ![](images/quiz-fig12.png)
+
