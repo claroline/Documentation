@@ -9,6 +9,5 @@ Sur Claroline Connect, vous allez retrouver différents types de ressources:
 * Des outils de communication \(annonces, forum, blog\)
 * Des Wikis
 * Un générateur de questionnaires
-
-
+* Un outil de gestion de bases de données
 
