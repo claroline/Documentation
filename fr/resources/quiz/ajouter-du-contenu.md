@@ -10,11 +10,19 @@ Tout comme les objets de la question ces contenus peuventêtre de source diverse
 
 #### Contenu texte
 
-Si vous choisissez d'ajouter un contenu texte, un champ s'ouvre et vous pouvez tapez votre texte
+Si vous choisissez d'ajouter un contenu texte, un champ texte riche s'ouvre et vous pouvez tapez votre texte.
 
-#### Contenu image
+Comme pour une question, vous pouvez renseigner les champs "titre" et "description" si vous le souhaitez \(facultatif\).
 
-#### Contenu audio
+![](/fr/resources/quiz/images/quiz-fig27.png)
+
+#### Contenu image, audio et vidéo
+
+Si vous choisissez un contenu image, audio ou vidéo, une fenêtre s'ouvrira pour vous permettre d'importer un fichier depuis votre ordinateur.
+
+Comme pour le contenu texte, vous pouvez renseigner les champs "titre" et "description" si vous le souhaitez \(facultatif\).
+
+![](/fr/resources/quiz/images/quiz-fig28.png)
 
 #### Affichage lors de la passation
 
