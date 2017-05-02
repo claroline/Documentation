@@ -84,9 +84,9 @@
       * [Créer et paramétrer une étape](resources/quiz/create_step.md)
       * [Créer/importer une question ou ajouter du contenu](resources/quiz/create_question.md)
         * [Créer une nouvelle question](resources/quiz/create_new_question.md)
-          * Question Choix Multiple
-          * Question Association
-          * Question Texte à trous
+          * [Question Choix Multiple](resources/quiz/choice.md)
+          * [Question Association](resources/quiz/association.md)
+          * [Question Texte à trous](resources/quiz/cloze.md)
           * Question Graphique
           * Question Ouverte
           * Question Appariement
@@ -96,7 +96,7 @@
           * Question Ordonnancement
           * Question Vrai / Faux
         * Importer une question
-        * Ajouter du contenu
+        * [Ajouter du contenu](resources/quiz/ajouter-du-contenu.md)
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
   * [Aperçu des paramètres modifiables sur la plateforme](admin/platform-parameters.md)
