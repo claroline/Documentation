@@ -95,7 +95,7 @@
           * Question Ordonnancement
           * Question Vrai / Faux
         * Importer une question
-        * Ajouter du contenu
+        * [Ajouter du contenu](resources/quiz/ajouter-du-contenu.md)
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
   * [Aperçu des paramètres modifiables sur la plateforme](admin/platform-parameters.md)
@@ -136,3 +136,4 @@
   * [Ce qu'il reste à écrire](doc/remaining-articles.md)
   * [MarkDown](doc/markdown.md)
 * [Installer Claroline Connect](install/installation.md)
+

@@ -51,6 +51,10 @@ _Ces champs ne sont pas obligatoires_
 
 L'indice est une aide pour l'utilisateur. Lors de la passation cet indice n'est pas affiché par défaut. Si l'utilisateur veut y avoir accès, il doit cliquer dessus. Si c'est le cas, il pourra avoir une pénalité si vous l'avez prédéfinie dans le champ numéraire à droite du champ texte.
 
+Voici comment se présente l'indice lors de la passation : 
+
+![](/fr/resources/quiz/images/quiz-fig33.png)
+
 * **Commentaire final**
 
 Le commentaire final s'affiche lors de la passation au moment de l'affichage des feedbacks en fin d'étape ainsi que dans la correction.  

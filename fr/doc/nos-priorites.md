@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>Parcours</td>
-    <td></td>
+    <td>Pauline</td>
     <td>28 avril</td>
   </tr>
   <tr>
@@ -32,4 +32,10 @@
     <td>Chahira</td>
     <td>28 avril</td>
   </tr>
+  <tr>
+    <td>Autres ressources (à minima)</td>
+    <td>Pauline</td>
+    <td>28 avril</td>
+  </tr>
+
 </table> 
