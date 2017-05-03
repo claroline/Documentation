@@ -75,6 +75,7 @@
         * [Mots-clés](resources/clacoForm/form-keywords.md)
     * [Le questionnaire](resources/quiz/quiz.md)
       * [Créer un questionnaire](resources/quiz/create_quiz.md)
+      * [Iconographie ](resources/quiz/iconographie.md)
       * [Utiliser l'outil de texte riche](resources/quiz/rich_text_tool.md)
       * [Paramétrer votre questionnaire](resources/quiz/quiz_parameters.md)
         * [Propriétés du questionnaire](resources/quiz/quiz_parameters_properties.md)
@@ -95,7 +96,7 @@
           * Question Tableau
           * Question Ordonnancement
           * Question Vrai / Faux
-        * Importer une question
+        * [Importer une question](resources/quiz/importer-une-question.md)
         * [Ajouter du contenu](resources/quiz/ajouter-du-contenu.md)
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
