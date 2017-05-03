@@ -75,6 +75,7 @@
         * [Mots-clés](resources/clacoForm/form-keywords.md)
     * [Le questionnaire](resources/quiz/quiz.md)
       * [Créer un questionnaire](resources/quiz/create_quiz.md)
+      * [Iconographie ](resources/quiz/iconographie.md)
       * [Utiliser l'outil de texte riche](resources/quiz/rich_text_tool.md)
       * [Paramétrer votre questionnaire](resources/quiz/quiz_parameters.md)
         * [Propriétés du questionnaire](resources/quiz/quiz_parameters_properties.md)
