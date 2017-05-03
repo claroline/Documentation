@@ -61,14 +61,15 @@
       * [Mettre une base de données en place](resources/clacoForm/form-cfg.md)
         * [Créer des champs](resources/clacoForm/form-fild.md)
         * [Créer un template](resources/clacoForm/form-templates.md)
-        * [Créer des catégories](resources/clacoForm/form-category.md)
         * [Gérer des mots-clés](resources/clacoForm/form-keyword.md)
+        * [Créer des catégories](resources/clacoForm/form-category.md)
       * [Configurations avancées d'une base de données](resources/clacoForm/form-cfg2.md)
         * [Général](resources/clacoForm/form-general.md)
         * [Affichage](resources/clacoForm/form-display.md)
         * [Fiches aléatoires](resources/clacoForm/form-random.md)
         * [Liste des fiches](resources/clacoForm/form-listing.md)
         * [Données confidentielles](resources/clacoForm/form-metadata.md)
+        * [Champs verouillés](resources/clacoForm/form-locked.md)
         * [Catégories](resources/clacoForm/form-categorys.md)
         * [Commentaires](resources/clacoForm/form-comments.md)
         * [Mots-clés](resources/clacoForm/form-keywords.md)
@@ -95,7 +96,7 @@
           * Question Ordonnancement
           * Question Vrai / Faux
         * Importer une question
-        * Ajouter du contenu
+        * [Ajouter du contenu](resources/quiz/ajouter-du-contenu.md)
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
   * [Aperçu des paramètres modifiables sur la plateforme](admin/platform-parameters.md)
@@ -136,3 +137,4 @@
   * [Ce qu'il reste à écrire](doc/remaining-articles.md)
   * [MarkDown](doc/markdown.md)
 * [Installer Claroline Connect](install/installation.md)
+
