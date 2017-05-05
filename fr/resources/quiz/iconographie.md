@@ -10,7 +10,7 @@ Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une sig
 
 #### Déplacer
 
-
+![](/fr/resources/quiz/images/quiz-fig38.png)
 
 #### Supprimer
 
