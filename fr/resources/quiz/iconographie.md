@@ -18,6 +18,8 @@ Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une sig
 
 #### Commentaire / Feedback
 
+![](/fr/resources/quiz/images/quiz-fig20.png)
+
 #### Bonne réponse
 
 ![](/fr/resources/quiz/images/quiz-fig34.png)
