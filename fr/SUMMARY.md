@@ -76,7 +76,7 @@
     * [Le questionnaire](resources/quiz/quiz.md)
       * [Créer un questionnaire](resources/quiz/create_quiz.md)
       * [Utiliser l'outil de texte riche](resources/quiz/rich_text_tool.md)
-      * [Iconographie ](resources/quiz/iconographie.md)
+      * [Iconographie](resources/quiz/iconography.md)
       * [Paramétrer votre questionnaire](resources/quiz/quiz_parameters.md)
         * [Propriétés du questionnaire](resources/quiz/quiz_parameters_properties.md)
         * [Tirage des étapes](resources/quiz/quiz_parameters_step_picking.md)
