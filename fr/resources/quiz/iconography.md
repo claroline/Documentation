@@ -2,13 +2,17 @@
 
 ---
 
-Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une signification précise. Voici ces icônes et leur signification :
+Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une signification précise. Certaines sont présentes aussi ailleurs dans la plateforme. Voici ces icônes et leur signification :
 
 #### ![](/fr/resources/quiz/images/quiz-fig29.png) Editer
 
+#### ![](/fr/resources/quiz/images/quiz-fig39.png) Plein écran
+
+#### ![](/fr/resources/quiz/images/quiz-fig41.png) Menu d'actions
+
+#### ![](/fr/resources/quiz/images/quiz-fig40.png) Enregistrement
 
 #### ![](/fr/resources/quiz/images/quiz-fig38.png) Déplacer
-
 
 #### ![](/fr/resources/quiz/images/quiz-fig37.png) Supprimer
 
@@ -27,6 +31,11 @@ Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une sig
 
 
 #### ![](/fr/resources/quiz/images/quiz-fig36.png) Erreur ou information manquante
+
+
+
+
+
 
 
 
