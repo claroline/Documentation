@@ -40,6 +40,8 @@ Il s'agit bien évidement de l'action la plus importante. En cliquant sur ce bou
 
 Il vous faut avant tout définir un **titre** et un **code**. Ce code doit être unique.
 
+Vous devez ensuite choisir **La ou les organisation(s)** dont fera partie votre cursus. Vous ne pouvez choisir que parmi les organisations dont vous êtes membre. 
+
 Vous avez ensuite la possibilité d'associer une **description** et une **icône** (image) à votre cursus.
 
 Vous avez la possibilité d'associer **un espace d'activités** existant à votre cursus. Cela aura pour conséquence que tous les étudiants inscrits dans ce cursus seront également inscrits dans cet espace d'activités. Selon vos besoins cet espace en particulier peut être un lieu d'échange ou de contenus administratifs...
