@@ -12,6 +12,8 @@ La première partie du formulaire est assez semblable à ceux que vous pouvez tr
 
 Il faut donner un **titre**, un **code** qui doit être unique et éventuellement une **description** et une **icône** pour représentée la formation. Cette icône apparaîtra notamment dans les widgets. 
 
+Comme pour le cursus, vous devez choisir **La ou les organisation(s)** dont fera partie votre cursus. Vous ne pouvez choisir que parmi les organisations dont vous êtes membre. 
+
 Il vous faut ensuite définir les configurations de base qui seront attribuées aux sessions que vous organiserez pour cette formation:
 ![](images/cursus-fig59.png)
 
