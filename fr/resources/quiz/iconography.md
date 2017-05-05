@@ -6,7 +6,6 @@ Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une sig
 
 #### ![](/fr/resources/quiz/images/quiz-fig29.png) Editer
 
-![](/fr/resources/quiz/images/quiz-fig29.png)
 
 #### ![](/fr/resources/quiz/images/quiz-fig38.png) Déplacer
 
