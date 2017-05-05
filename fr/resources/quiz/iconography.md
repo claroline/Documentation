@@ -29,7 +29,6 @@ Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une sig
 #### ![](/fr/resources/quiz/images/quiz-fig30.png) Travail en cours
 
 
-
 #### ![](/fr/resources/quiz/images/quiz-fig36.png) Erreur ou information manquante
 
 
