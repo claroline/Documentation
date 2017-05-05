@@ -2,7 +2,7 @@
 
 ---
 
-Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une signification précise.
+Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une signification précise. Voici ces icônes et leur signification :
 
 #### Editer
 
