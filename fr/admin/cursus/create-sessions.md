@@ -8,7 +8,8 @@ Une session peut être créé depuis plusieurs endroits différents:
 
 Si vous partez de la gestion des formations, vous devrez d'abord choisir pour quelle formation vous souhaitez créer une session.
 
+![](images/cursus-fig73.png)
 
-![](images/cursus-fig743.png)
+Vous pouvez effectuer une recherche via le titre ou le code. Une fois que vous avez trouvez l'intitulé souhaité, il suffit de cliquer dessus pour passer à l'étape suivante.
 
-Quelque soit votre point de départ, vous serez ensuite confronté aux mêmes étapes.
+A ce stade ci, quelque soit votre point de départ, vous serez confronté aux mêmes étapes.
