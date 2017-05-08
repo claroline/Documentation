@@ -13,3 +13,8 @@ Si vous partez de la gestion des formations, vous devrez d'abord choisir pour qu
 Vous pouvez effectuer une recherche via le titre ou le code. Une fois que vous avez trouvez l'intitulé souhaité, il suffit de cliquer dessus pour passer à l'étape suivante.
 
 A ce stade ci, quelque soit votre point de départ, vous serez confronté aux mêmes étapes.
+
+Pour créer une session, vous devrez compléter le formulaire qui vous sera proposé. De nombreux éléments de la configuration sont les mêmes que pour [la création d'une formation.](create-trainings.md). Il seront d'ailleurs pré-complété avec les réglages de la formation liée.
+
+
+![](images/cursus-fig74.png)
