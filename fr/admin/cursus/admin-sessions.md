@@ -19,3 +19,15 @@ Vous arrivez alors sur la page de gestion des séances. Tout comme pour les [for
 En regard de chaque session, vous trouverez une série d'actions que vous pouvez effectuer:
 
 ![](images/cursus-fig67.png)
+
+* **L'horloge** vous permettra de [créer une séance](create-sessions-events.md).
+
+* **Le crayon avec le carnet** vous permettra comme d'habitude d'entrer en mode édition.
+
+* **L'enveloppe** vous permettra d'envoyer un message à tous les apprenants inscrits de la session.
+
+![](images/cursus-fig70.png)
+
+
+
+    
