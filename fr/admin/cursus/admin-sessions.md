@@ -51,9 +51,10 @@ Vous aurez également accès à l'intégralité des actions possibles, en effet,
 
 Si la plupart de ces boutons devraient vous être maintenant familiers, certains sont nouveaux:
 
-* **Le "plus"** vous permettra de générer et d'envoyer des convocations à la session.
+* **Le "plus"** vous permettra de générer et d'envoyer des convocations à la session. Il vous suffira, alors, de choisir [un modèle préalablement créé ](models-config.md).
 
-* **Le chapeau d'étudiant** vous permettra de générer et d'envoyer des attestations de participations à la session.
+* **Le chapeau d'étudiant** vous permettra de générer et d'envoyer des attestations de participations à la session.Il vous suffira, alors, de choisir [un modèle préalablement créé ](models-config.md).
+
 
 * **Les trois personnages et la flèche** vous permettront d'exporter la liste des inscrits (formateurs et/ou participants). 
 
