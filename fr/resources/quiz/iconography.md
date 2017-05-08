@@ -8,9 +8,11 @@ Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une sig
 
 Cette icône indique que vous pouvez modifier le contenu. On la retrouve dans divers endroits de la plateforme : dans l'angle en haut à droite des onglets et des widgets que vous créez dans un espace d'activité, pour modifier une ressourceou encore dans le questionnaire, vous retrouverez cette icône lors de la création de questions texte à trous, tableau, graphique, etc.
 
-En cliquant sur cette icône vous aurez accès aux paramètres concernant l'élément à modifier. Dans l'exemple ci-dessous, en cliquant sur l'icône dans le texte à trous, vous accédez aux paramètres du "trou".
+En cliquant sur cette icône vous aurez accès aux paramètres concernant l'élément à modifier.
 
-![](/fr/resources/quiz/images/quiz-fig42.png)
+#### ![](/fr/resources/quiz/images/quiz-fig40.png) Enregistrement
+
+#### 
 
 #### ![](/fr/resources/quiz/images/quiz-fig39.png) Plein écran
 
@@ -18,11 +20,11 @@ Comme son nom l'indique, en cliquant sur cette icône vous passerez en mode plei
 
 #### ![](/fr/resources/quiz/images/quiz-fig41.png) Menu d'actions
 
-#### 
-
-#### ![](/fr/resources/quiz/images/quiz-fig40.png) Enregistrement
+En cliquant sur cette icône, vous pourrez afficher le menu qui vous donnera accès à plus d'actions que celles déjà affichées \(modifier/enregistrer et plein écran\). En fonction des droits que vous avez, vous pourrez via ce menu accéder à la vue d'ensemble,  à la liste des résultats, à la correction manuelle outester le questionnaire.
 
 #### ![](/fr/resources/quiz/images/quiz-fig38.png) Déplacer
+
+#### Cette icône se retrouve à la fois dans l'éditeur du questionnaires
 
 #### ![](/fr/resources/quiz/images/quiz-fig37.png) Supprimer
 
