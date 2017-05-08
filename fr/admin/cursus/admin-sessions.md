@@ -16,7 +16,11 @@ Vous arrivez alors sur la page de gestion des séances. Tout comme pour les [for
 
 ![](images/cursus-fig64.png)
 
-En regard de chaque session, vous trouverez une série d'actions que vous pouvez effectuer:
+Sur cette page, vous trouverez égalemment un bouton vous permettant de crée de [nouvelles sessions](create-sessions.md)
+
+![](images/cursus-fig66.png)
+
+Mais revenons-en à notre tableau. En regard de chaque session, vous trouverez une série d'actions que vous pouvez effectuer:
 
 ![](images/cursus-fig67.png)
 
@@ -34,6 +38,19 @@ Ce message peut être envoyé dans la messagerie interne de la plateforme, par m
 * **Le libre** vous permettra de rejoindre l'espace d'activités liés à la session.
 
 * **La poubelle** vous permettra de supprimer la session.
+
+![](images/cursus-fig64.png)
+
+Vous aurez probablement constatez que certains noms se indiqués en bleu. Cela signifie qu'ils sont cliquable.
+Dans la colonne "session de formation", les noms des sessions sont précédés d'une flèche.
+
+![](images/cursus-fig69.png)
+
+En cliquant sur cette flèche, vous pourrez afficher la liste des [séances ](admin-sessions-events.md).
+
+organisées dans le cadre de cette session. 
+
+
 
 
 
