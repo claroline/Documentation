@@ -130,6 +130,7 @@
       * [Exemple de structure pour une société](admin/cursus/example-business.md)
     * [Configurer le gestionnaire de formations](admin/cursus/general-config.md)
       * [Gérer les modèles](admin/cursus/models-config.md)
+    * Outils "Gestion des séances"
 * [Gestion des organisations](gestion-des-organisations.md)
 * [Participer à l'écriture de la documentation](doc/doc.md)
   * [Nos priorités](doc/nos-priorites.md)

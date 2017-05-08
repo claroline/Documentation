@@ -23,5 +23,24 @@ Il faut donner un **titre**, une **date de début**, une **date de fin**et éven
 
 >Contrairement à la formation, vous ne devez pas choisir **La ou les organisation(s)** dont fera partie votre session. En effet, la session étant forcement rattaché à une formation, elle sera liée au même organisation que cette dernière.
 
+Les éléments suivant permettront de définir le comportement avec les utilisateurs.
+
+![](images/cursus-fig75.png)
+
+* **La session par défaut** permet de choisir dans à quelle session les apprenants doivent être ajouté lors de [l'inscription via les cursus](cursus-inscriptions.md). 
+
+> Bien que le paramètre soit présent dans le formulaire, cette fonction est désactivée pour le moment.
+
+* **L'inscription publique** permettra à vos utilisateurs, depuis le widget [catalogue de formations](formationslisting.md) de s'inscrire à une [session](admin-sessions.md) de cette formation.
+
+* **Désinscription publique**, sur le même principe que l'inscription permettra à vos utilisateurs d'annuler leur inscription.
+
+* **L'inscription aux séances** permet de définit le comportement par défaut des inscription à une séance.
+ * Automatique : les inscrits à la session sont automatiquement inscrit à la séance
+ * Manuelle : le gestionnaire/formateur doit inscrire lui-même les utilisateurs dans les séances
+ * Publique : les utilisateur s'inscrivent eux-même, depuis le catalogue de f
+
+
+
 
 
