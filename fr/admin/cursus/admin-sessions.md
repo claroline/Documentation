@@ -10,6 +10,11 @@ Une fois dans le gestionnaire de formation ...
 
 ![](images/cursus-fig25.png)
 
-
 Le menu en haut à droite, vous permet de circuler dans les différentes fonctions du gestionnaire.
+
+Vous arrivez alors sur la page de gestion des séances. Tout comme pour les [formations](admin-trainings.md)
+![](images/cursus-fig64.png)
+
+
+
 
