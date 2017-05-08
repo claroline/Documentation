@@ -18,4 +18,4 @@ Vous arrivez alors sur la page de gestion des séances. Tout comme pour les [for
 
 En regard de chaque session, vous trouverez une série d'actions que vous pouvez effectuer:
 
-![](images/cursus-fig67.png
+![](images/cursus-fig67.png)
