@@ -41,13 +41,27 @@ Ce message peut être envoyé dans la messagerie interne de la plateforme, par m
 
 ![](images/cursus-fig64.png)
 
-Vous aurez probablement constatez que certains noms se indiqués en bleu. Cela signifie qu'ils sont cliquable.
+Vous aurez probablement constatez que certains noms sont indiqués en bleu. Cela signifie qu'ils sont cliquables. Cliquer sur le titre d'une session, par exemple, ouvrira une page reprenant toutes les informations en rapport avec la session. 
+
+Depuis cette page, vous pourrez gérer [les inscriptions ](admin-inscriptions.md) aux sessions ainsi que [les séances ](admin-sessions-events.md) dans leur détails. 
+
+Vous aurez également accès à l'intégralité des actions possibles, en effet, elles ne sont pas toutes présentes dans le tableau.
+
+![](images/cursus-fig71.png)
+
+
+
 Dans la colonne "session de formation", les noms des sessions sont précédés d'une flèche.
 
 ![](images/cursus-fig69.png)
 
 En cliquant sur cette flèche, vous pourrez afficher la liste des [séances ](admin-sessions-events.md)organisées dans le cadre de cette session. 
 
+![](images/cursus-fig68.png)
+
+Le bouton avec l'icône "i" vous permet de consulter, ajouter, éditer ou encore supprimer des commentaires sur la séance.
+
+>Ces commentaires sont visibles par les utilisateurs. 
 
 
 
