@@ -57,6 +57,11 @@ Les paramètres suivants permettent d'affiner les règles d'inscription des util
 > Comme d'habitude, un administrateur plateforme peut effectuer toutes les validations par lui-même. 
 
 
+Les derniers champs permetent de définir un numéro d'ordre et une couleur pour gérer l'affichage dans certains outils de la plateforme comme le bulletin.
+
+![](images/cursus-fig77.png)
+
+
 
 
 
