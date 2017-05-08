@@ -28,6 +28,8 @@ En regard de chaque session, vous trouverez une série d'actions que vous pouvez
 
 ![](images/cursus-fig70.png)
 
+Ce message peut être envoyé dans la messagerie interne de la plateforme, par mail à l'adresse reprise dans le profil de l'utilisateur ou via les deux méthodes. 
+
 
 
     
