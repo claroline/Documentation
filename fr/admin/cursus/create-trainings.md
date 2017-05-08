@@ -52,12 +52,12 @@ Les paramètres suivants permettent d'affiner les règles d'inscription des util
 * **Validation de  l'utilisateur** oblige l'utilisateur à confirmer sa demande d'inscription via un mail envoyer à l'adresse reprise dans son profil.
 
 * **Validation par l'organisation** nécessite qu'un gestionnaire de l'organisation valide la demande d'inscription.
-* **Validation de l'inscription** demande qu'une personne ayant accès à la [gestion des inscriptions](insriptions-admin.md)valide la demande.
+* **Validation de l'inscription** demande qu'une personne ayant accès à la [gestion des inscriptions](insriptions-admin.md) valide la demande.
 
 * **Validateurs** permet de nommer des personnes en particulier qui doivent valider la demande d'inscription.
 
 > Comme d'habitude, un administrateur plateforme peut effectuer toutes les validations par lui-même. 
 
-Le dernier champ permet de définit un numéro d'ordre pour gérer l'affichage dans certains outils de la plateforme comme le bulletin.
+Le dernier champ permet de définir un numéro d'ordre pour gérer l'affichage dans certains outils de la plateforme comme le bulletin.
 
 ![](images/cursus-fig63.png)
