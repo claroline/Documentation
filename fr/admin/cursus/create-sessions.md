@@ -41,6 +41,8 @@ Les éléments suivant permettront de définir le comportement avec les utilisat
 
 * **Le curriculum** vous permet de rattacher votre séance à un cursus, si la formation ne l'est pas déjà.
 
+Les paramètres suivants permettent d'affiner les règles d'inscription des utilisateurs:
+
 ![](images/cursus-fig76.png)
 
 * **Le nombre maximum d'utilisateurs** correspond au nombre d'utilisateurs qui peuvent être inscrits. Lors d'une demande d'inscription, si la limite est atteinte, l'utilisateur est notifié et mis en liste d'attente.
