@@ -14,7 +14,7 @@ Vous pouvez effectuer une recherche via le titre ou le code. Une fois que vous a
 
 A ce stade ci, quelque soit votre point de départ, vous serez confronté aux mêmes étapes.
 
-Pour créer une session, vous devrez compléter le formulaire qui vous sera proposé. De nombreux éléments de la configuration sont les mêmes que pour [la création d'une formation.](create-trainings.md). Il seront d'ailleurs pré-complété avec les réglages de la formation liée.
+Pour créer une session, vous devrez compléter le formulaire qui vous sera proposé. De nombreux éléments de la configuration sont les mêmes que pour [la création d'une formation](create-trainings.md). Ils seront d'ailleurs pré-complété avec les réglages de la formation liée.
 
 
 ![](images/cursus-fig74.png)
