@@ -12,7 +12,7 @@ En cliquant sur cette icône vous aurez accès aux paramètres concernant l'él�
 
 #### ![](/fr/resources/quiz/images/quiz-fig40.png) Enregistrement
 
-#### 
+En cliquant sur cette icône vous enregistrez les modifications que vous avez aporté depuis la dernière sauvegarde. **Attention, si vous quittez un questionnaire sans avoir enregistré, vous perdrez toutes les modifications non sauvegardées.**
 
 #### ![](/fr/resources/quiz/images/quiz-fig39.png) Plein écran
 
@@ -27,6 +27,8 @@ En cliquant sur cette icône, vous pourrez afficher le menu qui vous donnera acc
 Cette icône se retrouve à la fois dans l'éditeur du questionnaire que lors de la passation de question necessitant le déplacement d'objets. En cliquant sur cette icône et en maintenant le clic, vous déplacerez l'objet en question. Pour déposer l'objet, il vous suffit de lâcher le clic.
 
 #### ![](/fr/resources/quiz/images/quiz-fig37.png) Supprimer
+
+Cette icône ous permet de supprimer un élément. Si cette icône est grisée \(non cliquable\) c'est qu'un minimum d'éléments sont obligatoires
 
 #### ![](/fr/resources/quiz/images/quiz-fig20.png) Commentaire / Feedback
 
