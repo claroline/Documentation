@@ -41,9 +41,23 @@ Ce message peut être envoyé dans la messagerie interne de la plateforme, par m
 
 ![](images/cursus-fig64.png)
 
-Vous aurez probablement constatez que certains noms sont indiqués en bleu. Cela signifie qu'ils sont cliquables. Cliquer sur le titre d'une session, par exemple, ouvrira une page reprenant toutes les informations en rapport avec la session. 
+Vous aurez probablement constatez que certains noms sont indiqués en bleu. Cela signifie qu'ils sont cliquables.
 
-Depuis cette page, vous pourrez gérer [les inscriptions ](admin-inscriptions.md) aux sessions ainsi que [les séances ](admin-sessions-events.md) dans leur détails. 
+Dans la colonne "session de formation", les noms des sessions sont, en plus, précédés d'une flèche.
+
+![](images/cursus-fig69.png)
+
+En cliquant sur cette flèche, vous pourrez afficher la liste des [séances ](admin-sessions-events.md)organisées dans le cadre de cette session. 
+
+![](images/cursus-fig68.png)
+
+Le bouton avec l'icône "i" vous permet de consulter, ajouter, éditer ou encore supprimer des commentaires sur la séance.
+
+>Ces commentaires sont visibles par les utilisateurs. 
+
+Par contre, en cliquant sur le titre de la session, cela ouvrira une nouvelle page avec toutes les informations concernant la session.
+
+Depuis cette page, vous pourrez gérer [les inscriptions ](admin-inscriptions.md) aux sessions ainsi que [les séances ](admin-sessions-events.md) dans leur détails.
 
 Vous aurez également accès à l'intégralité des actions possibles, en effet, elles ne sont pas toutes présentes dans le tableau.
 
@@ -56,23 +70,7 @@ Si la plupart de ces boutons devraient vous être maintenant familiers, certains
 * **Le chapeau d'étudiant** vous permettra de générer et d'envoyer des attestations de participations à la session.Il vous suffira, alors, de choisir [un modèle préalablement créé ](models-config.md).
 
 
-* **Les trois personnages et la flèche** vous permettront d'exporter la liste des inscrits (formateurs et/ou participants). 
-
-
-Dans la colonne "session de formation", les noms des sessions sont précédés d'une flèche.
-
-![](images/cursus-fig69.png)
-
-En cliquant sur cette flèche, vous pourrez afficher la liste des [séances ](admin-sessions-events.md)organisées dans le cadre de cette session. 
-
-![](images/cursus-fig68.png)
-
-Le bouton avec l'icône "i" vous permet de consulter, ajouter, éditer ou encore supprimer des commentaires sur la séance.
-
->Ces commentaires sont visibles par les utilisateurs. 
-
-
-
+* **Les trois personnages et la flèche** vous permettront d'exporter la liste des inscrits (formateurs et/ou participants).
 
 
     
