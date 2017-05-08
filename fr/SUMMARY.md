@@ -112,10 +112,6 @@
       * [Configurer le Widget "Catalogue des formations"](admin/cursus/widget-formationlisting-config.md)
     * [Widget "Mon programme de formations"](admin/cursus/widget-myformations.md)
       * [Configurer le Widget "Mon programme de formations"](admin/cursus/widget-myformations-config.md)
-    * [Gérer les inscriptions](admin/cursus/admin-inscriptions.md)
-      * [Inscription individuelle](admin/cursus/individual-inscriptions.md)
-      * [Inscription à des formations](admin/cursus/formations-inscriptions.md)
-      * [Inscription à des cursus](admin/cursus/cursus-inscriptions.md)
     * [Structurer ses formations](admin/cursus/admin-formations.md)
       * [Gérer des cursus](admin/cursus/admin-cursus.md)
         * [Créer des cursus](admin/cursus/create-cursus.md)
@@ -130,7 +126,7 @@
       * [Exemple de structure pour une société](admin/cursus/example-business.md)
     * [Configurer le gestionnaire de formations](admin/cursus/general-config.md)
       * [Gérer les modèles](admin/cursus/models-config.md)
-    * Outils "Gestion des séances"
+  * Outils "Gestion des séances"
 * [Gestion des organisations](gestion-des-organisations.md)
 * [Participer à l'écriture de la documentation](doc/doc.md)
   * [Nos priorités](doc/nos-priorites.md)
