@@ -46,9 +46,7 @@ Dans la colonne "session de formation", les noms des sessions sont précédés d
 
 ![](images/cursus-fig69.png)
 
-En cliquant sur cette flèche, vous pourrez afficher la liste des [séances ](admin-sessions-events.md).
-
-organisées dans le cadre de cette session. 
+En cliquant sur cette flèche, vous pourrez afficher la liste des [séances ](admin-sessions-events.md)organisées dans le cadre de cette session. 
 
 
 
