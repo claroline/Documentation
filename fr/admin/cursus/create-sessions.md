@@ -38,9 +38,7 @@ Les éléments suivant permettront de définir le comportement avec les utilisat
 * **L'inscription aux séances** permet de définit le comportement par défaut des inscription à une séance.
  * Automatique : les inscrits à la session sont automatiquement inscrit à la séance
  * Manuelle : le gestionnaire/formateur doit inscrire lui-même les utilisateurs dans les séances
- * Publique : les utilisateur s'inscrivent eux-même, depuis le catalogue de f
-
-
+ * Publique : les utilisateur s'inscrivent eux-même, depuis [le catalogue de formation](widget-formationslisting.md) ou l'outil ["gestion des séances"](formationslisting.md)
 
 
 
