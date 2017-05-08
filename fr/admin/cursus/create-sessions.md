@@ -18,3 +18,10 @@ Pour créer une session, vous devrez compléter le formulaire qui vous sera prop
 
 
 ![](images/cursus-fig74.png)
+
+Il faut donner un **titre**, une **date de début**, une **date de fin**et éventuellement une **description**.
+
+>Contrairement à la formation, vous ne devez pas choisir **La ou les organisation(s)** dont fera partie votre session. En effet, la session étant forcement rattaché à une formation, elle sera liée au même organisation que cette dernière.
+
+
+
