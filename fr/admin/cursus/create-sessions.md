@@ -16,6 +16,7 @@ A ce stade ci, quelque soit votre point de départ, vous serez confronté aux m�
 
 Pour créer une session, vous devrez compléter le formulaire qui vous sera proposé. De nombreux éléments de la configuration sont les mêmes que pour [la création d'une formation](create-trainings.md). Ils seront d'ailleurs pré-complété avec les réglages de la formation liée.
 
+Les paramètres suivants permettent d'affiner les règles d'inscription des utilisateurs:
 
 ![](images/cursus-fig74.png)
 
@@ -29,8 +30,6 @@ Les éléments suivant permettront de définir le comportement avec les utilisat
 
 * **La session par défaut** permet de choisir dans à quelle session les apprenants doivent être ajouté lors de [l'inscription via les cursus](cursus-inscriptions.md). 
 
-> Bien que le paramètre soit présent dans le formulaire, cette fonction est désactivée pour le moment.
-
 * **L'inscription publique** permettra à vos utilisateurs, depuis le widget [catalogue de formations](formationslisting.md) de s'inscrire à une [session](admin-sessions.md) de cette formation.
 
 * **Désinscription publique**, sur le même principe que l'inscription permettra à vos utilisateurs d'annuler leur inscription.
@@ -38,7 +37,24 @@ Les éléments suivant permettront de définir le comportement avec les utilisat
 * **L'inscription aux séances** permet de définit le comportement par défaut des inscription à une séance.
  * Automatique : les inscrits à la session sont automatiquement inscrit à la séance
  * Manuelle : le gestionnaire/formateur doit inscrire lui-même les utilisateurs dans les séances
- * Publique : les utilisateur s'inscrivent eux-même, depuis [le catalogue de formation](widget-formationslisting.md) ou l'outil ["gestion des séances"](formationslisting.md)
+ * Publique : les utilisateur s'inscrivent eux-même, depuis [le catalogue de formation](widget-formationslisting.md) ou l'outil ["gestion des séances"](session-event-manager.md)
+
+* **Le curriculum** vous permet de rattacher votre séance à un cursus, si la formation ne l'est pas déjà.
+
+![](images/cursus-fig76.png)
+
+* **Le nombre maximum d'utilisateurs** correspond au nombre d'utilisateurs qui peuvent être inscrits. Lors d'une demande d'inscription, si la limite est atteinte, l'utilisateur est notifié et mis en liste d'attente.
+
+* **Validation de  l'utilisateur** oblige l'utilisateur à confirmer sa demande d'inscription via un mail envoyer à l'adresse reprise dans son profil.
+
+* **Validation par l'organisation** nécessite qu'un gestionnaire de l'organisation valide la demande d'inscription.
+* **Validation de l'inscription** demande qu'une personne ayant accès à la [gestion des inscriptions](insriptions-admin.md)valide la demande.
+
+* **Validateurs** permet de nommer des personnes en particulier qui doivent valider la demande d'inscription.
+
+> Comme d'habitude, un administrateur plateforme peut effectuer toutes les validations par lui-même. 
+
+
 
 
 
