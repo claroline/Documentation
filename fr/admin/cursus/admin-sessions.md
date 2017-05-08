@@ -49,6 +49,13 @@ Vous aurez également accès à l'intégralité des actions possibles, en effet,
 
 ![](images/cursus-fig71.png)
 
+Si la plupart de ces boutons devraient vous être maintenant familiers, certains sont nouveaux:
+
+* **Le "plus"** vous permettra de générer et d'envoyer des convocations à la session.
+
+* **Le chapeau d'étudiant** vous permettra de générer et d'envoyer des attestations de participations à la session.
+
+* **Les trois personnages et la flèche** vous permettront d'exporter la liste des inscrits (formateurs et/ou participants). 
 
 
 Dans la colonne "session de formation", les noms des sessions sont précédés d'une flèche.
