@@ -111,6 +111,7 @@
     * [Widget "Catalogues des formations"](admin/cursus/widget-formationslisting.md)
       * [Configurer le Widget "Catalogue des formations"](admin/cursus/widget-formationlisting-config.md)
     * [Widget "Mon programme de formations"](admin/cursus/widget-myformations.md)
+    * [Outil "Gestion des séances"](admin/cursus/session-event-manager.md)
       * [Configurer le Widget "Mon programme de formations"](admin/cursus/widget-myformations-config.md)
     * [Structurer ses formations](admin/cursus/admin-formations.md)
       * [Gérer des cursus](admin/cursus/admin-cursus.md)
