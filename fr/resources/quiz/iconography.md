@@ -10,11 +10,15 @@ Cette icône indique que vous pouvez modifier le contenu. On la retrouve dans di
 
 En cliquant sur cette icône vous aurez accès aux paramètres concernant l'élément à modifier. Dans l'exemple ci-dessous, en cliquant sur l'icône dans le texte à trous, vous accédez aux paramètres du "trou".
 
-
+![](/fr/resources/quiz/images/quiz-fig42.png)
 
 #### ![](/fr/resources/quiz/images/quiz-fig39.png) Plein écran
 
+Comme son nom l'indique, en cliquant sur cette icône vous passerez en mode plein écran \(sans la barre de menu supérieure, ni la barre de menu latérale\)
+
 #### ![](/fr/resources/quiz/images/quiz-fig41.png) Menu d'actions
+
+#### 
 
 #### ![](/fr/resources/quiz/images/quiz-fig40.png) Enregistrement
 
