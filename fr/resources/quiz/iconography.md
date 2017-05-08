@@ -24,7 +24,7 @@ En cliquant sur cette icône, vous pourrez afficher le menu qui vous donnera acc
 
 #### ![](/fr/resources/quiz/images/quiz-fig38.png) Déplacer
 
-#### Cette icône se retrouve à la fois dans l'éditeur du questionnaires
+Cette icône se retrouve à la fois dans l'éditeur du questionnaire que lors de la passation de question necessitant le déplacement d'objets. En cliquant sur cette icône et en maintenant le clic, vous déplacerez l'objet en question. Pour déposer l'objet, il vous suffit de lâcher le clic.
 
 #### ![](/fr/resources/quiz/images/quiz-fig37.png) Supprimer
 
