@@ -24,15 +24,25 @@ En cliquant sur cette icône, vous pourrez afficher le menu qui vous donnera acc
 
 #### ![](/fr/resources/quiz/images/quiz-fig38.png) Déplacer
 
-Cette icône se retrouve à la fois dans l'éditeur du questionnaire que lors de la passation de question necessitant le déplacement d'objets. En cliquant sur cette icône et en maintenant le clic, vous déplacerez l'objet en question. Pour déposer l'objet, il vous suffit de lâcher le clic.
+Cette icône se retrouve à la fois dans l'éditeur du questionnaire et lors de la passation de questions necessitant le déplacement d'objets. En cliquant sur cette icône et en maintenant le clic, vous déplacerez l'objet en question. Pour déposer l'objet, il vous suffit de lâcher le clic.
 
 #### ![](/fr/resources/quiz/images/quiz-fig37.png) Supprimer
 
-Cette icône ous permet de supprimer un élément. Si cette icône est grisée \(non cliquable\) c'est qu'un minimum d'éléments sont obligatoires
+Cette icône vous permet de supprimer un élément. Si cette icône est grisée \(non cliquable\) c'est qu'un minimum d'éléments sont obligatoires. Si vous ajoutez d'autres éléments, la suppression du premier élément deviendra alors possible.
 
 #### ![](/fr/resources/quiz/images/quiz-fig20.png) Commentaire / Feedback
 
+Cette icône se retrouve à la fois dans l'éditeur du questionnaire et lors de la passation \(feedback et correction\).
+
+Dans l'éditeur, en cliquant sur cette icône vous faites apparaitre un champ texte dans lequel vous pouvez ajouter un commentaire \(texte, audio ou vidéo\). Ce commentaire sera affiché si l'utilisateur sélectionne cette réponse.
+
+
+
+Au moment de la passation du questionnaire, si vous avez activé l'affichage des feedback en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) l'utilisateur en cliquant sur cette icône affichera le commentaire lié à la réponse. Il en est de même dans la correction.
+
 #### ![](/fr/resources/quiz/images/quiz-fig34.png) Bonne réponse
+
+#### 
 
 #### ![](/fr/resources/quiz/images/quiz-fig35.png) Mauvaise réponse
 
