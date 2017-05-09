@@ -98,6 +98,8 @@
           * Question Vrai / Faux
         * [Importer une question](resources/quiz/importer-une-question.md)
         * [Ajouter du contenu](resources/quiz/ajouter-du-contenu.md)
+      * [Répondre au questionnaire](resources/quiz/pass_quiz.md)
+
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
   * [Aperçu des paramètres modifiables sur la plateforme](admin/platform-parameters.md)
