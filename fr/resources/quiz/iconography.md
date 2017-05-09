@@ -36,19 +36,23 @@ Cette icône se retrouve à la fois dans l'éditeur du questionnaire et lors de 
 
 Dans l'éditeur, en cliquant sur cette icône vous faites apparaitre un champ texte dans lequel vous pouvez ajouter un commentaire \(texte, audio ou vidéo\). Ce commentaire sera affiché si l'utilisateur sélectionne cette réponse.
 
-
-
 Au moment de la passation du questionnaire, si vous avez activé l'affichage des feedback en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) l'utilisateur en cliquant sur cette icône affichera le commentaire lié à la réponse. Il en est de même dans la correction.
 
 #### ![](/fr/resources/quiz/images/quiz-fig34.png) Bonne réponse
 
-#### 
+Lors de l'affichage des feedback en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) et dans la correction \(onglet "votre réponse"\) la réponse de l'utilisateur sera accompagnée de cette icône si cette réponse est la réponse attendue.
 
 #### ![](/fr/resources/quiz/images/quiz-fig35.png) Mauvaise réponse
 
+Lors de l'affichage des feedback en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) et dans la correction \(onglet "votre réponse"\) la réponse de l'utilisateur sera accompagnée de cette icône si cette réponse n'est pas une réponse attendue.
+
 #### ![](/fr/resources/quiz/images/quiz-fig30.png) Travail en cours
+
+Dans l'éditeur, quand vous créez une question ou que vous ajoutez du contenu, tant que l'ensemble des champs obligatoires ou que le formulaire contient des erreurs, cette icône s'affiche pour vous signaler que des modifications sont nécessaires avant de pouvoir sauvegarder. 
+
+Pour savoir où vous devez encore apporter des modifcations, cette icône est affiché sur l'étape, sur la question et au niveau du champ à modifier dans la question. Très souvent, à ce niveau là, l'icône est accompagnée d'un texte qui précise les modifications à apporter.
 
 #### ![](/fr/resources/quiz/images/quiz-fig36.png) Erreur ou information manquante
 
-
+Si enregistrez votre questionnaire alors que certaines questions étaient encore étiquetées de l'icône "travail en cours", vous ne pourrez pas sauvegarder et les icônes "travail en cours" se changeront en cette icône d'erreur.
 
