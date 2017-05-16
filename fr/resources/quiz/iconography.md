@@ -36,15 +36,15 @@ Cette icône se retrouve à la fois dans l'éditeur du questionnaire et lors de 
 
 Dans l'éditeur, en cliquant sur cette icône vous faites apparaitre un champ texte dans lequel vous pouvez ajouter un commentaire \(texte, audio ou vidéo\). Ce commentaire sera affiché si l'utilisateur sélectionne cette réponse.
 
-Au moment de la passation du questionnaire, si vous avez activé l'affichage des feedback en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) l'utilisateur en cliquant sur cette icône affichera le commentaire lié à la réponse. Il en est de même dans la correction.
+Au moment de la passation du questionnaire, si vous avez activé l'affichage des feedbacks en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans [Correction](quiz_parameters_correction.md)\) l'utilisateur en cliquant sur cette icône affichera le commentaire lié à la réponse. Il en est de même dans la correction.
 
 #### ![](/fr/resources/quiz/images/quiz-fig34.png) Bonne réponse
 
-Lors de l'affichage des feedback en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) et dans la correction \(onglet "votre réponse"\) la réponse de l'utilisateur sera accompagnée de cette icône si cette réponse est la réponse attendue.
+Lors de l'affichage des feedbacks en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans [Correction](quiz_parameters_correction.md)\) et dans la correction \(onglet "votre réponse"\) la réponse de l'utilisateur sera accompagnée de cette icône si cette réponse est la réponse attendue.
 
 #### ![](/fr/resources/quiz/images/quiz-fig35.png) Mauvaise réponse
 
-Lors de l'affichage des feedback en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) et dans la correction \(onglet "votre réponse"\) la réponse de l'utilisateur sera accompagnée de cette icône si cette réponse n'est pas une réponse attendue.
+Lors de l'affichage des feedbacks en fin d'étape  \(cf. "Afficher les feedbacks en fin d'étape" dans [Correction](quiz_parameters_correction.md)\) et dans la correction \(onglet "votre réponse"\) la réponse de l'utilisateur sera accompagnée de cette icône si cette réponse n'est pas une réponse attendue.
 
 #### ![](/fr/resources/quiz/images/quiz-fig30.png) Travail en cours
 
