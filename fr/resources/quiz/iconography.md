@@ -48,11 +48,11 @@ Lors de l'affichage des feedback en fin d'étape  \(cf. "Afficher les feedbacks 
 
 #### ![](/fr/resources/quiz/images/quiz-fig30.png) Travail en cours
 
-Dans l'éditeur, quand vous créez une question ou que vous ajoutez du contenu, tant que l'ensemble des champs obligatoires ou que le formulaire contient des erreurs, cette icône s'affiche pour vous signaler que des modifications sont nécessaires avant de pouvoir sauvegarder. 
+Dans l'éditeur, quand vous créez une question ou que vous ajoutez du contenu, tant que l'ensemble des champs obligatoires ou que le formulaire contient des erreurs, cette icône s'affiche pour vous signaler que des modifications sont nécessaires avant de pouvoir sauvegarder.
 
 Pour savoir où vous devez encore apporter des modifcations, cette icône est affiché sur l'étape, sur la question et au niveau du champ à modifier dans la question. Très souvent, à ce niveau là, l'icône est accompagnée d'un texte qui précise les modifications à apporter.
 
 #### ![](/fr/resources/quiz/images/quiz-fig36.png) Erreur ou information manquante
 
-Si enregistrez votre questionnaire alors que certaines questions étaient encore étiquetées de l'icône "travail en cours", vous ne pourrez pas sauvegarder et les icônes "travail en cours" se changeront en cette icône d'erreur.
+Si vous enregistrez votre questionnaire alors que certaines questions étaient encore étiquetées de l'icône "travail en cours", vous ne pourrez pas sauvegarder et les icônes "travail en cours" se changeront en cette icône d'erreur.
 
