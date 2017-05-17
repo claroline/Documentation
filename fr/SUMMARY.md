@@ -77,6 +77,7 @@
       * [Créer un questionnaire](resources/quiz/create_quiz.md)
       * [Utiliser l'outil de texte riche](resources/quiz/rich_text_tool.md)
       * [Iconographie](resources/quiz/iconography.md)
+      * [Droits spécifiques au questionnaire](resources/quiz/specific_rights.md)
       * [Paramétrer votre questionnaire](resources/quiz/quiz_parameters.md)
         * [Propriétés du questionnaire](resources/quiz/quiz_parameters_properties.md)
         * [Tirage des étapes](resources/quiz/quiz_parameters_step_picking.md)
@@ -97,10 +98,13 @@
           * Question Ordonnancement
           * Question Vrai / Faux
         * [Importer une question](resources/quiz/importer-une-question.md)
-        * [Ajouter du contenu](resources/quiz/ajouter-du-contenu.md)
+        * [Ajouter du contenu](resources/quiz/add_content.md)
       * [Répondre au questionnaire](resources/quiz/pass_quiz.md)
       * [Tester le questionnaire](resources/quiz/test_quiz.md)
       * [Liste des résultats](resources/quiz/result_list.md)
+      * [Export CSV des résultats](resources/quiz/csv_export.md)
+      * [Docimologie](resources/quiz/Docimology.md)
+      * [Correction manuelle](resources/quiz/manual_correction.md)
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
   * [Aperçu des paramètres modifiables sur la plateforme](admin/platform-parameters.md)
