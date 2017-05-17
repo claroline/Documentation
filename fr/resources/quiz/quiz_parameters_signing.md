@@ -14,5 +14,5 @@ Vous pouvez définir ici le nombre de tentatives maximum de l'exercice que l'uti
 
 #### Permettre d'interrompre le questionnaire
 
-Cette option vous permet de donner la possibilité à l'utilisateur de pouvoir interrompre son questionnaire et de revenir dessus ultérieurement pour le terminer.
+Cette option vous permet de donner la possibilité à l'utilisateur d'interrompre son questionnaire et de revenir dessus ultérieurement pour le terminer. Si vous ne permettez pas d'interrompre le questionnaire et que l'utilisateur quitte le questionnaire sans avoir terminé, sa copie sera tout de même considérée comme terminée.
 
