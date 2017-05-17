@@ -10,7 +10,7 @@ Cette icône indique que vous pouvez modifier le contenu. On la retrouve dans di
 
 En cliquant sur cette icône vous aurez accès aux paramètres concernant l'élément à modifier.
 
-#### ![](/fr/resources/quiz/images/quiz-fig40.png) Enregistrement
+#### ![](/fr/resources/quiz/images/quiz-fig40.png) Enregistrer
 
 En cliquant sur cette icône vous enregistrez les modifications que vous avez aporté depuis la dernière sauvegarde. **Attention, si vous quittez un questionnaire sans avoir enregistré, vous perdrez toutes les modifications non sauvegardées.**
 
