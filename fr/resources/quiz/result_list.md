@@ -22,5 +22,5 @@ Le tableau de la liste des résultats donne pour chaque copie les informations s
 
 Ces informations sont affichées par défaut, cependant il est possible pour l'administrateur du questionnaire de ne pas donner accès au détail de la copie et/ou au score en modifiant les paramètres \(cf. [Correction](resources/quiz/quiz_parameters_correction.md)\).
 
-
+Cette liste de résultats affiche les copies telles quelles ont étés passées : s'il y a une modification dans la conception du questionnaire alors qu'il existait déjà des copies, ces modifications ne seront pas transposées aux copies existantes.
 
