@@ -10,6 +10,6 @@ Le menu déroulant vous proposera une série de sous-menu:
 
 *  [Paramètres généraux](generals-config.md)
 *  [Gestion des modèles](models-config.md)
-*  [Gestion des localisations](localisations-trainings.md)
+*  [Gestion des localisations](localisations-config.md)
 
 
