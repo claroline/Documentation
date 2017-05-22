@@ -25,7 +25,7 @@ En descendant plus bas dans la page, on trouve le tableau repenant toutes les fo
 
 L'en-tête du tableau vous permet de filtrer sur le titre ou le code d'une formation pour puvoir facilement trouver celle que vous cherchée.
 
->Il n'est pas possible de filtrer par date à ce niveau, ce qui est logique. Pour rappel, la formation représente l'intitulé, le contenu de votre formation. Ce n'est qu'à la création d'une [session](create-sessions.md)que vous rentrez dans le concret et que vous choisissez des dates. 
+>Il n'est pas possible de filtrer par date à ce niveau, ce qui est logique. Pour rappel, la formation représente l'intitulé, le contenu de votre formation. Ce n'est qu'à la création d'une [session](create-sessions.md) que vous rentrez dans le concret et que vous choisissez des dates. 
 
 Une série d'actions est également possible sur les formations:
 
