@@ -127,6 +127,7 @@
       * [Exemple de structure pour une école](admin/cursus/example-school.md)  
       * [Exemple de structure pour une société](admin/cursus/example-business.md)
     * [Gérer les inscriptions](admin/cursus/inscriptions.md)
+      * [Inscriptions aux cursus](admin/cursus/cursus-inscriptions.md)
       * [Inscriptions aux sessions](admin/cursus/inscriptions-sessions.md)  
       * [Inscriptions aux séances](admin/cursus/inscriptions-sessions-events.md)
       * [Inscriptions par utilisateur](admin/cursus/inscriptions-users.md)
