@@ -6,7 +6,7 @@ Il vous suffit pour cela de cliquer sur la 4ème icône, représentant des engre
 
 ![](images/cursus-fig28.png)
 
-Le menu déroulant vous proposera une série de sous-menu:
+Le menu suivant vous proposera une série de sous-menu:
 
 *  [Paramètres généraux](generals-config.md)
 *  [Gestion des modèles](models-config.md)
