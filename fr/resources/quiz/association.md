@@ -6,6 +6,10 @@ La question association permet de créer des questions où les utilisateurs devr
 
 Lorsque vous avez remplis les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question association.
 
+#### Pénalité pour toute mauvaise réponse non définie
+
+
+
 #### **Ordre des items aléatoires**
 
 En cochant cette option, vos items seront disposés aléatoirement lors de la passation. A contrario, si vous ne la cochez pas, les items de la colonne de gauche et de droite seront affichés dans l'ordre dans lesquels vous les aurez créés.
