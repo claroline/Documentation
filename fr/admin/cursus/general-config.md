@@ -8,7 +8,7 @@ Il vous suffit pour cela de cliquer sur la 4ème icône, représentant des engre
 
 Le menu déroulant vous proposera une série de sous-menu:
 
-*  [Paramètres généraux](generals-config.md)
+*  [Paramètres généraux](/fr/admin/admin-sessions-events.md)
 *  [Gestion des modèles](models-config.md)
 *  [Gestion des localisations](localisations-config.md)
 
