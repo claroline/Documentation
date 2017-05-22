@@ -51,7 +51,7 @@ Par défaut, c'est-à-dire quand cette option n'est pas cochée, le score obtenu
 
 ![](images/quiz-fig18.png)
 
-##### 
+Si vous choisissez le score global, des points seront attribués seulement si tout est juste \(points en cas de succès\). S'il y a ne serait-ce qu'une erreur, ce seront les points en cas d'échec qui seront attribués \(ils peuvent être nuls ou négatifs\).
 
 
 
