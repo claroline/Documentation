@@ -4,7 +4,7 @@
 Comme nous l'avons expliquer précédemment, il est possible d'envoyer, par mail, aux participants des invitations ou des attestations de présence. Ces documents sont entièrement personnalisable, et vous pouvez créer autant de variante que nécessaire.
 Pour cela, vous allez créer des modèles qui seront automatiquement complétés avec les informations précises de chaque utilisateur et de chaque formation.
 
-Vous pouvez crééer quatre types différents de documents :
+Vous pouvez créer quatre types différents de documents :
 * Invitation à une séance
 * Invitation à une session
 * Certificat de participation à une séance
@@ -15,7 +15,7 @@ Chaque type de document ne peut être utilisé qu'à l'endroit adéquat.
 
 >Par exemple si vous cliquez sur le bouton destiné à expédier une invitation à une séance, vous ne pourrez pas utiliser le modèle que vous avez créé pour le certification de cette même séance.
 
-Concrètement, comment procèder ?
+Concrètement, comment procéder ?
 
 Pour créer un modèle, rendez-vous dans le menu d'administration et cliquez sur "gestion des formations".
 
@@ -24,7 +24,7 @@ Vous arriverez alors sur la page suivante:
 ![](images/cursus-fig23.png)
 
 Il s'agit de la page d'accueil du gestionnaire de formations.
-En haut à droit de cette page, vous avez un menu composé de 4 icônes. Cliquez sur le 4ème bouton (illustré en vert ci-dessous) au menu de configuration.
+En haut à droit de cette page, vous avez un menu composé de 4 icônes. Cliquez sur le 4éme bouton (illustré en vert ci-dessous) au menu de configuration.
 
 ![](images/cursus-fig28.png)
 
@@ -59,7 +59,7 @@ A vous maintenant de créer votre modèle en utilisant une ou plusieurs des bali
 
 Choisissez le type de modèle que vous voulez concevoir.
 
->N'oubliez pas que du type de modèle va dépendre la diponibilité à l'un ou l'autre niveau (sessions/séances).
+>N'oubliez pas que du type de modèle va dépendre la diponibilitée à l'un ou l'autre niveau (sessions/séances).
 
 Donnez-lui un nom et passez à la rédaction.
 
