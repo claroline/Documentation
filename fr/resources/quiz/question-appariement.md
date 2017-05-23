@@ -2,9 +2,9 @@
 
 ---
 
-La question appariement permet de créer des questions où les utilisateurs devront mettre  par paire des éléments. Ces éléments peuvent être du texte, une image, du son ou une vidéo. En d'autres termes, l'utilisateur aura un ensemble d'items \(colonne de gauche\) qu'il faudra remettre par paire \(colonne de droite\).
+La question appariement permet de créer des questions où les utilisateurs devront mettre par paire des éléments. Ces éléments peuvent être du texte, une image, du son ou une vidéo. En d'autres termes, l'utilisateur aura un ensemble d'items \(colonne de gauche\) qu'il faudra remettre par paire \(colonne de droite\).
 
-Lorsque vous avez remplis les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question appariement.
+Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question appariement.
 
 #### Pénalité pour toute mauvaise réponse non définie
 
@@ -16,7 +16,7 @@ Cette pénalité ne se cumule pas à des réponses erronées que le concepteur a
 
 En cochant cette option, vos paires \(éléments de la droite\) seront disposées aléatoirement lors de la passation. Attention, on parle ici des paires et non des items à mettre par paire \(éléments de la gauche\) qui seront eux toujours disposés aléatoirement. A contrario, si vous ne la cochez pas, les paires seront affichées dans l'ordre dans lesquels vous les aurez créés.
 
-Cette option n'a de sens que si certains items sont déjà pré-positionnés \(item épinglé\). 
+Cette option n'a de sens que si certains items sont déjà pré-positionnés \(item épinglé\).
 
 #### Créer les paires
 
@@ -42,6 +42,4 @@ Si vous souhaitez qu'il y ait des intrus, il vous suffit de ne pas associer un i
 #### Activer / désactiver la fonctionnalité épingler un item
 
 Voici un exemple de conception d'une question.
-
-
 

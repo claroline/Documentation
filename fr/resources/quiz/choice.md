@@ -4,7 +4,7 @@
 
 La question à choix multiple permet de créer des questions où les utilisateurs devront choisir une ou plusieurs réponses \(texte, image, son, vidéo,...\) dans une liste de choix prédéfinis.
 
-Lorsque vous avez remplis les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question choix multiple.
+Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question choix multiple.
 
 ![](images/quiz-fig17.png)
 
