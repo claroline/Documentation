@@ -8,7 +8,9 @@ Lorsque vous avez remplis les champs communs à toutes les questions \(cf. [Cré
 
 #### Pénalité pour toute mauvaise réponse non définie
 
+Vous pouvez définir dans ce champ une pénalité pour toute erreur effectuée par l'utilisateur lors de la passation. Cette pénalité exprimée en points positifs, par exemple 1 point de pénalité équivaudra a un retrait de 1 point du score total de la question pour chaque réponse erronée. Cela peut donc engendrer des scores négatifs. 
 
+Cette pénalité ne se cumule pas à des réponses erronées que le concepteur aurait déjà défini \(association avec un score négatif\).
 
 #### **Ordre des items aléatoires**
 
