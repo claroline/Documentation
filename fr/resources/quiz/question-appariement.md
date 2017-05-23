@@ -20,7 +20,7 @@ Cette option n'a de sens que si certains items sont déjà pré-positionnés \(i
 
 #### Créer les paires
 
-Le remplissage du formulaire s'organise en deux temps : vous devez créer vos items, puis vous devrez les déplacer pour créer les paires que vous souhaitez.
+Le remplissage du formulaire s'organise en deux temps : vous devez créer vos items puis les déplacer pour créer les paires que vous souhaitez.
 
 * **Création des items **
 
