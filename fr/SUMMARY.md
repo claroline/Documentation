@@ -91,7 +91,7 @@
           * [Question Texte à trous](resources/quiz/cloze.md)
           * Question Graphique
           * Question Ouverte
-          * Question Appariement
+          * [Question Appariement](resources/quiz/question-appariement.md)
           * Question Mots clés
           * Question Classement
           * Question Tableau
