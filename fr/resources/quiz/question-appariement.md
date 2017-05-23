@@ -24,26 +24,26 @@ Le remplissage du formulaire s'organise en deux temps : vous devez créer vos it
 
 * **Création des items **
 
-Les items peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).  Vous créez des items dans la colonne de gauche tel 
+Les items peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).  Vous créez des items dans la colonne de gauche tel
 
-Si vous souhaitez rajouter de la complexité, vous pouvez ajouter un intrus en cliquant sur "ajouter un intrus". Cet intrus est associé à un score \(nul ou négatif\) et peut aussi avoir un feedback. Ce score sera comptabilisé seulement si l'utilisateur a apparié cet intrus. Il en est de même pour l'affichage du feedback.
+Si vous souhaitez rajouter de la complexité, vous pouvez ajouter un intrus en cliquant sur "ajouter un intrus". Cet intrus est associé à un score \(nul ou négatif\) et peut aussi avoir un feedback. 
 
-
-
-Les items se répartissent en 2 colonnes : les items de la colonne de gauche devront être reliés à un ou plusieurs items de celle de droite. Vous devez donc remplir les items et les relier entre eux. en fonction des réponses attendues \(ou des erreurs attendues\). Pour cela, cliquez sur la pastille qui se trouve à droite d'un item de la colonne de gauche, maintenez le clic et déplacez la pastille jusqu'à la pastille qui se trouve à gauche de l'item de la colonne de droite auquel vous voulez l'associer. Quand vous relâchez le clic, un lien entre les 2 items se forme et une popover s'ouvre afin d'éditer l'association. Vous pourrez alors donner un score \(positif ou négatif\) et un feedback à l'association. La couleur de la liaison permet de voir si le score associé à la réponse est positif \(vert\) ou négatif ou nul \(rouge\).
-
-Le feedback est un message non obligatoire que vous pouvez adresser à l'utilisateur si celui-ci crée cette liaison au moment de la passation. Ce feedback sera affiché en fin d'étape si cette option a été choisie dans les paramètres du questionnaire \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) ainsi que dans la correction.  
+Le feedback est un message non obligatoire que vous pouvez adresser à l'utilisateur si celui-ci apparie l'intrus à un autre item au moment de la passation. Ce feedback sera affiché en fin d'étape si cette option a été choisie dans les paramètres du questionnaire \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) ainsi que dans la correction.  
 En cliquant sur l'icône  : ![](images/quiz-fig20.png), vous ouvrez le champ texte où vous écrirez le feedback.
 
-Enfin, la poubelle vous permet de supprimer la liaison.
+Ce score sera comptabilisé seulement si l'utilisateur a apparié cet intrus. Il en est de même pour l'affichage du feedback.
 
-Pour fermer cette popover d'édition de l'association cliquez sur la croix en haut à droite.
-
-Si vous souhaitez qu'il y ait des intrus, il vous suffit de ne pas associer un item avec un autre.
+La poubelle vous permet de supprimer l'intrus.
 
 * **Création des paires**
 
-#### Activer / désactiver la fonctionnalité épingler un item
+Une fois les items créés, vous pouvez former les paires. 
+
+Pour cela vous devez déplacer un item dans chacune des zones prévue à cet effet \(2 par paire\). Chaque paire est associé à un score et un feedback \(facultatif\). Vous pouvez lui associer un score positif, nul ou négatif.
+
+Cliquez sur "ajouter une paire" pour ajouter d'autres paires.
+
+Vous pouvez choisir d'épingler un item pour qu'il soit visible lors de la passation. Ainsi l'utilisateur n'aura qu'un item à déplacer pour compléter la paire. Vous devez pour cela cocher "Activer / désactiver la fonctionnalité épingler un item" puis choisir l'item que vous allez épingler.
 
 Voici un exemple de conception d'une question.
 
