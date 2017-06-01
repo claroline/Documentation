@@ -22,7 +22,12 @@ Pour inscrire, rien de plus simple. Il suffit de placer votre souris à coter du
 
 A vous de cliquer sur le bouton
 
+![](images/cursus-fig94.png)
+
 pour inscrire des groupes ou sur le bouton
+
+![](images/cursus-fig93.png)
+
 
 pour inscrire des utilisateurs isolés.
 
