@@ -57,8 +57,46 @@ Si certains utilisateurs/groupes sont déjà inscrits, vous pouvez évidemment l
 >>Un petit bouton en haut à droite de l'écran vous permet de basculer vers la gestion des inscriptions en attente. 
 ![](images/cursus-fig83.png)
 
-
-
-
-
 ##### Gestion des inscriptions en attente
+
+Si vous avez choisi cette seconde option, vous arrivez sur un tableau affichant les intitulés de toutes les formations pour lesquelles il y a des demandes d'inscriptions en attentes.
+
+![](images/cursus-fig89.png)
+
+Il vous suffit de cliquer sur un nom de formation pour afficher les demandes en attentes.
+
+![](images/cursus-fig88.png)
+
+Le bouton "v" sur fond vert sert à accepter la demande d'inscription et la croix sur fond rouge sert en toute logique à la refuser.
+
+Au niveau de l'état, vous pouvez rencontrer certains cas particuliers.
+
+![](images/cursus-fig90.png)
+
+"Utilisateur" sur fond bleu indique que l'utilisateur n'a pas encore confirmé sa demande d'inscription. 
+
+"Organisation" sur fond rouge indique qu'un responsable de l'organisation dont fait partie l'utilisateur doit encore valider sa demande d'inscription.
+
+La présence de ces comportements dépend des réglages qui ont été effectués sur la [session](create-sessions.md)
+
+![](images/cursus-fig91.png)
+
+L'indication " Session de formation ..." sur fond orange indique que la session est complète ou inexistante. En cliquant sur le bouton vert, vous pouvez rediriger la demande vers une autre session de formation, à condition qu'il en existe une autre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
