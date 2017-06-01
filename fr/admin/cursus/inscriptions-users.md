@@ -27,11 +27,8 @@ Pour chaque session listée, une série d'action est possible:
 
 Si vous travaillez avec des séances, il suffit de cliquer sur le nom de la session pour les afficher. Les actions possibles sont alors les même que pour le niveau "session"
 
+Pour ajouter de nouvelle inscription, il vous faut cliquer sur le bouton "Inscription en haut à droite du tableau.
 
 
-
-![](images/cursus-fig103.png)
-
-![](images/cursus-fig104.png)
-
+![](images/cursus-fig105.png)
 
