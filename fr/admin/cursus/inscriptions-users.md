@@ -27,8 +27,13 @@ Pour chaque session listée, une série d'action est possible:
 
 Si vous travaillez avec des séances, il suffit de cliquer sur le nom de la session pour les afficher. Les actions possibles sont alors les même que pour le niveau "session"
 
-Pour ajouter de nouvelle inscription, il vous faut cliquer sur le bouton "Inscription en haut à droite du tableau.
-
+Pour ajouter de nouvelle inscription, il vous faut cliquer sur le bouton "Inscription" en haut à droite du tableau. Vous aurez alors la possibilité de choisir toutes les sessions celles auxquelles vous voulez inscrire l'utilisateur.
 
 ![](images/cursus-fig105.png)
+
+Au fur et à mesure que vous sélectionnez des sessions, elles sont listées dans le cadre "Sessions de formation sélectionnées"
+
+![](images/cursus-fig106.png)
+
+Il ne vous reste plus qu'à cliquer sur "Ok" en bas de page pour valider l'inscription. 
 
