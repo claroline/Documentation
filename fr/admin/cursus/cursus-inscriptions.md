@@ -41,26 +41,20 @@ pour inscrire des utilisateurs isolés.
 
 ![](images/cursus-fig85.png)
 
-Les utilisateurs ou les groupes seront alors automatiquement inscrits à toutes les formations à côté desquelles se trouve le petit "v" dans le rond vert. Si certaines formations sont suivies d'une croix sur fond rouge, cela signifie que des blocages ont été paramétrés depuis le [cursus](create-cursus.md). Les utilisateurs/groupes ne seront donc pas inscrits à ces formations. 
+Les utilisateurs ou les groupes seront alors automatiquement inscrits à toutes les formations, reprise dans l'encadrée "informations" à côté desquelles se trouve le petit "v" sur fond vert. 
+
+![](images/cursus-fig93.png)
+
+Si certaines formations sont suivies d'une croix sur fond rouge, cela signifie que des blocages ont été paramétrés depuis le [cursus](create-cursus.md). Les utilisateurs/groupes ne seront donc pas inscrits à ces formations. 
 
 ![](images/cursus-fig86.png)
 
-
-
-Si certains utilisateurs/groupes sont déjà inscrits, vous pouvez évidemment les visualiser et si nécessaire les désinscrire.
+Si certains utilisateurs/groupes sont déjà inscrits, vous pouvez évidemment les visualiser et si nécessaire les désinscrire depuis cet écran.
 
 ![](images/cursus-fig92.png)
 
 
-
-
-
-
-
-
-
-
-Un petit bouton à droite vous permet de basculer vers la gestion des inscriptions en attente. 
+>>Un petit bouton en haut à droite de l'écran vous permet de basculer vers la gestion des inscriptions en attente. 
 ![](images/cursus-fig83.png)
 
 
