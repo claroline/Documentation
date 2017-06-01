@@ -16,9 +16,13 @@ Si vous avez cliqué sur la première option, vous arriverez sur un tableau repr
 
 ![](images/cursus-fig82.png)
 
-Pour inscrire, rien de plus simple. Il suffit de placer votre souris à coter du nom du cursus](admin-cursus.md et de cliquer quand la silhouette bleue apparait. 
+Pour inscrire, rien de plus simple. Il suffit de placer votre souris à coter du nom [du cursus](admin-cursus.md) et de cliquer quand la silhouette bleue apparait. 
 
 ![](images/cursus-fig84.png)
+
+Vous avez alors accès à un tableau reprenant toutes les inscriptions à ce cursus.
+
+![](images/cursus-fig85.png)
 
 A vous de cliquer sur le bouton
 
