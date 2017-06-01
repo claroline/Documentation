@@ -16,7 +16,12 @@ Si vous avez cliqué sur la première option, vous arriverez sur un tableau repr
 
 ![](images/cursus-fig82.png)
 
-Pour inscrire, rien de plus simple. Il suffit de placer votre souris à coter du nom [du cursus](admin-cursus.md) et de cliquer quand la silhouette bleue apparait. 
+Vous pouvez évidement accéder au sous-cursus, il suffit pour cela de cliquer sur la flèche noire à l'extrémité du nom du cursus parent. Cela aura pour effet d'ouvrir l'arborescence de votre [cursus](create-cursus.md).
+
+![](images/cursus-fig87.png)
+
+
+Ensuite,pour inscrire, rien de plus simple. Il suffit de placer votre souris à coter du nom [du cursus] ou du sous-cursus(admin-cursus.md) et de cliquer quand la silhouette bleue apparait. 
 
 ![](images/cursus-fig84.png)
 
@@ -30,12 +35,22 @@ A vous de cliquer sur le bouton
 
 pour inscrire des groupes ou sur le bouton
 
-![](images/cursus-fig93.png)
-
+![](images/cursus-fig95.png)
 
 pour inscrire des utilisateurs isolés.
 
 ![](images/cursus-fig85.png)
+
+Les utilisateurs ou les groupes seront alors automatiquement inscrits à toutes les formations à côté desquelles se trouve le petit "v" dans le rond vert. Si certaines formations sont suivies d'une croix sur fond rouge, cela signifie que des blocages ont été paramétrés depuis le [cursus](create-cursus.md). Les utilisateurs/groupes ne seront donc pas inscrits à ces formations. 
+
+![](images/cursus-fig86.png)
+
+
+
+Si certains utilisateurs/groupes sont déjà inscrits, vous pouvez évidemment les visualiser et si nécessaire les désinscrire.
+
+![](images/cursus-fig92.png)
+
 
 
 
