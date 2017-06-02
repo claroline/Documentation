@@ -20,13 +20,13 @@ Cette option n'a de sens que si certains items sont déjà pré-positionnés \(i
 
 #### Créer les paires
 
-Le remplissage du formulaire s'organise en deux temps : vous devez créer vos items puis les déplacer pour créer les paires que vous souhaitez.
+Le remplissage du formulaire s'organise en deux temps : vous devez créer vos items puis les déplacer pour créer les paires que vous souhaitez. Autrement dit, vous créez d'abord la question telle que la verra l'utilisateur, puis vous donnez les réponses en déplaçant les items comme le fera l'utilisateur lors de la passation
 
 * **Création des items **
 
-Les items peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).  Vous créez des items dans la colonne de gauche tel
+Les items peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).  Vous créez des items dans la colonne de gauche.
 
-Si vous souhaitez rajouter de la complexité, vous pouvez ajouter un intrus en cliquant sur "ajouter un intrus". Cet intrus est associé à un score \(nul ou négatif\) et peut aussi avoir un feedback. 
+Si vous souhaitez rajouter de la complexité, vous pouvez ajouter un intrus en cliquant sur "ajouter un intrus". Cet intrus est associé à un score \(nul ou négatif\) et peut aussi avoir un feedback.
 
 Le feedback est un message non obligatoire que vous pouvez adresser à l'utilisateur si celui-ci apparie l'intrus à un autre item au moment de la passation. Ce feedback sera affiché en fin d'étape si cette option a été choisie dans les paramètres du questionnaire \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) ainsi que dans la correction.  
 En cliquant sur l'icône  : ![](images/quiz-fig20.png), vous ouvrez le champ texte où vous écrirez le feedback.
@@ -37,7 +37,7 @@ La poubelle vous permet de supprimer l'intrus.
 
 * **Création des paires**
 
-Une fois les items créés, vous pouvez former les paires. 
+Une fois les items créés, vous pouvez former les paires.
 
 Pour cela vous devez déplacer un item dans chacune des zones prévue à cet effet \(2 par paire\). Chaque paire est associé à un score et un feedback \(facultatif\). Vous pouvez lui associer un score positif, nul ou négatif.
 
