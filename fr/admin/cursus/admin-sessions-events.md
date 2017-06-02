@@ -16,20 +16,20 @@ Les séances sont présentes sous la forme d'un tableau vous permettant d'avoir 
 
 ![](images/cursus-fig119.png)
 
-**Le crayon** permet d'éditer la séance.
-**Le plus** permet de générer une invitation à la séance. La forme de l'invitation dépend [des modèles](models-config.md) que vous aurez créé au préalable.
-**Le chapeau d'étudiant** permet de générer un attestation de présence à la séance. 
-**L'icône "i"** vous permet de consulter, ajouter, éditer ou encore supprimer des commentaires sur la séance.
+* **Le crayon** permet d'éditer la séance, vous aurez alors accès au même formulaire que lors de la [création de la séance](create-sessions-events.md).
+* **Le plus** permet de générer une invitation à la séance. La forme de l'invitation dépend [des modèles](models-config.md) que vous aurez créé au préalable.
+* **Le chapeau d'étudiant** permet de générer un attestation de présence à la séance. 
+* **L'icône "i"** vous permet de consulter, ajouter, éditer ou encore supprimer des commentaires sur la séance.
 
 >Ces commentaires sont visibles par les utilisateurs.
 
-**La pile de feuilles** permet de répéter la séance.
+* **La pile de feuilles** permet de répéter la séance.
 
 ![](images/cursus-fig124.png)
 
 Vous pouvez choisir les jours de répétition et la date de fin ou ou la durée des répétitions. Une fois votre sélection validée, votre séance sera dupliquée autant de fois que nécessaire.
 
-**La poubelle** permet comme toujours de supprimer.
+* **La poubelle** permet comme toujours de supprimer.
 
 Si vous souhaitez ajouter une séance, il faut utiliser le bouton
 
