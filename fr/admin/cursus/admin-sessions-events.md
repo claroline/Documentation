@@ -49,12 +49,11 @@ Néanmoins, vous avez moins d'actions à votre disposition.
 
 ![](images/cursus-fig123.png)
 
-
 Que ce soit pour les séances ouvertes ou les séances terminées, cliquer sur le nom de la séance ouvrira une page dédiée à cette dernière.
 
 ![](images/cursus-fig114.png)
 
-En plus des informations et des actions déjà disponible depuis la page précédente, vous aurez la possibilité d'exporter la liste des inscrits et/ou des formateurs.
+En plus des informations et des actions déjà disponibles depuis la page précédente, vous aurez la possibilité d'exporter la liste des inscrits et/ou des formateurs.
 Pour cela, il suffit de cliquer sur le bouton représentant 3 silhouettes accolées à une flèche depuis le menu situé en haut à droite. 
 
 C'est également depuis cette page que vous pouvez gérer les [inscriptions aux séances](inscriptions-sessions-events.md). 
