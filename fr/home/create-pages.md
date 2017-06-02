@@ -8,7 +8,7 @@ Une page peut contenir plusieurs articles et être ajoutée comme entrée dans u
 
 Pour créer une page, cliquez sur l'icône suivante de la barre d'outils:
 
-![](images/home-fig1.png)
+![](images/home-fig1.jpg)
 
 <p style="text-align: center; color: blue">Ajouter une page.</p>
 
