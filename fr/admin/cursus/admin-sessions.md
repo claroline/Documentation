@@ -35,7 +35,7 @@ Mais revenons-en à notre tableau. En regard de chaque session, vous trouverez u
 Ce message peut être envoyé dans la messagerie interne de la plateforme, par mail à l'adresse reprise dans le profil de l'utilisateur ou via les deux méthodes. 
 
 
-* **Le libre** vous permettra de rejoindre l'espace d'activités liés à la session.
+* **Le livre** vous permettra de rejoindre l'espace d'activités liés à la session.
 
 * **La poubelle** vous permettra de supprimer la session.
 
@@ -57,7 +57,9 @@ Le bouton avec l'icône "i" vous permet de consulter, ajouter, éditer ou encore
 
 Par contre, en cliquant sur le titre de la session, cela ouvrira une nouvelle page avec toutes les informations concernant la session.
 
-Depuis cette page, vous pourrez gérer [les inscriptions ](admin-inscriptions.md) aux sessions ainsi que [les séances ](admin-sessions-events.md) dans leur détails.
+![](images/cursus-fig107.png)
+
+Depuis cette page, vous pourrez gérer [les inscriptions ](admin-inscriptions.md) aux sessions ainsi que [les séances ](admin-sessions-events.md) dans leur détails. Les séances ouvertes étant celles en cours et les séances terminées celles dont la date est passée. 
 
 Vous aurez également accès à l'intégralité des actions possibles, en effet, elles ne sont pas toutes présentes dans le tableau.
 
