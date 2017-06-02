@@ -18,9 +18,15 @@ En cochant cette option, vos items seront disposés aléatoirement lors de la pa
 
 #### Les items
 
-Les items peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).
+Le remplissage du formulaire s'organise en deux temps : vous devez créer vos items puis les relier entre eux tel que vous le souhaitez. Autrement dit, vous créez d'abord la question telle que la verra l'utilisateur, puis vous donnez les réponses en appariant les items comme le fera l'utilisateur lors de la passation
 
-Les items se répartissent en 2 colonnes : les items de la colonne de gauche devront être reliés à un ou plusieurs items de celle de droite. Vous devez donc remplir les items et les relier entre eux. en fonction des réponses attendues \(ou des erreurs attendues\). Pour cela, cliquez sur la pastille qui se trouve à droite d'un item de la colonne de gauche, maintenez le clic et déplacez la pastille jusqu'à la pastille qui se trouve à gauche de l'item de la colonne de droite auquel vous voulez l'associer. Quand vous relâchez le clic, un lien entre les 2 items se forme et une popover s'ouvre afin d'éditer l'association. Vous pourrez alors donner un score \(positif ou négatif\) et un feedback à l'association. La couleur de la liaison permet de voir si le score associé à la réponse est positif \(vert\) ou négatif ou nul \(rouge\).
+* **Création des items**
+
+Les items se répartissent en 2 colonnes : les items de la colonne de gauche devront être reliés à un ou plusieurs items de celle de droite. Les items peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).
+
+* **Liaison des items**
+
+Vous devez relier entre eux en fonction des réponses attendues \(ou des erreurs attendues\). Pour cela, cliquez sur la pastille qui se trouve à droite d'un item de la colonne de gauche, maintenez le clic et déplacez la pastille jusqu'à la pastille qui se trouve à gauche de l'item de la colonne de droite auquel vous voulez l'associer. Quand vous relâchez le clic, un lien entre les 2 items se forme et une popover s'ouvre afin d'éditer l'association. Vous pourrez alors donner un score \(positif ou négatif\) et un feedback à l'association. La couleur de la liaison permet de voir si le score associé à la réponse est positif \(vert\) ou négatif ou nul \(rouge\).
 
 Le feedback est un message non obligatoire que vous pouvez adresser à l'utilisateur si celui-ci crée cette liaison au moment de la passation. Ce feedback sera affiché en fin d'étape si cette option a été choisie dans les paramètres du questionnaire \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) ainsi que dans la correction.  
 En cliquant sur l'icône  : ![](images/quiz-fig20.png), vous ouvrez le champ texte où vous écrirez le feedback.

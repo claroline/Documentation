@@ -93,7 +93,7 @@
           * Question Ouverte
           * [Question Appariement](resources/quiz/question-appariement.md)
           * Question Mots clés
-          * Question Classement
+          * [Question Classement](resources/quiz/question-classement.md)
           * Question Tableau
           * Question Ordonnancement
           * Question Vrai / Faux
@@ -132,11 +132,11 @@
       * [Gérer des séances](admin/cursus/admin-sessions-events.md)
         * [Créer des séances](admin/cursus/create-sessions-events.md)
     * [Exemple de structures](admin/cursus/examples.md)
-      * [Exemple de structure pour une école](admin/cursus/example-school.md)  
+      * [Exemple de structure pour une école](admin/cursus/example-school.md)
       * [Exemple de structure pour une société](admin/cursus/example-business.md)
     * [Gérer les inscriptions](admin/cursus/inscriptions.md)
       * [Inscriptions aux cursus](admin/cursus/cursus-inscriptions.md)
-      * [Inscriptions aux sessions](admin/cursus/inscriptions-sessions.md)  
+      * [Inscriptions aux sessions](admin/cursus/inscriptions-sessions.md)
       * [Inscriptions aux séances](admin/cursus/inscriptions-sessions-events.md)
       * [Inscriptions par utilisateur](admin/cursus/inscriptions-users.md)
     * [Configurer le gestionnaire de formations](admin/cursus/general-config.md)

@@ -9,3 +9,6 @@ Une fois dans l'étape, vous pouvez choisir entre  3 options :
 * ajouter du contenu.
 
 ![](images/quiz-fig8.png)
+
+Quelque soit votre choix, pensez à sauvegarder régulièrement \(en haut à droite\).
+
