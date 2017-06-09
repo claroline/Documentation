@@ -39,6 +39,8 @@ Il faut cliquer sur "Applications externes" pour choisir celle qu'on veut utilis
 
 Les utilisateurs n'ont plus qu'à choisir l'application souhaitée et donner un nom à la ressource qu'ils vont créer. 
 
+Et voici le résultat final. En en-tête, vous retrouvez le titre et la description que vous avez indiqué dans l'administration. 
+
 ![](images/LTI-fig8.png)
 
 Et voici le résultat final. En en-tête, vous retrouvez le titre et la description que vous avez indiqué dans l'administration. 
