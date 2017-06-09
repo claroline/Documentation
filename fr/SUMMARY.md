@@ -143,7 +143,7 @@
       * [Paramètres généraux](admin/cursus/generals-config.md)
       * [Gérer les modèles](admin/cursus/models-config.md)
       * [Gérer les localisations](admin/cursus/localisations-config.md)
-* [LTI](admin/cursus/lti.md)      
+  * [LTI](admin/cursus/lti.md)      
 * [Participer à l'écriture de la documentation](doc/doc.md)
   * [Nos priorités](doc/nos-priorites.md)
   * [Procédures à suivre](doc/process.md)
