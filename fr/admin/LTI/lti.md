@@ -37,6 +37,14 @@ A ce stade-ci, le travail de l'administrateur est terminé. La ressource est dis
 Il faut cliquer sur "Applications externes" pour choisir celle qu'on veut utiliser.
 ![](images/LTI-fig6.png)
 
+Les utilisateurs n'ont plus qu'à choisir l'application souhaitée et donner un nom à la ressource qu'ils vont créer. 
+
+![](images/LTI-fig8.png)
+
+Et voici le résultat final. En en-tête, vous retrouvez le titre et la description que vous avez indiqué dans l'administration. 
+
+
+
 
 
 
