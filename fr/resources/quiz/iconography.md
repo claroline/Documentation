@@ -6,13 +6,25 @@ Dans l'ensensemble du questionnaire vous retrouverez des icônes qui ont une sig
 
 #### ![](/fr/resources/quiz/images/quiz-fig29.png) Editer
 
-Cette icône indique que vous pouvez modifier le contenu. On la retrouve dans divers endroits de la plateforme : dans l'angle en haut à droite des onglets et des widgets que vous créez dans un espace d'activité, pour modifier une ressourceou encore dans le questionnaire, vous retrouverez cette icône lors de la création de questions texte à trous, tableau, graphique, etc.
+Cette icône indique que vous pouvez modifier le contenu. On la retrouve dans divers endroits de la plateforme : dans l'angle en haut à droite des onglets et des widgets que vous créez dans un espace d'activité, pour modifier une ressource ou encore dans le questionnaire, vous retrouverez cette icône lors de la création de questions texte à trous, tableau, graphique, etc.
 
 En cliquant sur cette icône vous aurez accès aux paramètres concernant l'élément à modifier.
 
 #### ![](/fr/resources/quiz/images/quiz-fig40.png) Enregistrer
 
-En cliquant sur cette icône vous enregistrez les modifications que vous avez aporté depuis la dernière sauvegarde. **Attention, si vous quittez un questionnaire sans avoir enregistré, vous perdrez toutes les modifications non sauvegardées.**
+En cliquant sur cette icône vous enregistrez les modifications que vous avez apporté depuis la dernière sauvegarde. **Attention, si vous quittez un questionnaire sans avoir enregistré, vous perdrez toutes les modifications non sauvegardées.**
+
+#### ![](/fr/resources/quiz/images/quiz-fig43.png) Publication
+
+Si l'œil est ouvert, cela veut dire que votre ressource est publiée. En cliquant dessus, l'œil se barrera et la ressource ne sera plus publiée.
+
+
+#### ![](/fr/resources/quiz/images/quiz-fig44.png) Editer les droits de la ressource
+
+En cliquant sur le cadenas vous accédez à l'édition des droits de votre ressource. En fonction de qui peut voir la ressource, le cadenas sera plus ou moins ouvert.
+La ressource questionnaire possède des [droits spécifiques](resources/quiz/specific_rights.md).
+
+
 
 #### ![](/fr/resources/quiz/images/quiz-fig39.png) Plein écran
 
@@ -20,11 +32,11 @@ Comme son nom l'indique, en cliquant sur cette icône vous passerez en mode plei
 
 #### ![](/fr/resources/quiz/images/quiz-fig41.png) Menu d'actions
 
-En cliquant sur cette icône, vous pourrez afficher le menu qui vous donnera accès à plus d'actions que celles déjà affichées \(modifier/enregistrer et plein écran\). En fonction des droits que vous avez, vous pourrez via ce menu accéder à la vue d'ensemble,  à la liste des résultats, à la correction manuelle outester le questionnaire.
+En cliquant sur cette icône, vous pourrez afficher le menu qui vous donnera accès à plus d'actions que celles déjà affichées \(modifier/enregistrer et plein écran\). En fonction des droits que vous avez, vous pourrez via ce menu accéder à la vue d'ensemble,  à la liste des résultats, à la correction manuelle ou tester le questionnaire.
 
 #### ![](/fr/resources/quiz/images/quiz-fig38.png) Déplacer
 
-Cette icône se retrouve à la fois dans l'éditeur du questionnaire et lors de la passation de questions necessitant le déplacement d'objets. En cliquant sur cette icône et en maintenant le clic, vous déplacerez l'objet en question. Pour déposer l'objet, il vous suffit de lâcher le clic.
+Cette icône se retrouve à la fois dans l'éditeur du questionnaire et lors de la passation de questions nécessitant le déplacement d'objets. En cliquant sur cette icône et en maintenant le clic, vous déplacerez l'objet en question. Pour déposer l'objet, il vous suffit de lâcher le clic.
 
 #### ![](/fr/resources/quiz/images/quiz-fig37.png) Supprimer
 
@@ -50,7 +62,7 @@ Lors de l'affichage des feedbacks en fin d'étape  \(cf. "Afficher les feedbacks
 
 Dans l'éditeur, quand vous créez une question ou que vous ajoutez du contenu, tant que l'ensemble des champs obligatoires ou que le formulaire contient des erreurs, cette icône s'affiche pour vous signaler que des modifications sont nécessaires avant de pouvoir sauvegarder.
 
-Pour savoir où vous devez encore apporter des modifcations, cette icône est affiché sur l'étape, sur la question et au niveau du champ à modifier dans la question. Très souvent, à ce niveau là, l'icône est accompagnée d'un texte qui précise les modifications à apporter.
+Pour savoir où vous devez encore apporter des modifications, cette icône est affiché sur l'étape, sur la question et au niveau du champ à modifier dans la question. Très souvent, à ce niveau là, l'icône est accompagnée d'un texte qui précise les modifications à apporter.
 
 #### ![](/fr/resources/quiz/images/quiz-fig36.png) Erreur ou information manquante
 
