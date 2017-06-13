@@ -89,7 +89,7 @@
           * [Question Choix Multiple](resources/quiz/choice.md)
           * [Question Association](resources/quiz/association.md)
           * [Question Texte à trous](resources/quiz/cloze.md)
-          * Question Graphique
+          * [Question Graphique](resources/quiz/question-graphique.md)
           * Question Ouverte
           * [Question Appariement](resources/quiz/question-appariement.md)
           * Question Mots clés
@@ -143,7 +143,7 @@
       * [Paramètres généraux](admin/cursus/generals-config.md)
       * [Gérer les modèles](admin/cursus/models-config.md)
       * [Gérer les localisations](admin/cursus/localisations-config.md)
-  * [LTI](admin/LTI/lti.md)      
+  * [LTI](admin/LTI/lti.md)
 * [Participer à l'écriture de la documentation](doc/doc.md)
   * [Nos priorités](doc/nos-priorites.md)
   * [Procédures à suivre](doc/process.md)
