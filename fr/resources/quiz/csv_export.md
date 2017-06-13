@@ -6,6 +6,9 @@
 
 Dans le menu des actions supplémentaires possibles du questionnaire, vous pouvez accéder à différentes pages en fonction de vos droits :
 
+![](images/quiz-fig45.png)
+
+
 En cliquant sur "export CSV des résultats", vous téléchargerez sur votre ordinateur un fichier au format .csv qui reprend les informations de la liste de résultats :
 
 * Colonne 1 : Utilisateur
