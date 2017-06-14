@@ -8,3 +8,5 @@ Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Crée
 
 ![](images/quiz-fig52.png)
 
+
+
