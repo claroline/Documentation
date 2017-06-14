@@ -90,7 +90,7 @@
           * [Question Association](resources/quiz/association.md)
           * [Question Texte à trous](resources/quiz/cloze.md)
           * [Question Graphique](resources/quiz/question-graphique.md)
-          * Question Ouverte
+          * [Question Ouverte](resources/quiz/question-ouverte.md)
           * [Question Appariement](resources/quiz/question-appariement.md)
           * Question Mots clés
           * [Question Classement](resources/quiz/question-classement.md)
