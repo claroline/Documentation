@@ -9,5 +9,11 @@ Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Crée
 
 ![](images/quiz-fig50.png)
 
+#### L'image
+
+Dans un premier temps vous devez choisir l'image où vous placerez les zones de réponse. Vous pouvez importer une image de votre ordinateur en cliquant sur "Choisir une image".
+
+
+
 
 

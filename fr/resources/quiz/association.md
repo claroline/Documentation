@@ -39,7 +39,7 @@ Pour fermer cette popover d'édition de l'association cliquez sur la croix en ha
 
 Si vous souhaitez qu'il y ait des intrus, il vous suffit de ne pas associer un item avec un autre.
 
-Voici un exemple de conception d'une question.
+
 
 
 
