@@ -14,3 +14,5 @@ Dans ce champ vous devez renseigner le score maximum qu'il est possible d'obteni
 #### Longueur maximum de la réponse
 
 Ce champ obligatoire permet de renseigner la longueur maximale attendue. Cette longueur est à renseigner en nombre de caractères. Lors de la passation l'utilisateur ne pourra pas aller au delà de cette longueur.
+
+![](images/quiz-fig47.png)
