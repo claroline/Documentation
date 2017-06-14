@@ -6,6 +6,8 @@ La question texte à trous permet de créer des questions où les utilisateurs d
 
 Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question texte à trous.
 
+![](images/quiz-fig49.png)
+
 #### Texte
 
 Le remplissage du formulaire s'organise en deux temps : vous devez écrire votre texte puis créer les trous.

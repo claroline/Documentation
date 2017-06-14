@@ -1,12 +1,21 @@
-### Question Classement
+### Question Ordonnancement
 
 ---
 
-La question classement permet de créer des questions où les utilisateurs devront mettre des éléments dans un ou plusieurs ensembles. Ces éléments peuvent être du texte, une image, du son ou une vidéo.
+La question ordonner permet de créer des questions où les utilisateurs devront déplacer des éléments pour les mettre en orde. Ces éléments peuvent être du texte, une image, du son ou une vidéo.
 
 Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question association.
 
-![](images/quiz-fig53.png)
+![](images/quiz-fig55.png)
+
+#### Score global
+
+Par défaut, c'est-à-dire quand cette option n'est pas cochée, le score obtenu sera celui qui est associé au choix que fera l'utilisateur.
+
+![](images/quiz-fig18.png)
+
+Si vous choisissez le score global, des points seront attribués seulement si tout est juste \(points en cas de succès\). S'il y a ne serait-ce qu'une erreur, ce seront les points en cas d'échec qui seront attribués \(ils peuvent être nuls ou négatifs\).
+
 
 #### Pénalité pour toute mauvaise réponse non définie
 
@@ -14,11 +23,11 @@ Vous pouvez définir dans ce champ une pénalité pour toute erreur effectuée p
 
 Cette pénalité ne se cumule pas à des réponses erronées que le concepteur aurait déjà défini \(association avec un score négatif\).
 
-#### **Ordre des items aléatoires**
+#### Disposition
 
-En cochant cette option, vos items seront disposés aléatoirement lors de la passation. A contrario, si vous ne la cochez pas, les items de la colonne de gauche et de droite seront affichés dans l'ordre dans lesquels vous les aurez créés.
+#### Réordonner sur place / en déplaçant
 
-#### Les items et les ensembles
+#### Les items
 
 Le remplissage du formulaire s'organise en deux temps : vous devez créer vos items et vos ensembles puis déplacer les items dans les ensembles tel que devra le faire l'apprenant. Autrement dit, vous créez d'abord la question telle que la verra l'utilisateur, puis vous donnez les réponses en déplaçant les items comme le fera l'utilisateur lors de la passation
 
@@ -39,5 +48,5 @@ La poubelle vous permet de supprimer l'intrus.
 
 Une fois les items et les ensembles créés, vous pouvez classer les items dans les ensembles.
 
-Pour cela vous devez déplacer un item dans la zone de l'ensemble prévue à cet effet. Chaque item déplacé dans un ensemble est associé à un score et un feedback \(facultatif\). Vous pouvez lui associer un score positif, nul ou négatif.
+Pour cela vous devez déplacer un item dans la zone de l'ensemble prévue à cet effet. Chaque item déplacé dans un ensemble est associé à un score et un feedback \(facultatif\). Vous pouvez lui associer un score positif, nul ou négatif.*/
 
