@@ -25,28 +25,26 @@ Cette pénalité ne se cumule pas à des réponses erronées que le concepteur a
 
 #### Disposition
 
+Vous pouvez choisir que vos items soient positionnés les uns à côté des autres (disposition horizontale) ou les uns au dessous des autres (disposition verticale).
+
 #### Réordonner sur place / en déplaçant
+
+Vous pouvez choisir parmi deux types d'ordonnancement :
+
+- **réordonner sur place**: Lors de la passation, les items seront disposés les uns au dessous des autres ou les uns à côté des autres. Lors du déplacement d'un item au moment de relâcher ce dernier, celui-ci viendra prendre la place d'un autre. Dans cette configuration, les items ne proviennent pas d'un ensemble à part.
+- **réordonner en déplaçant**: Lors de la passation, tous les items sont d'abord dans un ensemble, et ils doivent être déplacés hors de cet ensemble et disposés dans le bon ordre dans un autre ensemble.
 
 #### Les items
 
-Le remplissage du formulaire s'organise en deux temps : vous devez créer vos items et vos ensembles puis déplacer les items dans les ensembles tel que devra le faire l'apprenant. Autrement dit, vous créez d'abord la question telle que la verra l'utilisateur, puis vous donnez les réponses en déplaçant les items comme le fera l'utilisateur lors de la passation
+Vous devez créer vos items dans l'ordre attendu. Les items peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).
 
-* **Création des items et des ensembles**
-
-Les items \(colonne de gauche\) et les ensembles \(colonne de droite\) peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\).
-
-Si vous souhaitez rajouter de la complexité, vous pouvez ajouter un intrus en cliquant sur "ajouter un intrus". Cet intrus est associé à un score \(nul ou négatif\) et peut aussi avoir un feedback.
+Chaque item est associé à un score et un feedback. Le score ne peut pas être négatif et sera obtenu par l'utilisateur si l'item est correctement positionné lors de la passation.
 
 Le feedback est un message non obligatoire que vous pouvez adresser à l'utilisateur si celui-ci déplace l'intrus dans un ensemble au moment de la passation. Ce feedback sera affiché en fin d'étape si cette option a été choisie dans les paramètres du questionnaire \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) ainsi que dans la correction.  
 En cliquant sur l'icône  : ![](images/quiz-fig20.png), vous ouvrez le champ texte où vous écrirez le feedback.
 
-Le score sera comptabilisé seulement si l'utilisateur a déplacé cet intrus dans un ensemble.
+Si vous souhaitez rajouter de la complexité, vous pouvez ajouter un intrus en cliquant sur "ajouter un intrus"(cette option n'est possible que si vous êtes en mode réordonner en déplaçant). Cet intrus est associé à un score \(nul ou négatif\) et peut aussi avoir un feedback.
+
+Le score sera comptabilisé seulement si l'utilisateur a placé cet intrus dans son ordonnancement.
 
 La poubelle vous permet de supprimer l'intrus.
-
-* **Déplacer les items dans les ensembles**
-
-Une fois les items et les ensembles créés, vous pouvez classer les items dans les ensembles.
-
-Pour cela vous devez déplacer un item dans la zone de l'ensemble prévue à cet effet. Chaque item déplacé dans un ensemble est associé à un score et un feedback \(facultatif\). Vous pouvez lui associer un score positif, nul ou négatif.*/
-
