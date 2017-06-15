@@ -47,5 +47,4 @@ Cliquez sur "ajouter une paire" pour ajouter d'autres paires.
 
 Vous pouvez choisir d'épingler un item pour qu'il soit visible lors de la passation. Ainsi l'utilisateur n'aura qu'un item à déplacer pour compléter la paire. Vous devez pour cela cocher "Activer / désactiver la fonctionnalité épingler un item" puis choisir l'item que vous allez épingler.
 
-Voici un exemple de conception d'une question.
 
