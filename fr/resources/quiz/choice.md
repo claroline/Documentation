@@ -21,11 +21,11 @@ Par défaut, c'est-à-dire quand cette option n'est pas cochée, le score obtenu
 
 Si vous choisissez le score global, des points seront attribués seulement si tout est juste \(points en cas de succès\). S'il y a ne serait-ce qu'une erreur, ce seront les points en cas d'échec qui seront attribués \(ils peuvent être nuls ou négatifs\).
 
-#### **Ordre des choix aléatoires**
+#### Ordre des choix aléatoires
 
 En cochant cette option, vos choix seront disposés aléatoirement lors de la passation. A contrario, si vous ne la cochez pas, les choix seront affichés dans l'ordre dans lesquels vous les aurez créés.
 
-#### **Les choix**
+#### Les choix
 
 Les choix peuvent être du texte simple, une image, une vidéo ou encore un audio \(en utilisant l'éditeur de texte riche\). Chaque choix doit être associé à un score et au moins un choix doit avoir un score positif. Le fond de couleur permet de voir si le score associé à la réponse est positif \(vert\) ou négatif ou nul \(rouge\).
 

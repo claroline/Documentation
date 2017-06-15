@@ -7,6 +7,7 @@ La question ouverte permet de créer des questions où les utilisateurs devront 
   
 Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question ouverte.
 
+
 #### Score maximum possible
 
 Dans ce champ vous devez renseigner le score maximum qu'il est possible d'obtenir à cette question. Lors de la correction manuelle, vous noterez la copie sur ce score.

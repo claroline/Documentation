@@ -6,13 +6,15 @@ La question appariement permet de créer des questions où les utilisateurs devr
 
 Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question appariement.
 
+![](images/quiz-fig51.png)
+
 #### Pénalité pour toute mauvaise réponse non définie
 
 Vous pouvez définir dans ce champ une pénalité pour toute erreur effectuée par l'utilisateur lors de la passation. Cette pénalité exprimée en points positifs, par exemple 1 point de pénalité équivaudra a un retrait de 1 point du score total de la question pour chaque réponse erronée. Cela peut donc engendrer des scores négatifs.
 
 Cette pénalité ne se cumule pas à des réponses erronées que le concepteur aurait déjà défini \(paire avec un score négatif\).
 
-#### **Ordre des paires aléatoires**
+#### Ordre des paires aléatoires
 
 En cochant cette option, vos paires \(éléments de la droite\) seront disposées aléatoirement lors de la passation. Attention, on parle ici des paires et non des items à mettre par paire \(éléments de la gauche\) qui seront eux toujours disposés aléatoirement. A contrario, si vous ne la cochez pas, les paires seront affichées dans l'ordre dans lesquels vous les aurez créés.
 
@@ -45,5 +47,4 @@ Cliquez sur "ajouter une paire" pour ajouter d'autres paires.
 
 Vous pouvez choisir d'épingler un item pour qu'il soit visible lors de la passation. Ainsi l'utilisateur n'aura qu'un item à déplacer pour compléter la paire. Vous devez pour cela cocher "Activer / désactiver la fonctionnalité épingler un item" puis choisir l'item que vous allez épingler.
 
-Voici un exemple de conception d'une question.
 

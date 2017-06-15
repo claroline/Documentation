@@ -6,13 +6,15 @@ La question association permet de créer des questions où les utilisateurs devr
 
 Lorsque vous avez rempli les champs communs à toutes les questions \(cf. [Créer une nouvelle question](create_new_question.md) \), vous devez remplir le formulaire spécifique à la question association.
 
+![](images/quiz-fig48.png)
+
 #### Pénalité pour toute mauvaise réponse non définie
 
 Vous pouvez définir dans ce champ une pénalité pour toute erreur effectuée par l'utilisateur lors de la passation. Cette pénalité exprimée en points positifs, par exemple 1 point de pénalité équivaudra a un retrait de 1 point du score total de la question pour chaque réponse erronée. Cela peut donc engendrer des scores négatifs.
 
 Cette pénalité ne se cumule pas à des réponses erronées que le concepteur aurait déjà défini \(association avec un score négatif\).
 
-#### **Ordre des items aléatoires**
+#### Ordre des items aléatoires
 
 En cochant cette option, vos items seront disposés aléatoirement lors de la passation. A contrario, si vous ne la cochez pas, les items de la colonne de gauche et de droite seront affichés dans l'ordre dans lesquels vous les aurez créés.
 
@@ -37,5 +39,7 @@ Pour fermer cette popover d'édition de l'association cliquez sur la croix en ha
 
 Si vous souhaitez qu'il y ait des intrus, il vous suffit de ne pas associer un item avec un autre.
 
-Voici un exemple de conception d'une question.
+
+
+
 

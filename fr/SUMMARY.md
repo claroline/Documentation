@@ -92,11 +92,11 @@
           * [Question Graphique](resources/quiz/question-graphique.md)
           * [Question Ouverte](resources/quiz/question-ouverte.md)
           * [Question Appariement](resources/quiz/question-appariement.md)
-          * Question Mots clés
+          * [Question Mots clés](resources/quiz/question-mots-cles.md)
           * [Question Classement](resources/quiz/question-classement.md)
-          * Question Tableau
-          * Question Ordonnancement
-          * Question Vrai / Faux
+          * [Question Tableau](resources/quiz/question-tableau.md)
+          * [Question Ordonnancement](resources/quiz/question-ordonnancement.md)
+          * [Question Vrai / Faux](resources/quiz/question-vrai-faux.md)
         * [Importer une question](resources/quiz/importer-une-question.md)
         * [Ajouter du contenu](resources/quiz/add_content.md)
       * [Répondre au questionnaire](resources/quiz/pass_quiz.md)
