@@ -47,8 +47,8 @@ exit;
 Un fichier compressé contenant tout ce qui est nécessaire pour le développement et les tests \(pre-fetched sources, database dump, etc.\) est disponible à chaque release de la platforme à packages.claroline.net/releases. C'est le moyen le plus rapide pour démarrer:
 
 ```
-curl packages.claroline.net/releases/latest/claroline-17.01.tar.gz | tar xzv
-cd claroline-17.01
+curl packages.claroline.net/releases/latest/claroline-17.06.tar.gz | tar xzv
+cd claroline-17.06
 php scripts/configure.php
 composer fast-install
 ```
@@ -67,7 +67,7 @@ composer sync-dev
 #### 3. Depuis le web
 
 ```
-curl packages.claroline.net/releases/latest/claroline-16.05.tar.gz | tar xzv
+curl packages.claroline.net/releases/latest/claroline-17.06.tar.gz | tar xzv
 ```
 
 Ouvrez /install.php depuis votre serveur web et suivez les instructions.
