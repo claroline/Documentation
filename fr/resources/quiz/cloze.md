@@ -18,12 +18,12 @@ Vous pourrez alors donner un score \(positif ou négatif\) et un feedback au mot
 
 Vous pouvez donner plusieurs propositions de réponses voire anticiper les mauvaises.
 
+En cochant l'option "soumettre une liste", l'utilisateur aura une liste déroulante lors de la passation et devra choisir entre différentes propositions (via un menu déroulant).  Pour utiliser cette option il faut donc que le trou ait au moins une réponse correcte (score positif) et plusieurs propositions erronées (score nul ou négatif).
+
 Le feedback est un message non obligatoire que vous pouvez adresser à l'utilisateur si celui-ci crée cette liaison au moment de la passation. Ce feedback sera affiché en fin d'étape si cette option a été choisie dans les paramètres du questionnaire \(cf. "Afficher les feedbacks en fin d'étape" dans  [Correction](quiz_parameters_correction.md)\) ainsi que dans la correction.  
 En cliquant sur l'icône  : ![](images/quiz-fig20.png), vous ouvrez le champ texte où vous écrirez le feedback.
 
 Enfin, la poubelle vous permet de supprimer la liaison.
 
 Pour fermer cette popover d'édition de l'association cliquez sur la croix en haut à droite.
-
-Si vous souhaitez qu'il y ait des intrus, il vous suffit de ne pas associer un item avec un autre.
 

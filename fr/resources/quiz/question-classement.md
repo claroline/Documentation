@@ -14,7 +14,7 @@ Vous pouvez définir dans ce champ une pénalité pour toute erreur effectuée p
 
 Cette pénalité ne se cumule pas à des réponses erronées que le concepteur aurait déjà défini \(association avec un score négatif\).
 
-#### **Ordre des items aléatoires**
+#### Ordre des items aléatoires
 
 En cochant cette option, vos items seront disposés aléatoirement lors de la passation. A contrario, si vous ne la cochez pas, les items de la colonne de gauche et de droite seront affichés dans l'ordre dans lesquels vous les aurez créés.
 
