@@ -13,19 +13,19 @@ Le menu options permet également:
 
 * de **laisser une note personnelle** sur les ressources (post-it, pense-bête, remarques)
 
-![](images/fig131.png)
+![](images/resource_note.png)
 
 <p style="text-align: center; color: blue">Figure 131 - Laisser une note personnelle.</p>
 
 * d'**ajouter** la ressource **à ses favoris**
 
-![](images/fig132.png)
+![](images/resource_favorites.png)
 
 <p style="text-align: center; color: blue">Figure 132 - Ajouter aux favoris.</p>
 
 * de **partager** la ressource **sur les réseaux sociaux**
 
-![](images/fig133.png)
+![](images/resource_share.png)
 
 <p style="text-align: center; color: blue">Figure 133 - Partage d'une ressource sur les réseaux sociaux.</p>
 
