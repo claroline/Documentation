@@ -13,6 +13,6 @@ Il existe deux manières d'accéder au gestionnaire de ressources
 
 <p style="text-align: center; color: blue">Figure 119 - Accéder au répertoire de ressources d'un espace ou accéder à l'espace général des ressources de la plateforme</p>
 
-![](images/fig120.png)
+![](/assets/resource_manager_2.png)
 
 <p style="text-align: center; color: blue">Figure 120 - Espace général des ressources de la plateforme</p>
