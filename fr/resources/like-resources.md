@@ -33,11 +33,7 @@ Le menu options permet également:
 
 Il y a deux types d'affichage:
 
-a. Sur le Mur de l'utilisateur :
-
-![](images/fig134.png)
-
-<p style="text-align: center; color: blue">Figure 134 - Affichage sur le mur de l'utilisateur.</p>
+a. Sur le Mur de l'utilisateur après avoir cliqué sur "Mon profil":
 
 ![](images/fig135.png)
 
