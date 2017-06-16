@@ -21,6 +21,8 @@ La barre de propriétés du gestionnaire de ressources permet:
 
 ![](images/resource_search.png)
 
+![](images/resource_search_2.png)
+
 <p style="text-align: center; color: blue">Figure 124 - Rechercher une ressource ou définir des dates de publication pour une ressource</p>
 
 
