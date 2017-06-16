@@ -1,8 +1,8 @@
 ## Modifier les options d'une ressource
 ---
-Vous pouvez accéder aux options d'une ressource en la sélectionnant et en cliquant sur son nom :
+Vous pouvez accéder aux options d'une ressource en la sélectionnant et en cliquant sur son nom:
 
-![](images/fig121.png)
+![](/assets/resource_properties.png)
 
 <p style="text-align: center; color: blue">Figure 121 - Accès aux options d'une ressource.</p>
 
