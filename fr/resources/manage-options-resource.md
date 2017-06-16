@@ -3,9 +3,9 @@
 
 Vous pouvez accéder aux **options d'une ressource** en cliquant sur la petite flèche à droite de votre nom.
 
-![](images/fig125.png)
+![](images/blog_properties.png) ![](images/pdf_properties.png) ![](images/path_properties.png)
 
-<p style="text-align: center; color: blue">Figure 125 - Le choix d'options varie en fonction du type de ressource.</p>
+<p style="text-align: center; color: blue">Figure 125 - Le choix d'options varie en fonction du type de ressource. Dans l'exemple ci-dessus, vous voyez les possibilités pour un blog, un document PDF et un parcours.</p>
 
 Le menu "**Options**" permet:
 
