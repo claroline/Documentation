@@ -8,6 +8,10 @@ Pour créer une séance, il suffit de remplir le formulaire de création. Ce for
 
 * Vous pouvez mettre une **description** mais c'est facultatif.
 * Vous devez indiquer **la date et l'heure de début et de fin**.
+* Vous devez paramétrer le système **d'inscription aux séances**. Vous avez le choix parmi 3 options:
+    * Automatique:Lors de l'inscription à la session, les utilisateurs sont automatiquement inscrit dans toutes les séances de ce type.
+    * Publique: Les utilisateurs doivent s'inscrire par eux-mêmes dans à la séance.
+    * Manuelle: Le formateur ou le gestionnaire inscrit chaque utilisateur manuellement dans ce type de séances.
 * Vous pouvez choisir un **lieu** parmi ceux qui sont proposés. Si celui que vous souhaitez n'existe pas, il faut le créer depuis [la gestion des localisations](localisations-config.md). 
 * Il est également possible de mettre des **infos complémentaires**: une carte du lieu, le n° du local, le code de la porte d'entrée ...
 * Vous pouvez indiquer, en choisissant dans la liste des **formateurs** de la session, qui sont *les intervenants sur cette séance*. 

@@ -41,6 +41,22 @@ En plus des actions déjà présentées, vous pouvez ajouter des inscrits à vot
 
 Si vous souhaitez ajouter une séance, il faut utiliser **le bouton "créer une séance"** en bas à gauche de la liste des séances.
 
+Il vous suffit alors de remplir le formulaire et de valider pour que votre séances soit créée.
+
+![](images/cursus-seance-fig5.png)
+
+* Vous devez donner un **nom** à votre séance. Veillez à donner un nom explicite par rapport à ce qui s'y déroulera.
+
+* Vous pouvez mettre une **description** mais c'est facultatif.
+* Vous devez indiquer **la date et l'heure de début et de fin**.
+* Vous pouvez choisir un **lieu** parmi ceux qui sont proposés. Si celui que vous souhaitez n'existe pas, il faut demander sa création par un gestionnaire de formations/administrateur depuis [la gestion des localisations](localisations-config.md). 
+* Il est également possible de mettre des **infos complémentaires**: une carte du lieu, le n° du local, le code de la porte d'entrée ...
+* Vous pouvez indiquer, en choisissant dans la liste des **formateurs** de la session, qui sont *les intervenants sur cette séance*. 
+
+Il ne vous reste plus qu'à cliquer su "OK" pour créer votre séance.
+
+>> Les informations indiquées pour la séance sont accessibles aux utilisateurs. 
+
 
 
 
