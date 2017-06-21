@@ -57,7 +57,6 @@ Il vous suffit alors de remplir le formulaire et de valider pour que votre séan
 
 > Cet affichage n'apparaît que pour les utilisateurs n'ayant pas un rôle de gestionnaire dans l'espace d'activités.
 
-
 * Vous pouvez choisir un **lieu** parmi ceux qui sont proposés. Si celui que vous souhaitez n'existe pas, il faut demander sa création par un gestionnaire de formations/administrateur depuis [la gestion des localisations](localisations-config.md). 
 * Il est également possible de mettre des **infos complémentaires**: une carte du lieu, le n° du local, le code de la porte d'entrée ...
 * Vous pouvez indiquer, en choisissant dans la liste des **formateurs** de la session, qui sont *les intervenants sur cette séance*. 
@@ -68,8 +67,9 @@ Si par la suite, vous souhaitez éditer le groupe, il suffit depuis la liste des
 
 ![](images/cursus-seance-fig4.png)
 
+Vous pourrez alors modifier le nom du groupe, ou le nombre de séances simultanées auxquelles peuvent s'inscrire les utilisateurs. Si vous n'avez plus besoin du groupe, c'est également dans ce menu que vous pourrez le supprimer.
 
-
+![](images/cursus-seance-fig2.png)
 
 Il est également possible de d'**afficher dans l'agenda** la séance que vous êtes en train de créer. Elle sera dès lors visible dans l'agenda de votre espace d'activités et dans les agendas personnels de tous les inscrits.
 
