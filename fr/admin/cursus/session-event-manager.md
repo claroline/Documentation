@@ -50,12 +50,28 @@ Il vous suffit alors de remplir le formulaire et de valider pour que votre séan
 * Vous devez indiquer **la date et l'heure de début et de fin**.
 * Vous devez paramétrer le système **d'inscription aux séances**. Vous avez le choix parmi 3 options:
     * Automatique:Lors de l'inscription à la session, les utilisateurs sont automatiquement inscrit dans toutes les séances de ce type.
-    * Publique: Les utilisateurs doivent s'inscrire par eux-mêmes dans à la séance.Ils pourront le faire soit depuis le [widget "Catalogues de formations"](widget-formationslisting.md)
     * Manuelle: Le formateur ou le gestionnaire inscrit chaque utilisateur manuellement dans ce type de séance.
+    * Publique: Les utilisateurs doivent s'inscrire par eux-mêmes dans à la séance.Ils pourront le faire soit depuis le [widget "Catalogues de formations"](widget-formationslisting.md), soit depuis cet outil.
+    
+    ![](images/cursus-seance-fig11.png)
+
+> Cet affichage n'apparaît que pour les utilisateurs n'ayant pas un rôle de gestionnaire dans l'espace d'activités.
+
 
 * Vous pouvez choisir un **lieu** parmi ceux qui sont proposés. Si celui que vous souhaitez n'existe pas, il faut demander sa création par un gestionnaire de formations/administrateur depuis [la gestion des localisations](localisations-config.md). 
 * Il est également possible de mettre des **infos complémentaires**: une carte du lieu, le n° du local, le code de la porte d'entrée ...
 * Vous pouvez indiquer, en choisissant dans la liste des **formateurs** de la session, qui sont *les intervenants sur cette séance*. 
+
+Chaque séance peut être attachée à un **groupe** de séances. Ceci vous permet lors de l'inscription publique, de restreindre les inscriptions à "x" séances d'un groupe. Pour créer un nouveau groupe, il suffit d'indiquer un nom qui n'est pas encore utilisé dans l'espace d'activités. Pour utiliser un groupe existant, il suffit d'écrire son nom.
+
+Si par la suite, vous souhaitez éditer le groupe, il suffit depuis la liste des séances de cliquer sur le nom du groupe de séances.
+
+![](images/cursus-seance-fig4.png)
+
+
+
+
+Il est également possible de d'**afficher dans l'agenda** la séance que vous êtes en train de créer. Elle sera dès lors visible dans l'agenda de votre espace d'activités et dans les agendas personnels de tous les inscrits.
 
 Il ne vous reste plus qu'à cliquer su "OK" pour créer votre séance.
 
