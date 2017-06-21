@@ -17,7 +17,7 @@ Au bout de chaque ligne se trouve trois petits points empilés, en cliquant sur 
 
 ![](images/cursus-seance-fig6.png)
 
-* **Le crayon** permet d'éditer la séance, vous aurez alors accès au même formulaire que lors de la [création de la séance](create-sessions-events.md).
+* **Le crayon** permet d'éditer la séance, vous aurez alors accès au même formulaire que lors de la création de la séance.
 * **L'icône "i"** vous permet de consulter, ajouter, éditer ou encore supprimer des commentaires sur la séance.
 
 ![](images/cursus-seance-fig8.png)
@@ -46,9 +46,13 @@ Il vous suffit alors de remplir le formulaire et de valider pour que votre séan
 ![](images/cursus-seance-fig5.png)
 
 * Vous devez donner un **nom** à votre séance. Veillez à donner un nom explicite par rapport à ce qui s'y déroulera.
-
 * Vous pouvez mettre une **description** mais c'est facultatif.
 * Vous devez indiquer **la date et l'heure de début et de fin**.
+* Vous devez paramétrer le système **d'inscription aux séances**. Vous avez le choix parmi 3 options:
+    * Automatique:Lors de l'inscription à la session, les utilisateurs sont automatiquement inscrit dans toutes les séances de ce type.
+    * Publique: Les utilisateurs doivent s'inscrire par eux-mêmes dans à la séance.Ils pourront le faire soit depuis le [widget "Catalogues de formations"](widget-formationslisting.md)
+    * Manuelle: Le formateur ou le gestionnaire inscrit chaque utilisateur manuellement dans ce type de séance.
+
 * Vous pouvez choisir un **lieu** parmi ceux qui sont proposés. Si celui que vous souhaitez n'existe pas, il faut demander sa création par un gestionnaire de formations/administrateur depuis [la gestion des localisations](localisations-config.md). 
 * Il est également possible de mettre des **infos complémentaires**: une carte du lieu, le n° du local, le code de la porte d'entrée ...
 * Vous pouvez indiquer, en choisissant dans la liste des **formateurs** de la session, qui sont *les intervenants sur cette séance*. 
