@@ -1,4 +1,4 @@
-## Les raccourcis
+### Les raccourcis
 
 ---
 

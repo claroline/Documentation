@@ -1,4 +1,4 @@
-## Les répertoires
+### Les répertoires
 ---
 Sur Claroline Connect, vous pouvez organiser vos ressources à l'aide de répertoires (ou dossiers) et de sous-répertoires.
 
