@@ -1,13 +1,59 @@
 ## Les différents types de ressources
 
 ---
+Claroline Connect propose de nombreuses ressources. En voici une liste détaillée, n'hésitez pas à cliquer sur le nom d'une ressource pour en savoir plus.
 
-Sur Claroline Connect, vous allez retrouver différents types de ressources:
+* [Activité]()
+* [Annonces]()
+* [Applications externes]()
+* [Base de données](clacoForm/form.md)
+* [Blog]()
+* [Cartes mémoires]()
+* [Chat Room]()
+* [Collecticiel]()
+* [Cours]()
+* [Enregistreur audio]()
+* [Enregistreur vidéo]()
+* [Fichier](manage-documents.md)
+* [Forum]()
+* [Page Wiki]()
+* [Parcours "pédagogiques"]()
+* [Questionnaire](quiz/quiz.md)
+* [Raccourcis]()
+* [Ressource web]()
+* [Référence bibliographique]()
+* [Répertoire]()
+* [Résultat]()
+* [Scorm 1.2]()
+* [Scorm 2004]()
+* [Site web]()
+* [Sondage]()
+* [Texte]()
+* [Url]()
+* [Ecoute active enrichie]()
+* [Evaluation]()
 
-* Des documents que vous pouvez uploader, télécharger, mettre à jour, placer en raccourcis, etc.
-* Des outils de contenu \(texte, annonce, activité\)
-* Des outils de communication \(annonces, forum, blog\)
-* Des Wikis
-* Un générateur de questionnaires
-* Un outil de gestion de bases de données
+
+
+> Les ressources accessibles sur votre plateforme peuvent varier selon la version de Claroline Connect et les plugins installés par votre administrateur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
