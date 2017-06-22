@@ -1,5 +1,8 @@
 ### Les répertoires
 ---
+
+![](images/ressources/Pack1_color1_directory.png)
+
 Sur Claroline Connect, vous pouvez organiser vos ressources à l'aide de répertoires (ou dossiers) et de sous-répertoires.
 
 Pour créer un répertoire, cliquez sur l'onglet **Répertoire** du menu "ajouter".

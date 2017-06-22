@@ -2,6 +2,8 @@
 
 ---
 
+![](images/ressources/Pack1_color1_file.png)
+
 Sur la plateforme **Claroline Connect**, vous pouvez déposer n'importe quel type de fichiers ou documents pour qu'ils soient téléchargeables par vos apprenants. De plus les images, les vidéos, les fichiers audios et les pdfs sont lisibles directement dans la plateforme.
 
 

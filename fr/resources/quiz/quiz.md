@@ -2,7 +2,7 @@
 
 ---
 
-![](images/quiz_fig1.png)
+![](../images/ressources/Pack1_color1_ujm_exercise.png)
 
 <p align="center">
 Quiz Fig.1 - Icône de la ressource Questionnaire

@@ -2,7 +2,8 @@
 
 ---
 
-![](images/clacoform-fig1.png)
+![](../images/ressources/Pack1_color1_claroline_claco_form.png)
+
 
 <p style="color:blue; text-align: center">ClacoForm Fig.1 - Icône de la ressource Base de données.</p>
 
