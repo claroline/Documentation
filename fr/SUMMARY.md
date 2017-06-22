@@ -74,7 +74,7 @@
         * [Commentaires](resources/clacoForm/form-comments.md)
         * [Mots-clés](resources/clacoForm/form-keywords.md)
     * [Les fichiers](resources/manage-documents.md)
-    * [Le questionnaire](resources/quiz/quiz.md)
+    * [Les questionnaires](resources/quiz/quiz.md)
       * [Créer un questionnaire](resources/quiz/create_quiz.md)
       * [Utiliser l'outil de texte riche](resources/quiz/rich_text_tool.md)
       * [Iconographie](resources/quiz/iconography.md)
