@@ -2,13 +2,7 @@
 
 ---
 
-Sur la plateforme **Claroline Connect**, vous pouvez déposer ou télécharger différents types de documents ou de fichiers.
-
-Le dépôt ou le téléchargement de documents se fait dans le gestionnaire des Ressources qui est accessible à partir de l'icône "Ressources" qui se trouve en haut à droite de la barre de propriété de votre bureau, ou à partir de la barre d'outils de votre espace d'activités.
-
-Vous pouvez déposer n'importe quel type de fichiers pour qu'ils soient téléchargeables par vos apprenants. De plus les images, les vidéos, les fichiers audios et les pdfs sont lisibles directement dans la plateforme.
-
-![](images/fig164.png)
+Sur la plateforme **Claroline Connect**, vous pouvez déposer n'importe quel type de fichiers ou documents pour qu'ils soient téléchargeables par vos apprenants. De plus les images, les vidéos, les fichiers audios et les pdfs sont lisibles directement dans la plateforme.
 
 
 Pour transférer un fichier sur Claroline, positionnez vous préalablement :
@@ -37,26 +31,4 @@ Transférez un fichier Zip \(contenant un ensemble de fichiers\) par une des mé
 
 ![](images/fig168.jpeg)
 
-
-
-
-1. Organisez vos ressources en créant des répertoires et des sous-répertoires
-
-Sur Claroline Connect, vous pouvez organiser vos ressources à l'aide de répertoires \(ou dossiers\) et de sous-répertoires.
-
-Pour créer un répertoire, cliquez sur l'onglet **Répertoire** du menu "créer".
-
-Donnez un nom à votre répertoire dans la fenêtre **Répertoire**, puis cliquez sur OK
-
-![](images/fig173.png)
-
-<p style="text-align: center; color: blue">Figure 173 - Créer un répertoire.</p>
-
-Le répertoire ainsi créé apparaîtra alors dans l'espace ressources de votre espace d'activités.
-
-![](images/fig174.png)
-
-<p style="text-align: center; color: blue">Figure 174 - Résultat de la création d'un répertoire.</p>
-
-Vous pouvez créer autant de répertoires et de sous-répertoires que vous le souhaitez.
 

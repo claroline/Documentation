@@ -55,7 +55,7 @@
   * [Créer les rôles et les répertoires de ressources](resources/create-roles-directories.md)
   * [Les différents types de ressources](resources/types-resources.md)
     * [Les fichiers](resources/manage-documents.md)
-    * [Les repertoires](resources/manage-folders.md)
+    * [Les répertoires](resources/manage-folders.md)
     * [Les raccourcis](resources/manage-shortcuts.md)
     * [La base de données](resources/clacoForm/form.md)
       * [Ajouter une fiche-réponse](resources/clacoForm/create-files.md)
