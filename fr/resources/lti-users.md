@@ -1,6 +1,7 @@
 ### Les applications externes (LTI)
 ---
 
+![](images/ressources/Pack1_color1_LTI.png)
 
 Les applications externes peuvent être diverses et variées. Il serait donc très compliqué d'en faire une liste. Néanmoins, sachez que c'est l'administrateur de votre plateforme qui peut créer les ponts entre Claroline et ces applications. 
 
