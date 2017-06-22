@@ -13,3 +13,13 @@ Néanmoins, vous pouvez en créer manuellement afin de les utiliser dans vos pro
 Après avoir cliqué sur le "activité" dans le menu "ajouter", vous serez amené à compléter ce formulaire
 
 ![](images/activity-fig1.png)
+
+Vous devez entrer un **nom** et vous pouvez si vous le souhaitez ajourer également une **description** qui sera visible dans le "corps" du [parcours](manage-path.md). 
+
+Vous devez ensuite lier une **ressource** à cette activité. Vous pouvez associer n'importe quel type de ressource.
+
+Enfin vous pouvez préciser si l'activité doit être publiée ou pas. 
+
+Après avoir cliqué sur "ok" votre nouvelle activité sera disponible dans vos ressources. Il vous suffit alors de cliquer dessus pour pouvoir l'éditer.
+
+
