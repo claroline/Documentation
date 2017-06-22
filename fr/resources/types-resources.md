@@ -5,7 +5,7 @@ Claroline Connect propose de nombreuses ressources. En voici une liste détaill�
 
 * [Activité]()
 * [Annonces]()
-* [Applications externes]()
+* [Applications externes](images/ressources/Pack1_color1_directory.png)
 * [Base de données](clacoForm/form.md)
 * [Blog]()
 * [Cartes mémoires]()
