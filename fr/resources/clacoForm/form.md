@@ -5,8 +5,6 @@
 ![](../images/ressources/Pack1_color1_claroline_claco_form.png)
 
 
-<p style="color:blue; text-align: center">ClacoForm Fig.1 - Icône de la ressource Base de données.</p>
-
 La base de données est une ressource destinée à récolter des données, les partager et interagir autour de ces informations. 
 
 Les usages sont nombreux et on peut en lister quelques-uns de manière non-exhaustive: inscriptions à des évènements, gestion de co-voiturage, fiches de synthèse matière, enquêtes, gestion de bibliothèque ou encore recueil de témoignages.
