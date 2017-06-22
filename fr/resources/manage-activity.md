@@ -6,7 +6,7 @@ Les activités sont les éléments qui composent vos parcours pédagogiques. Si 
 
 Ces activités sont automatiquement générées lorsque vous développez des [parcours pédagogiques](manage-path.md).
 
-> C'est pour cela que nous vous conseillons de toujours créer vos parcours pédagogique dans un [sous-répertoire](manage-folder.md) dédié.
+> C'est pour cela que nous vous conseillons de toujours créer vos parcours pédagogique dans un [sous-répertoire](manage-folders.md) dédié.
 
 Néanmoins, vous pouvez en créer manuellement afin de les utiliser dans vos prochains [parcours](manage-path.md).
 
