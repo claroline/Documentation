@@ -54,7 +54,7 @@
   * [Gérer les droits d'accès aux ressources](resources/manage-rights-resources.md)
   * [Créer les rôles et les répertoires de ressources](resources/create-roles-directories.md)
   * [Les différents types de ressources](resources/types-resources.md)
-    * [Gérer et déposer des documents](resources/manage-documents.md)
+    * [Les fichiers](resources/manage-documents.md)
     * [La base de données](resources/clacoForm/form.md)
       * [Ajouter une fiche-réponse](resources/clacoForm/create-files.md)
       * [Gérer les fiches-réponses](resources/clacoForm/manage-files.md)
