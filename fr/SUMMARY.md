@@ -75,7 +75,7 @@
         * [Catégories](resources/clacoForm/form-categorys.md)
         * [Commentaires](resources/clacoForm/form-comments.md)
         * [Mots-clés](resources/clacoForm/form-keywords.md)
-    * [Les blogs](resources/manage-blog.md)    
+    * [Les blogs](resources/manage-blog.md)
     * [Les cartes mémoires](resources/manage-flashcard.md)
     * [Les chatrooms](resources/manage-chatroom.md)
     * [Les collecticiels](resources/manage-collecticiel.md)
