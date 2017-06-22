@@ -1,5 +1,7 @@
 ### Les applications externes (LTI)
 ---
+
+
 Les applications externes peuvent être diverses et variées. Il serait donc très compliqué d'en faire une liste. Néanmoins, sachez que c'est l'administrateur de votre plateforme qui peut créer les ponts entre Claroline et ces applications. 
 
 Pour voir les applications disponibles et en ajouter une à votre espace d'activités. Il suffit de dérouler le menu "ajouter".
