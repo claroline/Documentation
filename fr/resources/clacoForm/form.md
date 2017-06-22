@@ -1,4 +1,4 @@
-### La base de données
+### Les bases de données
 
 ---
 
