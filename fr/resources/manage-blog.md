@@ -43,6 +43,4 @@ Un clique sur le bouton "**+ nouvel article**" et votre travail d'auteur commenc
 
 ![](images/blog-fig7.png)
 
-
-
-
+A moins que vous ayez cocher **publier automatiquement les articles** dans les options, une fois l'article écrit, il faudra encore le rendre visible. 
