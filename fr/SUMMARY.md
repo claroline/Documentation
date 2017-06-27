@@ -82,7 +82,7 @@
     * [Les cours](resources/manage-lesson.md)
     * [L'enregistreur audio](resources/manage-audio_recorder.md)
     * [L'enregistreur vidéo](resources/manage-video_recorder.md)
-    * [Les fichiers](/fr/resources/manage-documents.md)
+    * [Les fichiers](resources/manage-documents.md)
     * [Les forums](resources/manage-forum.md)
     * [Les wikis](resources/manage-wiki.md)
     * [Les parcours "pédagogique"](resources/manage-blogs.md)
