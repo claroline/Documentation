@@ -40,11 +40,13 @@ Par défaut, il n'y a évidemment pas de sujets ("messages") dans votre forum. I
 
 ![](images/forum-fig8.png)
 
-Un **titre**, le **contenu** du message, un clic sur "ok" et le sujet est ajouté dans le forum
+Un **titre** pour le sujet, le **contenu** du premier message, un clic sur "ok" et le sujet est ajouté dans le forum
 
 ![](images/forum-fig9.png)
 
 Depuis le tableau, le message peut être supprimé par un gestionnaire ou par le créateur. Le bouton éditer permet aux mêmes conditions que la suppression de modifier le titre du message. Pour modifier son contenu, il faut ouvrir le sujet.
+
+Si un sujet à été ouvert dans la mauvaise catégorie du forum, le gestionnaire peut facilement le déplacer.
 
 Les gestionnaires ont également la possibilité d'**épingler** un message pour qu'il reste en en tête du forum. Il est également possible de **fermer** un sujet. Dès lors, il n'est plus possible d'y réagir.
 
@@ -54,7 +56,18 @@ Pour ouvrir le sujet, même principe que pour les catégories, il suffit de cliq
 
 Selon les droits que vous avez sur le sujet (gestionnaire, lecteur, auteur,..) une série d'actions vous sont proposées:
 
-* **Citer**
+* **Citer**: Ce bouton permet de répondre à un message en intégrant dans la réponse une copie du message.
+
+![](images/forum-fig13.png)
+
+* **Répondre**: Ce bouton permet de simplement ajouter un message à la suite du dernier.
+
+* ** Editer**: Ce bouton permet, pour les utilisateurs qui en ont le de droit, de modifier le contenu du message. Il n'est pas possible ici de modifier le titre vu que le titre est lié au sujet et pass aux messages qui sont contenus dans le sujet.
+
+* **Déplacer**: Ce bouton permet, pour les utilisateurs qui en ont le de droit, de déplacer le message dans un autre sujet.
+
+* **Supprimer**: Ce bouton sert à supprimer définitivement le message du forum.
+
 
 
 
