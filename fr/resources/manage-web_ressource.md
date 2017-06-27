@@ -9,6 +9,13 @@ Pour importer une nouvelle ressource web, il faut passer par le menu "ajouter" d
 
 ![](images/web-fig1.png)
 
+Le nom de l'archive que vous selectionnez sera automatiquement utilisé comme nom pour la ressource.
+
+Et voici un exemple avec le site claroline.net:
+
+![](images/web-fig2.png)
+
+
 > Il est important qu'un index.html soit présent à la racine de votre archive pour que cela fonctionne. 
 
 >Lorsque sur votre ordinateur vous faites un clic droit sur un dossier pour le compresser, il se peut que la structure nécessaire à l'importation de la ressource web ne soit plus respectée. Il est donc conseillé d'ouvrir le dossier contenant tous vos fichiers, de les sectionner tous et puis de faire clic droit -> compresser. 
