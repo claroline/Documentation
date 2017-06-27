@@ -27,6 +27,38 @@ Pour créer une nouvelle catégorie, il vous suffit de cliquer sur le bouton ad�
 
 ![](images/forum-fig3.png)
 
+Les deux autres boutons permettent:
+
+1° D'activer/désactiver les notifications globales, qui vous sont expliquées précédements.  
+2° Recevoir/ne plus recevoir les notifications. Ce dernier choix est un choix destiné à l'utilisateur.
+
+Cette première page étant, claire, nous pouvons rentrer dans une catégorie. Pour cela, il suffit de cliquer sur son nom.
+
+![](images/forum-fig7.png)
+
+Par défaut, il n'y a évidemment pas de sujets ("messages") dans votre forum. Il est très simple pour vous ou un utilisateur d'ajouter un nouveau sujet. Il suffit de cliquer sur le bouton bleu au dessus du tableau.
+
+![](images/forum-fig8.png)
+
+Un **titre**, le **contenu** du message, un clic sur "ok" et le sujet est ajouté dans le forum
+
+![](images/forum-fig9.png)
+
+Depuis le tableau, le message peut être supprimé par un gestionnaire ou par le créateur. Le bouton éditer permet aux mêmes conditions que la suppression de modifier le titre du message. Pour modifier son contenu, il faut ouvrir le sujet.
+
+Les gestionnaires ont également la possibilité d'**épingler** un message pour qu'il reste en en tête du forum. Il est également possible de **fermer** un sujet. Dès lors, il n'est plus possible d'y réagir.
+
+Pour ouvrir le sujet, même principe que pour les catégories, il suffit de cliquer sur nom.
+
+![](images/forum-fig10.png)
+
+Selon les droits que vous avez sur le sujet (gestionnaire, lecteur, auteur,..) une série d'actions vous sont proposées:
+
+* **Citer**
+
+
+
+
 
 
 
