@@ -85,7 +85,7 @@
     * [Les fichiers](resources/manage-documents.md)
     * [Les forums](resources/manage-forum.md)
     * [Les wikis](resources/manage-wiki.md)
-    * [Les parcours "pédagogique"](resources/manage-blogs.md)
+    * [Les parcours "pédagogiques"](resources/manage-blogs.md)
     * [Les questionnaires](resources/quiz/quiz.md)
       * [Créer un questionnaire](resources/quiz/create_quiz.md)
       * [Utiliser l'outil de texte riche](resources/quiz/rich_text_tool.md)
