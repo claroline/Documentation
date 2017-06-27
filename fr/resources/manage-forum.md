@@ -39,9 +39,6 @@ Pour créer une nouvelle catégorie, il vous suffit de cliquer sur le bouton ad�
 
 
 
-![](images/forum-fig4.png)
-
-![](images/forum-fig5.png)
 
 
 
@@ -50,23 +47,6 @@ Pour créer une nouvelle catégorie, il vous suffit de cliquer sur le bouton ad�
 
 
 
-
----
----
-
-
-
-
-![](images/forum-fig6.png)
-
-
-![](images/forum-fig7.png)
-
-
-![](images/forum-fig8.png)
-
-
-![](images/forum-fig9.png)
 
 
 
