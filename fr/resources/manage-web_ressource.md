@@ -15,6 +15,7 @@ Et voici un exemple avec le site claroline.net:
 
 ![](images/web-fig2.png)
 
+La double flèche permet à l'utilisateur d'afficher la ressource en plein écran.
 
 > Il est important qu'un index.html soit présent à la racine de votre archive pour que cela fonctionne. 
 
