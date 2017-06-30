@@ -4,4 +4,5 @@
 ![](images/ressources/Pack1_color1_claroline_survey.png)
 
 
-Cette section est en cours de rédaction.
+Dans un futur proche cette ressource sera fussionnée avec la ressource questionnaire.
+
