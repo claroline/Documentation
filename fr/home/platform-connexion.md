@@ -4,7 +4,7 @@
 
 Pour vous connecter à une plateforme, cliquez sur **Connexion** en haut à droite de la page d'accueil.
 
-![connexion.png](images/connexion.png)
+![connexion.PNG](images/connexion.PNG)
 
 <p>Dans la plupart des plateformes Claroline Connect, le bouton connexion est visible en haut à droite de la page d'accueil. Dans certains cas, il est également possible d'accéder aux espaces d'activités publics à partir de la même page.</p>
 
