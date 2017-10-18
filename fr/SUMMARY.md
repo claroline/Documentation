@@ -9,6 +9,7 @@
   * [Se connecter à une plateforme](home/platform-connexion.md)
   * [Gérer votre compte](home/your-account.md)
   * [Récupérer un mot de passe oublié  ](home/forgotten-password.md)
+  * [Connexion](home/connexion.md)
 * [Votre espace d'activités personnel](desktop/pers-wksp.md)
   * [La page d'accueil de votre espace personnel](desktop/pers-wksp-homepage.md)
   * [Gérer les onglets de la page d'accueil](desktop/home-tab.md)
@@ -175,6 +176,4 @@
   * [Ce qu'il reste à écrire](doc/remaining-articles.md)
   * [MarkDown](doc/markdown.md)
 * [Installer Claroline Connect](install/installation.md)
-
-
 
