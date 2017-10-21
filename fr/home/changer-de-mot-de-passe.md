@@ -12,9 +12,9 @@ Cliquez ensuite sur **Mon profil**.
 
 Cliquez ensuite sur la flèche à la droite de **Actions** et cliquez sur **Modifier le mot de passe**.
 
-![change_password.PNG](images/change_password.PNG)
+![changepassword.PNG](images/changepassword.PNG)
 
 Dans la fenêtre qui s'ouvre, indiquez votre mot de passe actuel et donnez votre nouveau mot de passe. Vous devrez le répéter par mesure de sécurité. Cliquez sur Editer et le tour est joué!
 
-![edit_password.PNG](images/edit_password.PNG)
+![editpassword.PNG](images/editpassword.PNG)
 
