@@ -2,15 +2,13 @@
 
 ---
 
-```markdown
 
-```
 
 Pour changer de mot de passe, cliquez d'abord sur la petite flèche à la droite de votre nom dans la barre de menu supérieure.
 
 Cliquez ensuite sur **Mon profil**.
 
-![](/fr/home/images/profil.PNG)
+![](/fr/home/images/change_password.PNG)
 
 Cliquez ensuite sur la flèche à la droite de **Actions** et cliquez sur **Modifier le mot de passe**.
 
